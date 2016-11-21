@@ -1,0 +1,296 @@
+.inputinfo {
+    font-size: xx-small;
+}
+
+#map-canvas {
+    height: 100%
+}
+
+.navbar-default {
+    background-image: url("/static/img/clouds1.jpg");
+}
+
+body {
+    background-color: #f0f0f0;
+!important;
+    background-image: url("/static/img/clouds1.jpg");
+}
+
+.angular-google-map-container {
+    height: 485px;
+}
+
+.map-marker-label {
+    position: absolute;
+    color: #111155;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+#browser-warning {
+    height: 2.5em;
+    background-color: #901218;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.st-sort-ascent:before {
+    content: '\25B2';
+}
+
+.st-sort-descent:before {
+    content: '\25BC';
+}
+
+#itinerariesInfo {
+    visibility: hidden;
+    width: 780px;
+    height: 330px;
+    background: white;
+    position: absolute;
+
+    padding: 10px;
+
+    border: solid #00d66c;
+}
+
+#mapInfo {
+    width: 400px;
+    height: 30px;
+    background: lightblue;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    padding: 3px;
+    border: solid dimgrey;
+}
+
+#itinerariesTableHolder {
+    overflow-y: scroll;
+    width: 760px;
+    height: 280px;
+}
+
+#spinner {
+    position: absolute;
+    top: 250px;
+    left: 400px;
+}
+
+.slice {
+    border-width: 1px;
+    border-style: solid;
+}
+
+.flightIcon {
+    float: left;
+    width: 21px;
+}
+
+.flightNo {
+    float: left;
+    width: 4em;
+}
+
+.flightDate {
+    float: left;
+    width: 5em;
+}
+
+.flightOrigin {
+    float: left;
+    width: 14em;
+}
+
+.flightDepTime {
+    float: left;
+    width: 4em;
+}
+
+.flightDest {
+    float: left;
+    width: 14em;
+}
+
+.flightArrTime {
+    float: left;
+    width: 4em;
+}
+
+.flightDiration {
+    float: left;
+    width: 4em;
+}
+
+#qapage {
+    padding: 20px;
+}
+
+.answer {
+    margin-bottom: 25px;
+}
+
+table.itinerariesTable {
+    table-layout: fixed;
+    width: 760px;
+}
+
+th.infoColumn, td.infoColumn {
+    width: 2em;
+}
+
+th.directColumn, td.directColumn {
+    width: 1em;
+}
+
+th.priceColumn, td.priceColumn {
+    width: 2.5em;
+}
+
+th.dateColunm, td.dateColunm {
+    width: 4em;
+}
+
+th.timeColunm, td.timeColunm {
+    width: 4em;
+}
+
+.googlemap {
+    height: 430px;
+}
+
+.map-container {
+    border: solid;
+}
+
+.mainq {
+    margin-top: 20px;
+}
+
+div#disclaimer {
+    padding: 30px;
+}
+
+div#about {
+    padding: 30px;
+}
+
+.trans {
+    color: #00d66c;
+}
+
+.wcig {
+    color: olive;
+    font-weight: 700
+}
+
+.bigger {
+    font-weight: 700;
+    font-size: large;
+}
+
+.navbar-primary .navbar {
+    border-bottom: none;
+}
+
+.navbar-primary .navbar .nav > li > a {
+    color: #00d66c;
+}
+
+.navbar-primary .navbar .nav > li > a:hover {
+    color: #fff;
+    background-color: #00d66c;
+}
+
+.navbar-primary .navbar .nav .active > a, .navbar .nav .active > a:hover {
+    color: #fff;
+    background-color: #00d66c;
+}
+
+.navbar-primary .navbar .nav li > a .caret, .tnav .navbar .nav li > a:hover .caret {
+    border-top-color: #fff;
+    border-bottom-color: #fff;
+}
+
+.navbar-primary .navbar .nav > li.dropdown.open.active > a:hover {
+}
+
+.navbar-primary .navbar .nav > li.dropdown.open > a {
+    color: #fff;
+    background-color: #00d66c;
+    border-color: #fff;
+}
+
+.navbar-primary .navbar .nav > li.dropdown.open.active > a:hover .caret, .tnav .navbar .nav > li.dropdown.open > a .caret {
+    border-top-color: #fff;
+}
+
+.navbar-primary .navbar .navbar-brand {
+    color: #fff;
+}
+
+.navbar-primary .navbar .nav.pull-right {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+.navbar-xs .navbar-primary .navbar {
+    min-height: 28px;
+    height: 28px;
+    padding-left: 20px;
+}
+
+.navbar-xs .navbar-primary .navbar .navbar-brand {
+    padding: 0px 12px;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.navbar-xs .navbar-primary .navbar .navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 28px;
+}
+
+.navbar-sm .navbar-primary .navbar {
+    min-height: 40px;
+    height: 40px;
+}
+
+.navbar-sm .navbar-primary .navbar .navbar-brand {
+    padding: 0px 12px;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.navbar-sm .navbar-primary .navbar .navbar-nav > li > a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 40px;
+}
+
+.carousel {
+    margin-top: 15px;
+}
+.carousel img {
+    width: 100px;
+}
+
+.inspiration {
+
+    float: left;
+    border: solid gray;
+    padding: 5px;
+    width: 120px;
+    height: 130px;
+    margin: 10px;
+
+}
+
+select {
+    font-weight: bold;
+    font-size: large;
+    background-color: #c9e2b3;
+}

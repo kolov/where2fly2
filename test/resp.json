@@ -1,0 +1,1922 @@
+[
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 160,
+        "carrier": "TK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T13:25:00.000Z",
+        "number": "1962",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 70,
+        "arrivalTime": "2015-11-27T21:45:00.000Z",
+        "departureTime": "2015-11-27T20:35:00.000Z",
+        "number": "2916",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 85,
+        "carrier": "TK",
+        "duration": 70,
+        "arrivalTime": "2015-11-29T08:10:00.000Z",
+        "departureTime": "2015-11-29T07:00:00.000Z",
+        "number": "2903",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 230,
+        "arrivalTime": "2015-11-29T12:25:00.000Z",
+        "departureTime": "2015-11-29T09:35:00.000Z",
+        "number": "1961",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 65,
+        "carrier": "TK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T13:25:00.000Z",
+        "number": "1962",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T20:20:00.000Z",
+        "departureTime": "2015-11-27T19:00:00.000Z",
+        "number": "2914",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 85,
+        "carrier": "TK",
+        "duration": 70,
+        "arrivalTime": "2015-11-29T08:10:00.000Z",
+        "departureTime": "2015-11-29T07:00:00.000Z",
+        "number": "2903",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 230,
+        "arrivalTime": "2015-11-29T12:25:00.000Z",
+        "departureTime": "2015-11-29T09:35:00.000Z",
+        "number": "1961",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 65,
+        "carrier": "TK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T13:25:00.000Z",
+        "number": "1962",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T20:20:00.000Z",
+        "departureTime": "2015-11-27T19:00:00.000Z",
+        "number": "2914",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 75,
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-29T18:30:00.000Z",
+        "departureTime": "2015-11-29T17:10:00.000Z",
+        "number": "2327",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 230,
+        "arrivalTime": "2015-11-29T22:35:00.000Z",
+        "departureTime": "2015-11-29T19:45:00.000Z",
+        "number": "1955",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 65,
+        "carrier": "TK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T13:25:00.000Z",
+        "number": "1962",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T20:20:00.000Z",
+        "departureTime": "2015-11-27T19:00:00.000Z",
+        "number": "2914",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 150,
+        "carrier": "TK",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T11:55:00.000Z",
+        "departureTime": "2015-11-29T10:40:00.000Z",
+        "number": "2313",
+        "aircraft": "330"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T17:10:00.000Z",
+        "departureTime": "2015-11-29T14:25:00.000Z",
+        "number": "1953",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 65,
+        "carrier": "TK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T13:25:00.000Z",
+        "number": "1962",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T20:20:00.000Z",
+        "departureTime": "2015-11-27T19:00:00.000Z",
+        "number": "2914",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 115,
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-29T12:30:00.000Z",
+        "departureTime": "2015-11-29T11:10:00.000Z",
+        "number": "2317",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T17:10:00.000Z",
+        "departureTime": "2015-11-29T14:25:00.000Z",
+        "number": "1953",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 160,
+        "carrier": "TK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T13:25:00.000Z",
+        "number": "1962",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 70,
+        "arrivalTime": "2015-11-27T21:45:00.000Z",
+        "departureTime": "2015-11-27T20:35:00.000Z",
+        "number": "2916",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 75,
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-29T18:30:00.000Z",
+        "departureTime": "2015-11-29T17:10:00.000Z",
+        "number": "2327",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 230,
+        "arrivalTime": "2015-11-29T22:35:00.000Z",
+        "departureTime": "2015-11-29T19:45:00.000Z",
+        "number": "1955",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 120,
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-27T19:20:00.000Z",
+        "departureTime": "2015-11-27T14:40:00.000Z",
+        "number": "1958",
+        "aircraft": "321"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T22:40:00.000Z",
+        "departureTime": "2015-11-27T21:20:00.000Z",
+        "number": "2342",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 85,
+        "carrier": "TK",
+        "duration": 70,
+        "arrivalTime": "2015-11-29T08:10:00.000Z",
+        "departureTime": "2015-11-29T07:00:00.000Z",
+        "number": "2903",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 230,
+        "arrivalTime": "2015-11-29T12:25:00.000Z",
+        "departureTime": "2015-11-29T09:35:00.000Z",
+        "number": "1961",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 160,
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-27T19:20:00.000Z",
+        "departureTime": "2015-11-27T14:40:00.000Z",
+        "number": "1958",
+        "aircraft": "321"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 70,
+        "arrivalTime": "2015-11-27T23:10:00.000Z",
+        "departureTime": "2015-11-27T22:00:00.000Z",
+        "number": "2344",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 85,
+        "carrier": "TK",
+        "duration": 70,
+        "arrivalTime": "2015-11-29T08:10:00.000Z",
+        "departureTime": "2015-11-29T07:00:00.000Z",
+        "number": "2903",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 230,
+        "arrivalTime": "2015-11-29T12:25:00.000Z",
+        "departureTime": "2015-11-29T09:35:00.000Z",
+        "number": "1961",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 120,
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-27T19:20:00.000Z",
+        "departureTime": "2015-11-27T14:40:00.000Z",
+        "number": "1958",
+        "aircraft": "321"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T22:40:00.000Z",
+        "departureTime": "2015-11-27T21:20:00.000Z",
+        "number": "2342",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 75,
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-29T18:30:00.000Z",
+        "departureTime": "2015-11-29T17:10:00.000Z",
+        "number": "2327",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 230,
+        "arrivalTime": "2015-11-29T22:35:00.000Z",
+        "departureTime": "2015-11-29T19:45:00.000Z",
+        "number": "1955",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 130,
+        "carrier": "PC",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T05:00:00.000Z",
+        "departureTime": "2015-11-27T00:35:00.000Z",
+        "number": "4478",
+        "aircraft": "320"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T08:30:00.000Z",
+        "departureTime": "2015-11-27T07:10:00.000Z",
+        "number": "4210",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 140,
+        "carrier": "PC",
+        "duration": 65,
+        "arrivalTime": "2015-11-29T16:50:00.000Z",
+        "departureTime": "2015-11-29T15:45:00.000Z",
+        "number": "119",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 240,
+        "arrivalTime": "2015-11-29T22:10:00.000Z",
+        "departureTime": "2015-11-29T19:10:00.000Z",
+        "number": "477",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 65,
+        "carrier": "PC",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T05:00:00.000Z",
+        "departureTime": "2015-11-27T00:35:00.000Z",
+        "number": "4478",
+        "aircraft": "320"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T07:25:00.000Z",
+        "departureTime": "2015-11-27T06:05:00.000Z",
+        "number": "114",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 140,
+        "carrier": "PC",
+        "duration": 65,
+        "arrivalTime": "2015-11-29T16:50:00.000Z",
+        "departureTime": "2015-11-29T15:45:00.000Z",
+        "number": "119",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 240,
+        "arrivalTime": "2015-11-29T22:10:00.000Z",
+        "departureTime": "2015-11-29T19:10:00.000Z",
+        "number": "477",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 175,
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-27T22:50:00.000Z",
+        "departureTime": "2015-11-27T18:10:00.000Z",
+        "number": "1954",
+        "aircraft": "321"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-28T03:05:00.000Z",
+        "departureTime": "2015-11-28T01:45:00.000Z",
+        "number": "2354",
+        "aircraft": "73H"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 85,
+        "carrier": "TK",
+        "duration": 70,
+        "arrivalTime": "2015-11-29T08:10:00.000Z",
+        "departureTime": "2015-11-29T07:00:00.000Z",
+        "number": "2903",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 230,
+        "arrivalTime": "2015-11-29T12:25:00.000Z",
+        "departureTime": "2015-11-29T09:35:00.000Z",
+        "number": "1961",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 65,
+        "carrier": "PC",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T05:00:00.000Z",
+        "departureTime": "2015-11-27T00:35:00.000Z",
+        "number": "4478",
+        "aircraft": "320"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T07:25:00.000Z",
+        "departureTime": "2015-11-27T06:05:00.000Z",
+        "number": "114",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 95,
+        "carrier": "PC",
+        "duration": 65,
+        "arrivalTime": "2015-11-29T08:55:00.000Z",
+        "departureTime": "2015-11-29T07:50:00.000Z",
+        "number": "115",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 240,
+        "arrivalTime": "2015-11-29T13:30:00.000Z",
+        "departureTime": "2015-11-29T10:30:00.000Z",
+        "number": "671",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 65,
+        "carrier": "PC",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T05:00:00.000Z",
+        "departureTime": "2015-11-27T00:35:00.000Z",
+        "number": "4478",
+        "aircraft": "320"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T07:25:00.000Z",
+        "departureTime": "2015-11-27T06:05:00.000Z",
+        "number": "114",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 195,
+        "carrier": "PC",
+        "duration": 65,
+        "arrivalTime": "2015-11-29T07:15:00.000Z",
+        "departureTime": "2015-11-29T06:10:00.000Z",
+        "number": "4119",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 240,
+        "arrivalTime": "2015-11-29T13:30:00.000Z",
+        "departureTime": "2015-11-29T10:30:00.000Z",
+        "number": "671",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 165,
+        "carrier": "PC",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T05:00:00.000Z",
+        "departureTime": "2015-11-27T00:35:00.000Z",
+        "number": "4478",
+        "aircraft": "320"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T09:05:00.000Z",
+        "departureTime": "2015-11-27T07:45:00.000Z",
+        "number": "4120",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 95,
+        "carrier": "PC",
+        "duration": 65,
+        "arrivalTime": "2015-11-29T08:55:00.000Z",
+        "departureTime": "2015-11-29T07:50:00.000Z",
+        "number": "115",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 240,
+        "arrivalTime": "2015-11-29T13:30:00.000Z",
+        "departureTime": "2015-11-29T10:30:00.000Z",
+        "number": "671",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 130,
+        "carrier": "PC",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T05:00:00.000Z",
+        "departureTime": "2015-11-27T00:35:00.000Z",
+        "number": "4478",
+        "aircraft": "320"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T08:30:00.000Z",
+        "departureTime": "2015-11-27T07:10:00.000Z",
+        "number": "4210",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 95,
+        "carrier": "PC",
+        "duration": 65,
+        "arrivalTime": "2015-11-29T08:55:00.000Z",
+        "departureTime": "2015-11-29T07:50:00.000Z",
+        "number": "115",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 240,
+        "arrivalTime": "2015-11-29T13:30:00.000Z",
+        "departureTime": "2015-11-29T10:30:00.000Z",
+        "number": "671",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 175,
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-27T22:50:00.000Z",
+        "departureTime": "2015-11-27T18:10:00.000Z",
+        "number": "1954",
+        "aircraft": "321"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-28T03:05:00.000Z",
+        "departureTime": "2015-11-28T01:45:00.000Z",
+        "number": "2354",
+        "aircraft": "73H"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 115,
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-29T12:30:00.000Z",
+        "departureTime": "2015-11-29T11:10:00.000Z",
+        "number": "2317",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T17:10:00.000Z",
+        "departureTime": "2015-11-29T14:25:00.000Z",
+        "number": "1953",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 175,
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-27T22:50:00.000Z",
+        "departureTime": "2015-11-27T18:10:00.000Z",
+        "number": "1954",
+        "aircraft": "321"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-28T03:05:00.000Z",
+        "departureTime": "2015-11-28T01:45:00.000Z",
+        "number": "2354",
+        "aircraft": "73H"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 200,
+        "carrier": "TK",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T16:25:00.000Z",
+        "departureTime": "2015-11-29T15:10:00.000Z",
+        "number": "2325",
+        "aircraft": "320"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 230,
+        "arrivalTime": "2015-11-29T22:35:00.000Z",
+        "departureTime": "2015-11-29T19:45:00.000Z",
+        "number": "1955",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 175,
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-27T22:50:00.000Z",
+        "departureTime": "2015-11-27T18:10:00.000Z",
+        "number": "1954",
+        "aircraft": "321"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-28T03:05:00.000Z",
+        "departureTime": "2015-11-28T01:45:00.000Z",
+        "number": "2354",
+        "aircraft": "73H"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 75,
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-29T18:30:00.000Z",
+        "departureTime": "2015-11-29T17:10:00.000Z",
+        "number": "2327",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 230,
+        "arrivalTime": "2015-11-29T22:35:00.000Z",
+        "departureTime": "2015-11-29T19:45:00.000Z",
+        "number": "1955",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 175,
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-27T22:50:00.000Z",
+        "departureTime": "2015-11-27T18:10:00.000Z",
+        "number": "1954",
+        "aircraft": "321"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-28T03:05:00.000Z",
+        "departureTime": "2015-11-28T01:45:00.000Z",
+        "number": "2354",
+        "aircraft": "73H"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 150,
+        "carrier": "TK",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T11:55:00.000Z",
+        "departureTime": "2015-11-29T10:40:00.000Z",
+        "number": "2313",
+        "aircraft": "330"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T17:10:00.000Z",
+        "departureTime": "2015-11-29T14:25:00.000Z",
+        "number": "1953",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 65,
+        "carrier": "TK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T13:25:00.000Z",
+        "number": "1962",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T20:20:00.000Z",
+        "departureTime": "2015-11-27T19:00:00.000Z",
+        "number": "2914",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 105,
+        "carrier": "TK",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T09:15:00.000Z",
+        "departureTime": "2015-11-29T08:00:00.000Z",
+        "number": "2309",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-29T13:40:00.000Z",
+        "departureTime": "2015-11-29T11:00:00.000Z",
+        "number": "1957",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 55,
+        "carrier": "PC",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T18:50:00.000Z",
+        "departureTime": "2015-11-27T14:25:00.000Z",
+        "number": "672",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T21:05:00.000Z",
+        "departureTime": "2015-11-27T19:45:00.000Z",
+        "number": "122",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 140,
+        "carrier": "PC",
+        "duration": 65,
+        "arrivalTime": "2015-11-29T16:50:00.000Z",
+        "departureTime": "2015-11-29T15:45:00.000Z",
+        "number": "119",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 240,
+        "arrivalTime": "2015-11-29T22:10:00.000Z",
+        "departureTime": "2015-11-29T19:10:00.000Z",
+        "number": "477",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 175,
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-27T22:50:00.000Z",
+        "departureTime": "2015-11-27T18:10:00.000Z",
+        "number": "1954",
+        "aircraft": "321"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 80,
+        "arrivalTime": "2015-11-28T03:05:00.000Z",
+        "departureTime": "2015-11-28T01:45:00.000Z",
+        "number": "2354",
+        "aircraft": "73H"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 105,
+        "carrier": "TK",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T09:15:00.000Z",
+        "departureTime": "2015-11-29T08:00:00.000Z",
+        "number": "2309",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 220,
+        "arrivalTime": "2015-11-29T13:40:00.000Z",
+        "departureTime": "2015-11-29T11:00:00.000Z",
+        "number": "1957",
+        "aircraft": "321"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 55,
+        "carrier": "PC",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T18:50:00.000Z",
+        "departureTime": "2015-11-27T14:25:00.000Z",
+        "number": "672",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T21:05:00.000Z",
+        "departureTime": "2015-11-27T19:45:00.000Z",
+        "number": "122",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 195,
+        "carrier": "PC",
+        "duration": 65,
+        "arrivalTime": "2015-11-29T07:15:00.000Z",
+        "departureTime": "2015-11-29T06:10:00.000Z",
+        "number": "4119",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 240,
+        "arrivalTime": "2015-11-29T13:30:00.000Z",
+        "departureTime": "2015-11-29T10:30:00.000Z",
+        "number": "671",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 55,
+        "carrier": "PC",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T18:50:00.000Z",
+        "departureTime": "2015-11-27T14:25:00.000Z",
+        "number": "672",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T21:05:00.000Z",
+        "departureTime": "2015-11-27T19:45:00.000Z",
+        "number": "122",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 95,
+        "carrier": "PC",
+        "duration": 65,
+        "arrivalTime": "2015-11-29T08:55:00.000Z",
+        "departureTime": "2015-11-29T07:50:00.000Z",
+        "number": "115",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 240,
+        "arrivalTime": "2015-11-29T13:30:00.000Z",
+        "departureTime": "2015-11-29T10:30:00.000Z",
+        "number": "671",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "SAW",
+        "origin": "AMS",
+        "connectionDuration": 160,
+        "carrier": "PC",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T18:50:00.000Z",
+        "departureTime": "2015-11-27T14:25:00.000Z",
+        "number": "672",
+        "aircraft": "738"
+      },
+      {
+        "destination": "ADB",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 80,
+        "arrivalTime": "2015-11-27T22:50:00.000Z",
+        "departureTime": "2015-11-27T21:30:00.000Z",
+        "number": "4112",
+        "aircraft": "320"
+      }
+    ],
+    [
+      {
+        "destination": "SAW",
+        "origin": "ADB",
+        "connectionDuration": 95,
+        "carrier": "PC",
+        "duration": 65,
+        "arrivalTime": "2015-11-29T08:55:00.000Z",
+        "departureTime": "2015-11-29T07:50:00.000Z",
+        "number": "115",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "SAW",
+        "carrier": "PC",
+        "duration": 240,
+        "arrivalTime": "2015-11-29T13:30:00.000Z",
+        "departureTime": "2015-11-29T10:30:00.000Z",
+        "number": "671",
+        "aircraft": "738"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 105,
+        "carrier": "KK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T15:45:00.000Z",
+        "departureTime": "2015-11-27T11:15:00.000Z",
+        "number": "6040",
+        "aircraft": "320"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-27T18:30:00.000Z",
+        "departureTime": "2015-11-27T17:30:00.000Z",
+        "number": "26",
+        "aircraft": "321"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 1120,
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-29T12:55:00.000Z",
+        "departureTime": "2015-11-29T11:55:00.000Z",
+        "number": "23",
+        "aircraft": "321"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 220,
+        "arrivalTime": "2015-11-30T10:15:00.000Z",
+        "departureTime": "2015-11-30T07:35:00.000Z",
+        "number": "6041",
+        "aircraft": "320"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 350,
+        "carrier": "KK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T15:45:00.000Z",
+        "departureTime": "2015-11-27T11:15:00.000Z",
+        "number": "6040",
+        "aircraft": "320"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 55,
+        "arrivalTime": "2015-11-27T22:30:00.000Z",
+        "departureTime": "2015-11-27T21:35:00.000Z",
+        "number": "28",
+        "aircraft": "321"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 1120,
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-29T12:55:00.000Z",
+        "departureTime": "2015-11-29T11:55:00.000Z",
+        "number": "23",
+        "aircraft": "321"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 220,
+        "arrivalTime": "2015-11-30T10:15:00.000Z",
+        "departureTime": "2015-11-30T07:35:00.000Z",
+        "number": "6041",
+        "aircraft": "320"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 105,
+        "carrier": "KK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T15:45:00.000Z",
+        "departureTime": "2015-11-27T11:15:00.000Z",
+        "number": "6040",
+        "aircraft": "320"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-27T18:30:00.000Z",
+        "departureTime": "2015-11-27T17:30:00.000Z",
+        "number": "26",
+        "aircraft": "321"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 665,
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-29T20:30:00.000Z",
+        "departureTime": "2015-11-29T19:30:00.000Z",
+        "number": "27",
+        "aircraft": "320"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 220,
+        "arrivalTime": "2015-11-30T10:15:00.000Z",
+        "departureTime": "2015-11-30T07:35:00.000Z",
+        "number": "6041",
+        "aircraft": "320"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 350,
+        "carrier": "KK",
+        "duration": 210,
+        "arrivalTime": "2015-11-27T15:45:00.000Z",
+        "departureTime": "2015-11-27T11:15:00.000Z",
+        "number": "6040",
+        "aircraft": "320"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 55,
+        "arrivalTime": "2015-11-27T22:30:00.000Z",
+        "departureTime": "2015-11-27T21:35:00.000Z",
+        "number": "28",
+        "aircraft": "321"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 665,
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-29T20:30:00.000Z",
+        "departureTime": "2015-11-29T19:30:00.000Z",
+        "number": "27",
+        "aircraft": "320"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 220,
+        "arrivalTime": "2015-11-30T10:15:00.000Z",
+        "departureTime": "2015-11-30T07:35:00.000Z",
+        "number": "6041",
+        "aircraft": "320"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 185,
+        "carrier": "KL",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T15:55:00.000Z",
+        "departureTime": "2015-11-27T11:30:00.000Z",
+        "number": "1613",
+        "aircraft": "73H"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "AT",
+        "duration": 70,
+        "arrivalTime": "2015-11-27T20:10:00.000Z",
+        "departureTime": "2015-11-27T19:00:00.000Z",
+        "number": "9428",
+        "aircraft": "333"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 145,
+        "carrier": "AT",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T14:20:00.000Z",
+        "departureTime": "2015-11-29T13:05:00.000Z",
+        "number": "9432",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KL",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T19:30:00.000Z",
+        "departureTime": "2015-11-29T16:45:00.000Z",
+        "number": "1614",
+        "aircraft": "73W"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 95,
+        "carrier": "KL",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T15:55:00.000Z",
+        "departureTime": "2015-11-27T11:30:00.000Z",
+        "number": "1613",
+        "aircraft": "73H"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-27T18:30:00.000Z",
+        "departureTime": "2015-11-27T17:30:00.000Z",
+        "number": "26",
+        "aircraft": "321"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 145,
+        "carrier": "AT",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T14:20:00.000Z",
+        "departureTime": "2015-11-29T13:05:00.000Z",
+        "number": "9432",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KL",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T19:30:00.000Z",
+        "departureTime": "2015-11-29T16:45:00.000Z",
+        "number": "1614",
+        "aircraft": "73W"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 95,
+        "carrier": "KL",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T15:55:00.000Z",
+        "departureTime": "2015-11-27T11:30:00.000Z",
+        "number": "1613",
+        "aircraft": "73H"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-27T18:30:00.000Z",
+        "departureTime": "2015-11-27T17:30:00.000Z",
+        "number": "26",
+        "aircraft": "321"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 230,
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-29T12:55:00.000Z",
+        "departureTime": "2015-11-29T11:55:00.000Z",
+        "number": "23",
+        "aircraft": "321"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KL",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T19:30:00.000Z",
+        "departureTime": "2015-11-29T16:45:00.000Z",
+        "number": "1614",
+        "aircraft": "73W"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 95,
+        "carrier": "KL",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T15:55:00.000Z",
+        "departureTime": "2015-11-27T11:30:00.000Z",
+        "number": "1613",
+        "aircraft": "73H"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-27T18:30:00.000Z",
+        "departureTime": "2015-11-27T17:30:00.000Z",
+        "number": "26",
+        "aircraft": "321"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 255,
+        "carrier": "AT",
+        "duration": 80,
+        "arrivalTime": "2015-11-29T12:30:00.000Z",
+        "departureTime": "2015-11-29T11:10:00.000Z",
+        "number": "9431",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KL",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T19:30:00.000Z",
+        "departureTime": "2015-11-29T16:45:00.000Z",
+        "number": "1614",
+        "aircraft": "73W"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "ATH",
+        "origin": "AMS",
+        "connectionDuration": 50,
+        "carrier": "KL",
+        "duration": 190,
+        "arrivalTime": "2015-11-27T16:10:00.000Z",
+        "departureTime": "2015-11-27T12:00:00.000Z",
+        "number": "1575",
+        "aircraft": "73W"
+      },
+      {
+        "destination": "ADB",
+        "origin": "ATH",
+        "carrier": "A3",
+        "duration": 55,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T17:00:00.000Z",
+        "number": "996",
+        "aircraft": "DH4"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 145,
+        "carrier": "AT",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T14:20:00.000Z",
+        "departureTime": "2015-11-29T13:05:00.000Z",
+        "number": "9432",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KL",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T19:30:00.000Z",
+        "departureTime": "2015-11-29T16:45:00.000Z",
+        "number": "1614",
+        "aircraft": "73W"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "ATH",
+        "origin": "AMS",
+        "connectionDuration": 50,
+        "carrier": "KL",
+        "duration": 190,
+        "arrivalTime": "2015-11-27T16:10:00.000Z",
+        "departureTime": "2015-11-27T12:00:00.000Z",
+        "number": "1575",
+        "aircraft": "73W"
+      },
+      {
+        "destination": "ADB",
+        "origin": "ATH",
+        "carrier": "A3",
+        "duration": 55,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T17:00:00.000Z",
+        "number": "996",
+        "aircraft": "DH4"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 255,
+        "carrier": "AT",
+        "duration": 80,
+        "arrivalTime": "2015-11-29T12:30:00.000Z",
+        "departureTime": "2015-11-29T11:10:00.000Z",
+        "number": "9431",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KL",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T19:30:00.000Z",
+        "departureTime": "2015-11-29T16:45:00.000Z",
+        "number": "1614",
+        "aircraft": "73W"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "ATH",
+        "origin": "AMS",
+        "connectionDuration": 50,
+        "carrier": "KL",
+        "duration": 190,
+        "arrivalTime": "2015-11-27T16:10:00.000Z",
+        "departureTime": "2015-11-27T12:00:00.000Z",
+        "number": "1575",
+        "aircraft": "73W"
+      },
+      {
+        "destination": "ADB",
+        "origin": "ATH",
+        "carrier": "A3",
+        "duration": 55,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T17:00:00.000Z",
+        "number": "996",
+        "aircraft": "DH4"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 230,
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-29T12:55:00.000Z",
+        "departureTime": "2015-11-29T11:55:00.000Z",
+        "number": "23",
+        "aircraft": "321"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KL",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T19:30:00.000Z",
+        "departureTime": "2015-11-29T16:45:00.000Z",
+        "number": "1614",
+        "aircraft": "73W"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 125,
+        "carrier": "KL",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T15:55:00.000Z",
+        "departureTime": "2015-11-27T11:30:00.000Z",
+        "number": "1613",
+        "aircraft": "73H"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "TK",
+        "duration": 70,
+        "arrivalTime": "2015-11-27T19:10:00.000Z",
+        "departureTime": "2015-11-27T18:00:00.000Z",
+        "number": "2334",
+        "aircraft": "738"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 145,
+        "carrier": "AT",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T14:20:00.000Z",
+        "departureTime": "2015-11-29T13:05:00.000Z",
+        "number": "9432",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KL",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T19:30:00.000Z",
+        "departureTime": "2015-11-29T16:45:00.000Z",
+        "number": "1614",
+        "aircraft": "73W"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "IST",
+        "origin": "AMS",
+        "connectionDuration": 95,
+        "carrier": "KL",
+        "duration": 205,
+        "arrivalTime": "2015-11-27T15:55:00.000Z",
+        "departureTime": "2015-11-27T11:30:00.000Z",
+        "number": "1613",
+        "aircraft": "73H"
+      },
+      {
+        "destination": "ADB",
+        "origin": "IST",
+        "carrier": "KK",
+        "duration": 60,
+        "arrivalTime": "2015-11-27T18:30:00.000Z",
+        "departureTime": "2015-11-27T17:30:00.000Z",
+        "number": "26",
+        "aircraft": "321"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 145,
+        "carrier": "TK",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T14:20:00.000Z",
+        "departureTime": "2015-11-29T13:05:00.000Z",
+        "number": "2321",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KL",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T19:30:00.000Z",
+        "departureTime": "2015-11-29T16:45:00.000Z",
+        "number": "1614",
+        "aircraft": "73W"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "destination": "ATH",
+        "origin": "AMS",
+        "connectionDuration": 50,
+        "carrier": "KL",
+        "duration": 190,
+        "arrivalTime": "2015-11-27T16:10:00.000Z",
+        "departureTime": "2015-11-27T12:00:00.000Z",
+        "number": "1575",
+        "aircraft": "73W"
+      },
+      {
+        "destination": "ADB",
+        "origin": "ATH",
+        "carrier": "A3",
+        "duration": 55,
+        "arrivalTime": "2015-11-27T17:55:00.000Z",
+        "departureTime": "2015-11-27T17:00:00.000Z",
+        "number": "996",
+        "aircraft": "DH4"
+      }
+    ],
+    [
+      {
+        "destination": "IST",
+        "origin": "ADB",
+        "connectionDuration": 145,
+        "carrier": "TK",
+        "duration": 75,
+        "arrivalTime": "2015-11-29T14:20:00.000Z",
+        "departureTime": "2015-11-29T13:05:00.000Z",
+        "number": "2321",
+        "aircraft": "738"
+      },
+      {
+        "destination": "AMS",
+        "origin": "IST",
+        "carrier": "KL",
+        "duration": 225,
+        "arrivalTime": "2015-11-29T19:30:00.000Z",
+        "departureTime": "2015-11-29T16:45:00.000Z",
+        "number": "1614",
+        "aircraft": "73W"
+      }
+    ]
+  ]
+]

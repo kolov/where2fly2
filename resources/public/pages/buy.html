@@ -1,0 +1,23 @@
+<div class="panel primary ">
+
+    <div class="modal-header">
+        <h3 class="modal-title">Buy the ticket</h3>
+    </div>
+    <div class="modal-body">
+        <div>Thank you for using this site!</div>
+        <div>Buy your tickets from
+            <a ng-if="itinerary.group==='transavia'" ng-click="buy()" href="#">Transavia</a>
+            <a ng-if="itinerary.group!=='transavia'" ng-click="buy()" href="#">Wtc</a>
+
+        </div>
+    </div>
+
+
+    <div class="modal-footer">
+        <div class="pull-right">
+            <button type="button" class="btn btn-default" ng-click="close()">
+                Close
+            </button>
+        </div>
+    </div>
+</div>

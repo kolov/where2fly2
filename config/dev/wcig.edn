@@ -1,0 +1,81 @@
+{
+ ; servername -> configuration-name
+ :configurations {
+                  "transavia.wcig"           "transavia"
+                  "holidays.wcig"            "holidays"
+                  "transavia.where2fly2.com" "transavia"
+                  "holidays.where2fly2.com"  "holidays"
+                  }
+ ; application name -> application URL
+ :applications
+                 {
+                  "transavia.wcig"           [
+                                              {
+                                               :id       "transavia"
+                                               :headline "See all Transavia flights in the coming months at once"
+                                               :selected true
+                                               :href     "http://transavia.wcig:3000"
+                                               }
+                                              {
+                                               :id       "holidays"
+                                               :headline "See some cool holiday destinations in the coming months"
+                                               :selected false
+                                               :href     "http://holidays.wcig:3000"
+                                               }
+                                              ]
+                  "holidays.wcig"            [
+                                              {
+                                               :id       "holidays"
+                                               :headline "See some cool holiday destinations in the coming months"
+                                               :selected true
+                                               :href     "http://holidays.wcig:3000"
+                                               }
+                                              {:id       "transavia"
+                                               :headline "See all Transavia flights in the coming months at once"
+                                               :selected false
+                                               :href     "http://transavia.wcig:3000"
+                                               }
+                                              ]
+                  "transavia.where2fly2.com" [
+                                              {
+                                               :id       "transavia"
+                                               :headline "See all Transavia flights in the coming months at once"
+                                               :selected true
+                                               }
+                                              {
+                                               :id       "holidays"
+                                               :headline "See some cool holiday destinations in the coming months"
+                                               :selected false
+                                               :href     "http://holidays.where2fly2.com"
+                                               }
+                                              ]
+                  "where2fly2.com"           [
+                                              {
+                                               :id       "transavia"
+                                               :headline "See all Transavia flights in the coming months at once"
+                                               :selected true
+                                               }
+                                              {
+                                               :id       "holidays"
+                                               :headline "See some cool holiday destinations in the coming months"
+                                               :selected false
+                                               :href     "http://holidays.where2fly2.com"
+                                               }
+                                              ]
+                  "holidays.where2fly2.com"  [
+                                              {
+                                               :id       "holidays"
+                                               :headline "See some cool holiday destinations in the coming months"
+                                               :selected true
+                                               }
+                                              {
+                                               :id       "transavia"
+                                               :headline "See all Transavia flights in the coming months at once"
+                                               :selected false
+                                               :href     "http://transavia.where2fly2.com"
+                                               }
+
+                                              ]
+                  }
+
+ }

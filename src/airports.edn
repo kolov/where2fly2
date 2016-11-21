@@ -1,0 +1,5901 @@
+[
+ {:long_name    "Yakima Air Terminal",
+  :country-code "US",
+  :city-code    "YKM",
+  :location     {:lng -120.5441667, :lat 46.56805556},
+  :code         "YKM"}
+ {:long_name    "Tunxi",
+  :country-code "CN",
+  :city-code    "TXN",
+  :location     {:lng 118.3, :lat 29.73333333},
+  :code         "TXN"}
+ {:long_name    "Wausau",
+  :country-code "US",
+  :city-code    "AUW",
+  :location     {:lng -89.62305556, :lat 44.92333333},
+  :code         "AUW"}
+ {:long_name    "Taichung",
+  :country-code "TW",
+  :city-code    "TXG",
+  :location     {:lng 120.6461111, :lat 24.14972222},
+  :code         "TXG"}
+ {:long_name    "Liuzhou",
+  :country-code "CN",
+  :city-code    "LZH",
+  :location     {:lng 109.5333333, :lat 24.36666667},
+  :code         "LZH"}
+ {:long_name    "Brazzaville",
+  :country-code "CG",
+  :city-code    "BZV",
+  :location     {:lng 15.25472222, :lat -4.251944444},
+  :code         "BZV"}
+ {:long_name    "Gaspe",
+  :country-code "CA",
+  :city-code    "YGP",
+  :location     {:lng -64.47861111, :lat 48.77527778},
+  :code         "YGP"}
+ {:long_name    "Tawau",
+  :country-code "MY",
+  :city-code    "TWU",
+  :location     {:lng 117.8844444, :lat 4.264166667},
+  :code         "TWU"}
+ {:long_name    "Tehran - Imam Khomeini Intl",
+  :country-code "IR",
+  :city-code    "THR",
+  :location     {:lng 51.15083333, :lat 35.40972222},
+  :code         "IKA"}
+ {:long_name    "Bozeman",
+  :country-code "US",
+  :city-code    "BZN",
+  :location     {:lng -111.1594444, :lat 45.78027778},
+  :code         "BZN"}
+ {:long_name    "Iles De La Madeleine",
+  :country-code "CA",
+  :city-code    "YGR",
+  :location     {:lng -61.77805556, :lat 47.42472222},
+  :code         "YGR"}
+ {:long_name    "Oita",
+  :country-code "JP",
+  :city-code    "OIT",
+  :location     {:lng 131.7397222, :lat 33.47611111},
+  :code         "OIT"}
+ {:long_name    "Belize City - Goldson International",
+  :country-code "BZ",
+  :city-code    "BZE",
+  :location     {:lng -88.30833333, :lat 17.53916667},
+  :code         "BZE"}
+ {:long_name    "Oshima",
+  :country-code "JP",
+  :city-code    "OIM",
+  :location     {:lng 139.365, :lat 34.77916667},
+  :code         "OIM"}
+ {:long_name    "Grand Junction, CO",
+  :country-code "US",
+  :city-code    "GJT",
+  :location     {:lng -108.5138889, :lat 39.11861111},
+  :code         "GJT"}
+ {:long_name    "Akita",
+  :country-code "JP",
+  :city-code    "AXT",
+  :location     {:lng 140.2186111, :lat 39.61555556},
+  :code         "AXT"}
+ {:long_name    "Halifax - International",
+  :country-code "CA",
+  :city-code    "YHZ",
+  :location     {:lng -63.50861111, :lat 44.88083333},
+  :code         "YHZ"}
+ {:long_name    "Axum",
+  :country-code "ET",
+  :city-code    "AXU",
+  :location     {:lng 38.77277778, :lat 14.14666667},
+  :code         "AXU"}
+ {:long_name    "Lviv",
+  :country-code "UA",
+  :city-code    "LWO",
+  :location     {:lng 23.95611111, :lat 49.8125},
+  :code         "LWO"}
+ {:long_name    "Lewiston",
+  :country-code "US",
+  :city-code    "LWS",
+  :location     {:lng -117.0144444, :lat 46.37472222},
+  :code         "LWS"}
+ {:long_name    "Armenia",
+  :country-code "CO",
+  :city-code    "AXM",
+  :location     {:lng -75.76805556, :lat 4.456388889},
+  :code         "AXM"}
+ {:long_name    "Yichang",
+  :country-code "CN",
+  :city-code    "YIH",
+  :location     {:lng 111.1833333, :lat 30.7},
+  :code         "YIH"}
+ {:long_name    "Alexandroupolis",
+  :country-code "GR",
+  :city-code    "AXD",
+  :location     {:lng 25.95638889, :lat 40.85583333},
+  :code         "AXD"}
+ {:long_name    "Dayong",
+  :country-code "CN",
+  :city-code    "ZHA",
+  :location     {:lng 110.4833333, :lat 28.13333333},
+  :code         "DYG"}
+ {:long_name    "Glasgow",
+  :country-code "GB",
+  :city-code    "GLA",
+  :location     {:lng -6.216666667, :lat 56.06666667},
+  :code         "GLA"}
+ {:long_name    "Traverse City",
+  :country-code "US",
+  :city-code    "TVC",
+  :location     {:lng -85.58555556, :lat 44.74},
+  :code         "TVC"}
+ {:long_name    "Iqaluit",
+  :country-code "CA",
+  :city-code    "YFB",
+  :location     {:lng -68.56388889, :lat 63.75222222},
+  :code         "YFB"}
+ {:long_name    "Fredericton",
+  :country-code "CA",
+  :city-code    "YFC",
+  :location     {:lng -66.53333333, :lat 45.86666667},
+  :code         "YFC"}
+ {:long_name    "Medford, OR",
+  :country-code "US",
+  :city-code    "MFR",
+  :location     {:lng -122.8722222, :lat 42.37361111},
+  :code         "MFR"}
+ {:long_name    "Juba",
+  :country-code "SS",
+  :city-code    "JUB",
+  :location     {:lng 31.60388889, :lat 4.870555556},
+  :code         "JUB"}
+ {:long_name    "Guadalajara",
+  :country-code "MX",
+  :city-code    "GDL",
+  :location     {:lng -103.3125, :lat 20.52388889},
+  :code         "GDL"}
+ {:long_name    "Kahului, HI",
+  :country-code "US",
+  :city-code    "OGG",
+  :location     {:lng -156.4336111, :lat 20.90055556},
+  :code         "OGG"}
+ {:long_name    "Gode",
+  :country-code "ET",
+  :city-code    "GDE",
+  :location     {:lng 43.62833333, :lat 5.902222222},
+  :code         "GDE"}
+ {:long_name    "Yanji",
+  :country-code "CN",
+  :city-code    "YNJ",
+  :location     {:lng 129.4513889, :lat 42.88277778},
+  :code         "YNJ"}
+ {:long_name    "Gonder",
+  :country-code "ET",
+  :city-code    "GDQ",
+  :location     {:lng 37.44555556, :lat 12.51444444},
+  :code         "GDQ"}
+ {:long_name    "Wilmington",
+  :country-code "US",
+  :city-code    "ILM",
+  :location     {:lng -77.90388889, :lat 34.26694444},
+  :code         "ILM"}
+ {:long_name    "Gdansk",
+  :country-code "PL",
+  :city-code    "GDN",
+  :location     {:lng 18.46611111, :lat 54.3775},
+  :code         "GDN"}
+ {:long_name    "Yantai",
+  :country-code "CN",
+  :city-code    "YNT",
+  :location     {:lng 121.3716667, :lat 37.40166667},
+  :code         "YNT"}
+ {:long_name    "Killeen Municipal",
+  :country-code "US",
+  :city-code    "ILE",
+  :location     {:lng -97.68666667, :lat 31.08638889},
+  :code         "ILE"}
+ {:long_name    "Thira",
+  :country-code "GR",
+  :city-code    "JTR",
+  :location     {:lng 25.47722222, :lat 36.40638889},
+  :code         "JTR"}
+ {:long_name    "Yancheng",
+  :country-code "CN",
+  :city-code    "YNZ",
+  :location     {:lng 130.6166667, :lat 35.36666667},
+  :code         "YNZ"}
+ {:long_name    "Yinchuan",
+  :country-code "CN",
+  :city-code    "INC",
+  :location     {:lng 106.2166667, :lat 38.48333333},
+  :code         "INC"}
+ {:long_name    "Indianapolis International, IN",
+  :country-code "US",
+  :city-code    "IND",
+  :location     {:lng -86.28388889, :lat 39.72555556},
+  :code         "IND"}
+ {:long_name    "Brasilia International",
+  :country-code "BR",
+  :city-code    "BSB",
+  :location     {:lng -47.91527778, :lat -15.86055556},
+  :code         "BSB"}
+ {:long_name    "Arica",
+  :country-code "CL",
+  :city-code    "ARI",
+  :location     {:lng -70.33805556, :lat -18.33305556},
+  :code         "ARI"}
+ {:long_name    "Spokane International, WA",
+  :country-code "US",
+  :city-code    "GEG",
+  :location     {:lng -117.5327778, :lat 47.62},
+  :code         "GEG"}
+ {:long_name    "Stockholm",
+  :country-code "SE",
+  :city-code    "STO",
+  :location     {:lng 17.93388889, :lat 59.66194444},
+  :code         "ARN"}
+ {:long_name    "Basel Euroairport",
+  :country-code "CH",
+  :city-code    "BSL",
+  :location     {:lng 7.53, :lat 47.59},
+  :code         "BSL"}
+ {:long_name    "Brussels - Airport",
+  :country-code "BE",
+  :city-code    "BRU",
+  :location     {:lng 4.494166667, :lat 50.90166667},
+  :code         "BRU"}
+ {:long_name    "Barrow Wbas",
+  :country-code "US",
+  :city-code    "BRW",
+  :location     {:lng -156.7661111, :lat 71.28555556},
+  :code         "BRW"}
+ {:long_name    "Bristol",
+  :country-code "GB",
+  :city-code    "BRS",
+  :location     {:lng -2.719166667, :lat 51.38277778},
+  :code         "BRS"}
+ {:long_name    "Imphal",
+  :country-code "IN",
+  :city-code    "IMF",
+  :location     {:lng 93.89972222, :lat 24.76111111},
+  :code         "IMF"}
+ {:long_name    "Ioannina",
+  :country-code "GR",
+  :city-code    "IOA",
+  :location     {:lng 20.8225, :lat 39.69638889},
+  :code         "IOA"}
+ {:long_name    "Aspen, CO",
+  :country-code "US",
+  :city-code    "ASE",
+  :location     {:lng -106.8688889, :lat 39.22416667},
+  :code         "ASE"}
+ {:long_name    "Ashgabad - S. Turkmenbashy Int'l",
+  :country-code "TM",
+  :city-code    "ASB",
+  :location     {:lng 58.36083333, :lat 37.98166667},
+  :code         "ASB"}
+ {:long_name    "Asosa",
+  :country-code "ET",
+  :city-code    "ASO",
+  :location     {:lng 34.53666667, :lat 10.04722222},
+  :code         "ASO"}
+ {:long_name    "Asmara",
+  :country-code "ER",
+  :city-code    "ASM",
+  :location     {:lng 38.90888889, :lat 15.29333333},
+  :code         "ASM"}
+ {:long_name    "Arad",
+  :country-code "RO",
+  :city-code    "ARW",
+  :location     {:lng 21.26194444, :lat 46.17666667},
+  :code         "ARW"}
+ {:long_name    "Innsbruck - Kranebitten",
+  :country-code "AT",
+  :city-code    "INN",
+  :location     {:lng 11.34722222, :lat 47.26083333},
+  :code         "INN"}
+ {:long_name    "Jorhat",
+  :country-code "IN",
+  :city-code    "JRH",
+  :location     {:lng 94.17777778, :lat 26.72861111},
+  :code         "JRH"}
+ {:long_name    "Kilimanjaro",
+  :country-code "TZ",
+  :city-code    "JRO",
+  :location     {:lng 37.07138889, :lat -3.427777778},
+  :code         "JRO"}
+ {:long_name    "Athens Eleftherios Venizelos",
+  :country-code "GR",
+  :city-code    "ATH",
+  :location     {:lng 23.72888889, :lat 37.89583333},
+  :code         "ATH"}
+ {:long_name    "Budapest, Liszt Ferenc",
+  :country-code "HU",
+  :city-code    "BUD",
+  :location     {:lng 19.25555556, :lat 47.43694444},
+  :code         "BUD"}
+ {:long_name    "Trabzon",
+  :country-code "TR",
+  :city-code    "TZX",
+  :location     {:lng 39.77638889, :lat 40.99861111},
+  :code         "TZX"}
+ {:long_name    "Buffalo,  Greater Buffalo International, NY",
+  :country-code "US",
+  :city-code    "BUF",
+  :location     {:lng -78.7325, :lat 42.94055556},
+  :code         "BUF"}
+ {:long_name    "Kelowna",
+  :country-code "CA",
+  :city-code    "YLW",
+  :location     {:lng -119.3777778, :lat 49.95611111},
+  :code         "YLW"}
+ {:long_name    "Amritsar",
+  :country-code "IN",
+  :city-code    "ATQ",
+  :location     {:lng 74.79722222, :lat 31.70694444},
+  :code         "ATQ"}
+ {:long_name    "Hartsfield-Jackson Atlanta International Airport GA",
+  :country-code "US",
+  :city-code    "ATL",
+  :location     {:lng -84.42805556, :lat 33.63666667},
+  :code         "ATL"}
+ {:long_name    "Bulawayo",
+  :country-code "ZW",
+  :city-code    "BUQ",
+  :location     {:lng 28.61777778, :lat -20.0175},
+  :code         "BUQ"}
+ {:long_name    "Burbank",
+  :country-code "US",
+  :city-code    "BUR",
+  :location     {:lng -118.3586111, :lat 34.20055556},
+  :code         "BUR"}
+ {:long_name    "Aswan",
+  :country-code "EG",
+  :city-code    "ASW",
+  :location     {:lng 32.82166667, :lat 23.965},
+  :code         "ASW"}
+ {:long_name    "Baton Rouge - Ryan",
+  :country-code "US",
+  :city-code    "BTR",
+  :location     {:lng -91.15055556, :lat 30.53166667},
+  :code         "BTR"}
+ {:long_name    "Skiathos",
+  :country-code "GR",
+  :city-code    "JSI",
+  :location     {:lng 23.50555556, :lat 39.18055556},
+  :code         "JSI"}
+ {:long_name    "Bintulu",
+  :country-code "MY",
+  :city-code    "BTU",
+  :location     {:lng 113.0430556, :lat 3.175},
+  :code         "BTU"}
+ {:long_name    "Ilheus",
+  :country-code "BR",
+  :city-code    "IOS",
+  :location     {:lng -39.03, :lat -14.81388889},
+  :code         "IOS"}
+ {:long_name    "Kayseri",
+  :country-code "TR",
+  :city-code    "ASR",
+  :location     {:lng 35.50972222, :lat 38.70416667},
+  :code         "ASR"}
+ {:long_name    "Burlington, International, VT",
+  :country-code "US",
+  :city-code    "BTV",
+  :location     {:lng -73.15305556, :lat 44.47277778},
+  :code         "BTV"}
+ {:long_name    "Asuncion",
+  :country-code "PY",
+  :city-code    "ASU",
+  :location     {:lng -57.51916667, :lat -25.23916667},
+  :code         "ASU"}
+ {:long_name    "Fort McMurray",
+  :country-code "CA",
+  :city-code    "YMM",
+  :location     {:lng -111.2219444, :lat 56.65333333},
+  :code         "YMM"}
+ {:long_name    "Odessa",
+  :country-code "UA",
+  :city-code    "ODS",
+  :location     {:lng 30.67638889, :lat 46.42666667},
+  :code         "ODS"}
+ {:long_name    "Luxor",
+  :country-code "EG",
+  :city-code    "LXR",
+  :location     {:lng 32.7075, :lat 25.67305556},
+  :code         "LXR"}
+ {:long_name    "Okayama",
+  :country-code "JP",
+  :city-code    "OKJ",
+  :location     {:lng 133.9361111, :lat 34.58666667},
+  :code         "OKJ"}
+ {:long_name    "Austin-Bergstrom International Airport, TX",
+  :country-code "US",
+  :city-code    "AUS",
+  :location     {:lng -97.70138889, :lat 30.29805556},
+  :code         "AUS"}
+ {:long_name    "Cologne - Railway Station",
+  :country-code "DE",
+  :city-code    "CGN",
+  :location     {:lng 7.183333333, :lat 50.9},
+  :code         "QKL"}
+ {:long_name    "Lexington",
+  :country-code "US",
+  :city-code    "LXN",
+  :location     {:lng -99.77416667, :lat 40.78833333},
+  :code         "LXN"}
+ {:long_name    "Oklahoma City - Will Rodgers World, OK",
+  :country-code "US",
+  :city-code    "OKC",
+  :location     {:lng -97.60055556, :lat 35.39305556},
+  :code         "OKC"}
+ {:long_name    "Dubai",
+  :country-code "AE",
+  :city-code    "DXB",
+  :location     {:lng 55.36416667, :lat 25.255},
+  :code         "DXB"}
+ {:long_name    "Okinawa - Naha",
+  :country-code "JP",
+  :city-code    "OKA",
+  :location     {:lng 127.6477778, :lat 26.19194444},
+  :code         "OKA"}
+ {:long_name    "Cologne, Messe Deutz Railway Station",
+  :country-code "DE",
+  :city-code    "CGN",
+  :location     {:lng 7, :lat 50},
+  :code         "QKU"}
+ {:long_name    "Abu Dhabi - NADIA International",
+  :country-code "AE",
+  :city-code    "AUH",
+  :location     {:lng 54.64888889, :lat 24.43305556},
+  :code         "AUH"}
+ {:long_name    "Knoxville, TN",
+  :country-code "US",
+  :city-code    "TYS",
+  :location     {:lng -83.99416667, :lat 35.81083333},
+  :code         "TYS"}
+ {:long_name    "Tyler",
+  :country-code "US",
+  :city-code    "TYR",
+  :location     {:lng -95.39861111, :lat 32.35444444},
+  :code         "TYR"}
+ {:long_name    "Taiyuan",
+  :country-code "CN",
+  :city-code    "TYN",
+  :location     {:lng 112.6166667, :lat 37.75},
+  :code         "TYN"}
+ {:long_name    "Aruba",
+  :country-code "AW",
+  :city-code    "AUA",
+  :location     {:lng -70.01527778, :lat 12.50138889},
+  :code         "AUA"}
+ {:long_name    "Linyi",
+  :country-code "CN",
+  :city-code    "LYI",
+  :location     {:lng 118.3333333, :lat 35.05},
+  :code         "LYI"}
+ {:long_name    "Lynchburg",
+  :country-code "US",
+  :city-code    "LYH",
+  :location     {:lng -79.20111111, :lat 37.32694444},
+  :code         "LYH"}
+ {:long_name    "Appleton",
+  :country-code "US",
+  :city-code    "ATW",
+  :location     {:lng -88.52, :lat 44.25777778},
+  :code         "ATW"}
+ {:long_name    "Longyearbyen - Svalbard",
+  :country-code "NO",
+  :city-code    "LYR",
+  :location     {:lng 15.46944444, :lat 78.24527778},
+  :code         "LYR"}
+ {:long_name    "Scranton - Pennsylvania",
+  :country-code "US",
+  :city-code    "AVP",
+  :location     {:lng -75.72583333, :lat 41.33916667},
+  :code         "AVP"}
+ {:long_name    "Kamloops",
+  :country-code "CA",
+  :city-code    "YKA",
+  :location     {:lng -120.4444444, :lat 50.70222222},
+  :code         "YKA"}
+ {:long_name    "Lyon Saint Exupéry",
+  :country-code "FR",
+  :city-code    "LYS",
+  :location     {:lng 5.081666667, :lat 45.72555556},
+  :code         "LYS"}
+ {:long_name    "Bandar Seri Begawan - Brunei International",
+  :country-code "BN",
+  :city-code    "BWN",
+  :location     {:lng 114.9277778, :lat 4.925},
+  :code         "BWN"}
+ {:long_name    "Rio de Janeiro - International",
+  :country-code "BR",
+  :city-code    "RIO",
+  :location     {:lng -43.24333333, :lat -22.80777778},
+  :code         "GIG"}
+ {:long_name    "Warsaw",
+  :country-code "PL",
+  :city-code    "WAW",
+  :location     {:lng 20.96666667, :lat 52.16666667},
+  :code         "WAW"}
+ {:long_name    "Baltimore - Washington International, DC",
+  :country-code "US",
+  :city-code    "BWI",
+  :location     {:lng -76.67, :lat 39.175},
+  :code         "BWI"}
+ {:long_name    "Asheville",
+  :country-code "US",
+  :city-code    "AVL",
+  :location     {:lng -82.54111111, :lat 35.435},
+  :code         "AVL"}
+ {:long_name    "Berlin - Tegel",
+  :country-code "DE",
+  :city-code    "BER",
+  :location     {:lng 13.29555556, :lat 52.56027778},
+  :code         "TXL"}
+ {:long_name    "McAllen - Miller International",
+  :country-code "US",
+  :city-code    "MFE",
+  :location     {:lng -98.23972222, :lat 26.17694444},
+  :code         "MFE"}
+ {:long_name    "Indore",
+  :country-code "IN",
+  :city-code    "IDR",
+  :location     {:lng 75.80555556, :lat 22.72305556},
+  :code         "IDR"}
+ {:long_name    "Antalya",
+  :country-code "TR",
+  :city-code    "AYT",
+  :location     {:lng 30.79055556, :lat 36.90555556},
+  :code         "AYT"}
+ {:long_name    "Mexico City - Aeropuerto Internacional",
+  :country-code "MX",
+  :city-code    "MEX",
+  :location     {:lng -99.07277778, :lat 19.43527778},
+  :code         "MEX"}
+ {:long_name    "Morgantown",
+  :country-code "US",
+  :city-code    "MGW",
+  :location     {:lng -79.91583333, :lat 39.64277778},
+  :code         "MGW"}
+ {:long_name    "Yonago",
+  :country-code "JP",
+  :city-code    "YGJ",
+  :location     {:lng 133.2363889, :lat 35.49222222},
+  :code         "YGJ"}
+ {:long_name    "Kingston",
+  :country-code "CA",
+  :city-code    "YGK",
+  :location     {:lng -76.59694444, :lat 44.22527778},
+  :code         "YGK"}
+ {:long_name    "Montgomery - Dannelly Field",
+  :country-code "US",
+  :city-code    "MGM",
+  :location     {:lng -86.39388889, :lat 32.30055556},
+  :code         "MGM"}
+ {:long_name    "Edinburgh",
+  :country-code "GB",
+  :city-code    "EDI",
+  :location     {:lng -3.3725, :lat 55.95},
+  :code         "EDI"}
+ {:long_name    "Managua",
+  :country-code "NI",
+  :city-code    "MGA",
+  :location     {:lng -86.16861111, :lat 12.14111111},
+  :code         "MGA"}
+ {:long_name    "Weihai",
+  :country-code "CN",
+  :city-code    "WEH",
+  :location     {:lng 122, :lat 37},
+  :code         "WEH"}
+ {:long_name    "Udaipur",
+  :country-code "IN",
+  :city-code    "UDR",
+  :location     {:lng 73.89583333, :lat 24.61472222},
+  :code         "UDR"}
+ {:long_name    "Harrisburg, International, PA",
+  :country-code "US",
+  :city-code    "HAR",
+  :location     {:lng -76.76222222, :lat 40.19305556},
+  :code         "MDT"}
+ {:long_name    "Deer Lake",
+  :country-code "CA",
+  :city-code    "YDF",
+  :location     {:lng -57.4, :lat 49.21666667},
+  :code         "YDF"}
+ {:long_name    "Dusseldorf - Train Station",
+  :country-code "DE",
+  :city-code    "DUS",
+  :location     {:lng 6.833333333, :lat 51.31666667},
+  :code         "QDU"}
+ {:long_name    "Mandalay",
+  :country-code "MM",
+  :city-code    "MDL",
+  :location     {:lng 96.08888889, :lat 21.93888889},
+  :code         "MDL"}
+ {:long_name    "Manado",
+  :country-code "ID",
+  :city-code    "MDC",
+  :location     {:lng 124.9236111, :lat 1.543888889},
+  :code         "MDC"}
+ {:long_name    "Medellin - Jose Maria Cordova",
+  :country-code "CO",
+  :city-code    "MDE",
+  :location     {:lng -75.42194444, :lat 6.165555556},
+  :code         "MDE"}
+ {:long_name    "Yuncheng - Guangong",
+  :country-code "CN",
+  :city-code    "YCU",
+  :location     {:lng 110.9833333, :lat 35.01666667},
+  :code         "YCU"}
+ {:long_name    "Vail/Eagle County, CO",
+  :country-code "US",
+  :city-code    "EGE",
+  :location     {:lng -106.9138889, :lat 39.64361111},
+  :code         "EGE"}
+ {:long_name    "Maceio",
+  :country-code "BR",
+  :city-code    "MCZ",
+  :location     {:lng -35.79583333, :lat -9.515277778},
+  :code         "MCZ"}
+ {:long_name    "Medan",
+  :country-code "ID",
+  :city-code    "MES",
+  :location     {:lng 98.67277778, :lat 3.561111111},
+  :code         "MES"}
+ {:long_name    "Windhoek - International",
+  :country-code "NA",
+  :city-code    "WDH",
+  :location     {:lng 17.46666667, :lat -22.48333333},
+  :code         "WDH"}
+ {:long_name    "Edmonton - International",
+  :country-code "CA",
+  :city-code    "YEA",
+  :location     {:lng -113.5916667, :lat 53.30416667},
+  :code         "YEG"}
+ {:long_name    "Igdir",
+  :country-code "TR",
+  :city-code    "IGD",
+  :location     {:lng 44.03333333, :lat 39.91666667},
+  :code         "IGD"}
+ {:long_name    "Memphis International, TN",
+  :country-code "US",
+  :city-code    "MEM",
+  :location     {:lng -89.97861111, :lat 35.04972222},
+  :code         "MEM"}
+ {:long_name    "Melbourne - Tullamarine International",
+  :country-code "AU",
+  :city-code    "MEL",
+  :location     {:lng 144.8333333, :lat -37.66166667},
+  :code         "MEL"}
+ {:long_name    "Kefallinia",
+  :country-code "GR",
+  :city-code    "EFL",
+  :location     {:lng 20.49972222, :lat 38.11861111},
+  :code         "EFL"}
+ {:long_name    "Uberlandia",
+  :country-code "BR",
+  :city-code    "UDI",
+  :location     {:lng -48.23333333, :lat -18.89972222},
+  :code         "UDI"}
+ {:long_name    "Mendoza",
+  :country-code "AR",
+  :city-code    "MDZ",
+  :location     {:lng -68.78472222, :lat -32.83194444},
+  :code         "MDZ"}
+ {:long_name    "Foz do Iguaçu - Cataratas",
+  :country-code "BR",
+  :city-code    "IGU",
+  :location     {:lng -54.58472222, :lat -25.52472222},
+  :code         "IGU"}
+ {:long_name    "Iguazu",
+  :country-code "AR",
+  :city-code    "IGR",
+  :location     {:lng -54.46583333, :lat -25.74166667},
+  :code         "IGR"}
+ {:long_name    "Akron/Canton",
+  :country-code "US",
+  :city-code    "CAK",
+  :location     {:lng -81.44166667, :lat 40.91388889},
+  :code         "CAK"}
+ {:long_name    "Montego Bay - Sangster International",
+  :country-code "JM",
+  :city-code    "MBJ",
+  :location     {:lng -77.9125, :lat 18.50194444},
+  :code         "MBJ"}
+ {:long_name    "Kearney",
+  :country-code "US",
+  :city-code    "EAR",
+  :location     {:lng -98.99888889, :lat 40.72833333},
+  :code         "EAR"}
+ {:long_name    "Bagotville",
+  :country-code "CA",
+  :city-code    "YBG",
+  :location     {:lng -70.98861111, :lat 48.32222222},
+  :code         "YBG"}
+ {:long_name    "Wakkanai",
+  :country-code "JP",
+  :city-code    "WKJ",
+  :location     {:lng 141, :lat 45},
+  :code         "WKJ"}
+ {:long_name    "Monbetsu",
+  :country-code "JP",
+  :city-code    "MBE",
+  :location     {:lng 143, :lat 44},
+  :code         "MBE"}
+ {:long_name    "Cagliari",
+  :country-code "IT",
+  :city-code    "CAG",
+  :location     {:lng 9.061111111, :lat 39.24722222},
+  :code         "CAG"}
+ {:long_name    "Baie Comeau",
+  :country-code "CA",
+  :city-code    "YBC",
+  :location     {:lng -68.20444444, :lat 49.1325},
+  :code         "YBC"}
+ {:long_name    "Cairo International",
+  :country-code "EG",
+  :city-code    "CAI",
+  :location     {:lng 31.7, :lat 26.55},
+  :code         "CAI"}
+ {:long_name    "Saginaw",
+  :country-code "US",
+  :city-code    "MBS",
+  :location     {:lng -84.08166667, :lat 43.53166667},
+  :code         "MBS"}
+ {:long_name    "Columbia, SC",
+  :country-code "US",
+  :city-code    "CAE",
+  :location     {:lng -81.11916667, :lat 33.94055556},
+  :code         "CAE"}
+ {:long_name    "Wenatchee",
+  :country-code "US",
+  :city-code    "EAT",
+  :location     {:lng -120.2077778, :lat 47.39972222},
+  :code         "EAT"}
+ {:long_name    "Eau Clair",
+  :country-code "US",
+  :city-code    "EAU",
+  :location     {:lng -91.48722222, :lat 44.86444444},
+  :code         "EAU"}
+ {:long_name    "Ubon Ratchathani - Muang Ubon",
+  :country-code "TH",
+  :city-code    "UBP",
+  :location     {:lng 104.8736111, :lat 15.24888889},
+  :code         "UBP"}
+ {:long_name    "Krabi",
+  :country-code "TH",
+  :city-code    "KBV",
+  :location     {:lng 98.98611111, :lat 8.099166667},
+  :code         "KBV"}
+ {:long_name    "Kiev - Boryspil Int´l",
+  :country-code "UA",
+  :city-code    "IEV",
+  :location     {:lng 30.89472222, :lat 50.345},
+  :code         "KBP"}
+ {:long_name    "Kota Bharu",
+  :country-code "MY",
+  :city-code    "KBR",
+  :location     {:lng 102.2936111, :lat 6.165277778},
+  :code         "KBR"}
+ {:long_name    "Sault Sainte Marie",
+  :country-code "CA",
+  :city-code    "YAM",
+  :location     {:lng -84.50861111, :lat 46.48305556},
+  :code         "YAM"}
+ {:long_name    "Mombasa - Moi International",
+  :country-code "KE",
+  :city-code    "MBA",
+  :location     {:lng 39.59305556, :lat -4.031388889},
+  :code         "MBA"}
+ {:long_name    "Yaounde Downtown",
+  :country-code "CM",
+  :city-code    "YAO",
+  :location     {:lng 11.52361111, :lat 3.833611111},
+  :code         "YAO"}
+ {:long_name    "Guangzhou Baiyun International",
+  :country-code "CN",
+  :city-code    "CAN",
+  :location     {:lng 113.2905556, :lat 23.3925},
+  :code         "CAN"}
+ {:long_name    "Yakutat",
+  :country-code "US",
+  :city-code    "YAK",
+  :location     {:lng -139.6597222, :lat 59.50916667},
+  :code         "YAK"}
+ {:long_name    "Gaya",
+  :country-code "IN",
+  :city-code    "GAY",
+  :location     {:lng 84.94583333, :lat 24.74666667},
+  :code         "GAY"}
+ {:long_name    "Castlegar",
+  :country-code "CA",
+  :city-code    "YCG",
+  :location     {:lng -117.6322222, :lat 49.29555556},
+  :code         "YCG"}
+ {:long_name    "Obihiro",
+  :country-code "JP",
+  :city-code    "OBO",
+  :location     {:lng 143.2211111, :lat 42.73083333},
+  :code         "OBO"}
+ {:long_name    "Mccook",
+  :country-code "US",
+  :city-code    "MCK",
+  :location     {:lng -100.59, :lat 40.20611111},
+  :code         "MCK"}
+ {:long_name    "Nanaimo - Cassidy",
+  :country-code "CA",
+  :city-code    "YCD",
+  :location     {:lng -123.87, :lat 49.05222222},
+  :code         "YCD"}
+ {:long_name    "Guwahati",
+  :country-code "IN",
+  :city-code    "GAU",
+  :location     {:lng 91.5875, :lat 26.10416667},
+  :code         "GAU"}
+ {:long_name    "Kansas City, International, MO",
+  :country-code "US",
+  :city-code    "MKC",
+  :location     {:lng -94.72666667, :lat 39.29277778},
+  :code         "MCI"}
+ {:long_name    "Muscat International",
+  :country-code "OM",
+  :city-code    "MCT",
+  :location     {:lng 58.27916667, :lat 23.59166667},
+  :code         "MCT"}
+ {:long_name    "Washington - Dulles International, DC",
+  :country-code "US",
+  :city-code    "WAS",
+  :location     {:lng -77.4575, :lat 38.94166667},
+  :code         "IAD"}
+ {:long_name    "Orlando International, FL",
+  :country-code "US",
+  :city-code    "ORL",
+  :location     {:lng -81.32472222, :lat 28.43166667},
+  :code         "MCO"}
+ {:long_name    "Ube",
+  :country-code "JP",
+  :city-code    "UBJ",
+  :location     {:lng 131.2744444, :lat 33.92583333},
+  :code         "UBJ"}
+ {:long_name    "Houston - Intercontinental, TX",
+  :country-code "US",
+  :city-code    "HOU",
+  :location     {:lng -95.34138889, :lat 29.98444444},
+  :code         "IAH"}
+ {:long_name    "Oaxaca",
+  :country-code "MX",
+  :city-code    "OAX",
+  :location     {:lng -96.74333333, :lat 17},
+  :code         "OAX"}
+ {:long_name    "Kahramanmaras",
+  :country-code "TR",
+  :city-code    "KCM",
+  :location     {:lng 33.21666667, :lat 37.18333333},
+  :code         "KCM"}
+ {:long_name    "Iasi",
+  :country-code "RO",
+  :city-code    "IAS",
+  :location     {:lng 27.62055556, :lat 47.17861111},
+  :code         "IAS"}
+ {:long_name    "Campbell River",
+  :country-code "CA",
+  :city-code    "YBL",
+  :location     {:lng -125.2666667, :lat 49.95},
+  :code         "YBL"}
+ {:long_name    "Kuching",
+  :country-code "MY",
+  :city-code    "KCH",
+  :location     {:lng 110.3408333, :lat 1.484166667},
+  :code         "KCH"}
+ {:long_name    "Jacksonville, North Carolina",
+  :country-code "US",
+  :city-code    "OAJ",
+  :location     {:lng -77.61166667, :lat 34.83027778},
+  :code         "OAJ"}
+ {:long_name    "Oakland International, CA",
+  :country-code "US",
+  :city-code    "OAK",
+  :location     {:lng -122.2155556, :lat 37.72361111},
+  :code         "OAK"}
+ {:long_name    "Kozhikode",
+  :country-code "IN",
+  :city-code    "CCJ",
+  :location     {:lng 75.95527778, :lat 11.00361111},
+  :code         "CCJ"}
+ {:long_name    "Gaborone - Sir Seretse Khama International",
+  :country-code "BW",
+  :city-code    "GBE",
+  :location     {:lng 25.94166667, :lat -24.65416667},
+  :code         "GBE"}
+ {:long_name    "Concepcion",
+  :country-code "CL",
+  :city-code    "CCP",
+  :location     {:lng -73.06, :lat -36.77361111},
+  :code         "CCP"}
+ {:long_name    "Caracas",
+  :country-code "VE",
+  :city-code    "CCS",
+  :location     {:lng -66.98805556, :lat 10.60527778},
+  :code         "CCS"}
+ {:long_name    "Kolkata",
+  :country-code "IN",
+  :city-code    "CCU",
+  :location     {:lng 88.44916667, :lat 22.6525},
+  :code         "CCU"}
+ {:long_name    "Midland Odessa",
+  :country-code "US",
+  :city-code    "MAF",
+  :location     {:lng -102.2019444, :lat 31.9425},
+  :code         "MAF"}
+ {:long_name    "Madrid Barajas",
+  :country-code "ES",
+  :city-code    "MAD",
+  :location     {:lng -3.561111111, :lat 40.47361111},
+  :code         "MAD"}
+ {:long_name    "Ibiza",
+  :country-code "ES",
+  :city-code    "IBZ",
+  :location     {:lng 1.372777778, :lat 38.87361111},
+  :code         "IBZ"}
+ {:long_name    "Menorca - Mahon",
+  :country-code "ES",
+  :city-code    "MAH",
+  :location     {:lng 4.215277778, :lat 39.86138889},
+  :code         "MAH"}
+ {:long_name    "Bahrain International",
+  :country-code "BH",
+  :city-code    "BAH",
+  :location     {:lng 50.6375, :lat 26.27083333},
+  :code         "BAH"}
+ {:long_name    "Manchester",
+  :country-code "GB",
+  :city-code    "MAN",
+  :location     {:lng -2.276666667, :lat 53.35333333},
+  :code         "MAN"}
+ {:long_name    "Manaus - Eduardo Gomez International",
+  :country-code "BR",
+  :city-code    "MAO",
+  :location     {:lng -60.05, :lat -3.039166667},
+  :code         "MAO"}
+ {:long_name    "Maracaibo",
+  :country-code "VE",
+  :city-code    "MAR",
+  :location     {:lng -71.72555556, :lat 10.56111111},
+  :code         "MAR"}
+ {:long_name    "Garden City Municipal",
+  :country-code "US",
+  :city-code    "GCK",
+  :location     {:lng -100.7297222, :lat 37.92861111},
+  :code         "GCK"}
+ {:long_name    "Entebbe",
+  :country-code "UG",
+  :city-code    "EBB",
+  :location     {:lng 32.44361111, :lat 0.0425},
+  :code         "EBB"}
+ {:long_name    "Seoul - Incheon International Airport",
+  :country-code "KR",
+  :city-code    "SEL",
+  :location     {:lng 126.7947222, :lat 37.55777778},
+  :code         "ICN"}
+ {:long_name    "Baotou",
+  :country-code "CN",
+  :city-code    "BAV",
+  :location     {:lng 109.9833333, :lat 40.66666667},
+  :code         "BAV"}
+ {:long_name    "Canberra",
+  :country-code "AU",
+  :city-code    "CBR",
+  :location     {:lng 149.195, :lat -35.30888889},
+  :code         "CBR"}
+ {:long_name    "Wichita - Mid-Continent, KS",
+  :country-code "US",
+  :city-code    "ICT",
+  :location     {:lng -97.43305556, :lat 37.65},
+  :code         "ICT"}
+ {:long_name    "Gillette",
+  :country-code "US",
+  :city-code    "GCC",
+  :location     {:lng -105.525, :lat 44.35138889},
+  :code         "GCC"}
+ {:long_name    "Erbil",
+  :country-code "IQ",
+  :city-code    "EBL",
+  :location     {:lng 44.01666667, :lat 36.18333333},
+  :code         "EBL"}
+ {:long_name    "Barranquilla",
+  :country-code "CO",
+  :city-code    "BAQ",
+  :location     {:lng -74.77888889, :lat 10.89611111},
+  :code         "BAQ"}
+ {:long_name    "Esbjerg",
+  :country-code "DK",
+  :city-code    "EBJ",
+  :location     {:lng 8.5525, :lat 55.52638889},
+  :code         "EBJ"}
+ {:long_name    "Chennai/Madras",
+  :country-code "IN",
+  :city-code    "MAA",
+  :location     {:lng 80.17694444, :lat 12.99333333},
+  :code         "MAA"}
+ {:long_name    "Kigali",
+  :country-code "RW",
+  :city-code    "KGL",
+  :location     {:lng 30.14, :lat -1.967777778},
+  :code         "KGL"}
+ {:long_name    "Tallahassee",
+  :country-code "US",
+  :city-code    "TLH",
+  :location     {:lng -84.35194444, :lat 30.39972222},
+  :code         "TLH"}
+ {:long_name    "Molde",
+  :country-code "NO",
+  :city-code    "MOL",
+  :location     {:lng 7.271111111, :lat 62.74861111},
+  :code         "MOL"}
+ {:long_name    "Valencia",
+  :country-code "ES",
+  :city-code    "VLC",
+  :city         {:location {:lng 0.3833, :lat 39.4667}}
+  :location     {:lng -0.481944444, :lat 39.48861111},
+  :code         "VLC"}
+ {:long_name    "Tallinn",
+  :country-code "EE",
+  :city-code    "TLL",
+  :location     {:lng 24.83277778, :lat 59.41333333},
+  :code         "TLL"}
+ {:long_name    "Aarhus",
+  :country-code "DK",
+  :city-code    "AAR",
+  :location     {:lng 10.62, :lat 56.30388889},
+  :code         "AAR"}
+ {:long_name    "Kos",
+  :country-code "GR",
+  :city-code    "KGS",
+  :location     {:lng 27.09527778, :lat 36.79305556},
+  :code         "KGS"}
+ {:long_name    "Mobile Municipal",
+  :country-code "US",
+  :city-code    "MOB",
+  :location     {:lng -88.24083333, :lat 30.68833333},
+  :code         "MOB"}
+ {:long_name    "Toulouse - Blagnac",
+  :country-code "FR",
+  :city-code    "TLS",
+  :location     {:lng 1.363611111, :lat 43.63},
+  :code         "TLS"}
+ {:long_name    "Modesto",
+  :country-code "US",
+  :city-code    "MOD",
+  :location     {:lng -120.9552778, :lat 37.62694444},
+  :code         "MOD"}
+ {:long_name    "Shizuoka",
+  :country-code "JP",
+  :city-code    "FSZ",
+  :location     {:lng 140.6886111, :lat 40.73333333},
+  :code         "FSZ"}
+ {:long_name    "Tel Aviv - Ben Gurion",
+  :country-code "IL",
+  :city-code    "TLV",
+  :location     {:lng 34.88666667, :lat 32.01138889},
+  :code         "TLV"}
+ {:long_name    "Valencia",
+  :country-code "VE",
+  :city-code    "VLN",
+  :location     {:lng -67.92916667, :lat 10.14638889},
+  :code         "VLN"}
+ {:long_name    "Balmaceda",
+  :country-code "CL",
+  :city-code    "BBA",
+  :location     {:lng -71.68944444, :lat -45.91611111},
+  :code         "BBA"}
+ {:long_name    "El Calafate",
+  :country-code "AR",
+  :city-code    "fte",
+  :location     {:lng -72.05333333, :lat -50.28027778},
+  :code         "FTE"}
+ {:long_name    "Bhubaneshwar",
+  :country-code "IN",
+  :city-code    "BBI",
+  :location     {:lng 85.82, :lat 20.24361111},
+  :code         "BBI"}
+ {:long_name    "Aalborg",
+  :country-code "DK",
+  :city-code    "AAL",
+  :location     {:lng 9.85, :lat 57.09305556},
+  :code         "AAL"}
+ {:long_name    "Kasane",
+  :country-code "BW",
+  :city-code    "BBK",
+  :location     {:lng 29.1625, :lat -17.83277778},
+  :code         "BBK"}
+ {:long_name    "Berbera",
+  :country-code "SO",
+  :city-code    "BBO",
+  :location     {:lng 44.94111111, :lat 10.38916667},
+  :code         "BBO"}
+ {:long_name    "Praia",
+  :country-code "CV",
+  :city-code    "RAI",
+  :location     {:lng -23.50305556, :lat 14.92527778},
+  :code         "RAI"}
+ {:long_name    "Rajkot",
+  :country-code "IN",
+  :city-code    "RAJ",
+  :location     {:lng 70.78083333, :lat 22.30583333},
+  :code         "RAJ"}
+ {:long_name    "Dakar",
+  :country-code "SN",
+  :city-code    "DKR",
+  :location     {:lng -17.49027778, :lat 14.73972222},
+  :code         "DKR"}
+ {:long_name    "Manila - Ninoy Aquino International",
+  :country-code "PH",
+  :city-code    "MNL",
+  :location     {:lng 121.0183333, :lat 14.51},
+  :code         "MNL"}
+ {:long_name    "Tampere",
+  :country-code "FI",
+  :city-code    "TMP",
+  :location     {:lng 23.73888889, :lat 61.46388889},
+  :code         "TMP"}
+ {:long_name    "Flores",
+  :country-code "GT",
+  :city-code    "FRS",
+  :location     {:lng -89.88333333, :lat 16.91666667},
+  :code         "FRS"}
+ {:long_name    "Marrakech",
+  :country-code "MA",
+  :city-code    "RAK",
+  :location     {:lng -8.038333333, :lat 31.60833333},
+  :code         "RAK"}
+ {:long_name    "Dalian",
+  :country-code "CN",
+  :city-code    "DLC",
+  :location     {:lng 121.5386111, :lat 38.96555556},
+  :code         "DLC"}
+ {:long_name    "Douala",
+  :country-code "CM",
+  :city-code    "DLA",
+  :location     {:lng 9.719444444, :lat 4.006111111},
+  :code         "DLA"}
+ {:long_name    "Sioux Falls",
+  :country-code "US",
+  :city-code    "FSD",
+  :location     {:lng -96.74083333, :lat 43.57888889},
+  :code         "FSD"}
+ {:long_name    "Bissau",
+  :country-code "GW",
+  :city-code    "OXB",
+  :location     {:lng -75.12388889, :lat 38.31027778},
+  :code         "OXB"}
+ {:long_name    "Barcelona",
+  :country-code "ES",
+  :city-code    "BCN",
+  :city         {:name "Barcelona" :location {:lng 2.1833, :lat 41.3833}}
+  :location     {:lng 2.094444444, :lat 41.30277778},
+  :code         "BCN"}
+ {:long_name    "Waco Municipal",
+  :country-code "US",
+  :city-code    "ACT",
+  :location     {:lng -97.22861111, :lat 31.61138889},
+  :code         "ACT"}
+ {:long_name    "Arcata/Eureka",
+  :country-code "US",
+  :city-code    "ACV",
+  :location     {:lng -124.1075, :lat 40.97916667},
+  :code         "ACV"}
+ {:long_name    "Atlantic City - International",
+  :country-code "US",
+  :city-code    "AIY",
+  :location     {:lng -74.57777778, :lat 39.45666667},
+  :code         "ACY"}
+ {:long_name    "Vitoria",
+  :country-code "BR",
+  :city-code    "VIX",
+  :location     {:lng -40.2875, :lat -20.26444444},
+  :code         "VIX"}
+ {:long_name    "Dalaman",
+  :country-code "TR",
+  :city-code    "DLM",
+  :location     {:lng 28.79222222, :lat 36.7125},
+  :code         "DLM"}
+ {:long_name    "Duluth/Superior - Duluth International",
+  :country-code "US",
+  :city-code    "DLH",
+  :location     {:lng -92.19388889, :lat 46.84194444},
+  :code         "DLH"}
+ {:long_name    "Adana",
+  :country-code "TR",
+  :city-code    "ADA",
+  :location     {:lng 35.28083333, :lat 36.98361111},
+  :code         "ADA"}
+ {:long_name    "Memanbetsu",
+  :country-code "JP",
+  :city-code    "MMB",
+  :location     {:lng 144.1641667, :lat 43.88055556},
+  :code         "MMB"}
+ {:long_name    "Izmir - Adnan Menderes",
+  :country-code "TR",
+  :city-code    "IZM",
+  :location     {:lng 27.16, :lat 38.29472222},
+  :code         "ADB"}
+ {:long_name    "Bucharest – Henri Coanda",
+  :country-code "RO",
+  :city-code    "BUH",
+  :location     {:lng 26.10222222, :lat 44.57222222},
+  :code         "OTP"}
+ {:long_name    "Accra - Kotoka International",
+  :country-code "GH",
+  :city-code    "ACC",
+  :location     {:lng -0.166666667, :lat 5.605277778},
+  :code         "ACC"}
+ {:long_name    "Kotzebue",
+  :country-code "US",
+  :city-code    "OTZ",
+  :location     {:lng -162.6058333, :lat 66.88805556},
+  :code         "OTZ"}
+ {:long_name    "MOSCOW - Domodedovo",
+  :country-code "RU",
+  :city-code    "MOW",
+  :location     {:lng 37.90638889, :lat 55.40888889},
+  :code         "DME"}
+ {:long_name    "Lanzarote",
+  :country-code "ES",
+  :city-code    "ACE",
+  :location     {:lng -13.60527778, :lat 28.94555556},
+  :code         "ACE"}
+ {:long_name    "Tivat",
+  :country-code "ME",
+  :city-code    "TIV",
+  :location     {:lng 18.72111111, :lat 42.40444444},
+  :code         "TIV"}
+ {:long_name    "Malmo - Sturup",
+  :country-code "SE",
+  :city-code    "MMA",
+  :location     {:lng 13.35944444, :lat 55.54833333},
+  :code         "MMX"}
+ {:long_name    "Nantucket",
+  :country-code "US",
+  :city-code    "ACK",
+  :location     {:lng -70.05972222, :lat 41.25666667},
+  :code         "ACK"}
+ {:long_name    "Reykjavik - Keflavik International",
+  :country-code "IS",
+  :city-code    "REK",
+  :location     {:lng -22.60611111, :lat 63.985},
+  :code         "KEF"}
+ {:long_name    "Vadodara",
+  :country-code "IN",
+  :city-code    "BDQ",
+  :location     {:lng 73.22083333, :lat 22.32916667},
+  :code         "BDQ"}
+ {:long_name    "Ouagadougou",
+  :country-code "BF",
+  :city-code    "OUA",
+  :location     {:lng -1.513333333, :lat 12.35222222},
+  :code         "OUA"}
+ {:long_name    "Hartford - Bradley International, CT",
+  :country-code "US",
+  :city-code    "HFD",
+  :location     {:lng -72.68305556, :lat 41.9375},
+  :code         "BDL"}
+ {:long_name    "Beirut Rafik Hariri International",
+  :country-code "LB",
+  :city-code    "BEY",
+  :location     {:lng 35.49027778, :lat 33.81277778},
+  :code         "BEY"}
+ {:long_name    "Morelia",
+  :country-code "MX",
+  :city-code    "MLM",
+  :location     {:lng -101.22, :lat 19.72777778},
+  :code         "MLM"}
+ {:long_name    "Oulu",
+  :country-code "FI",
+  :city-code    "OUL",
+  :location     {:lng 25.35833333, :lat 64.92916667},
+  :code         "OUL"}
+ {:long_name    "Dimapur",
+  :country-code "IN",
+  :city-code    "DMU",
+  :location     {:lng 93.77361111, :lat 25.88388889},
+  :code         "DMU"}
+ {:long_name    "Beira",
+  :country-code "MZ",
+  :city-code    "BEW",
+  :location     {:lng 34.91194444, :lat -19.79444444},
+  :code         "BEW"}
+ {:long_name    "Albuquerque International, NM",
+  :country-code "US",
+  :city-code    "ABQ",
+  :location     {:lng -106.6063889, :lat 35.04166667},
+  :code         "ABQ"}
+ {:long_name    "Moline, IL",
+  :country-code "US",
+  :city-code    "MLI",
+  :location     {:lng -90.505, :lat 41.44888889},
+  :code         "MLI"}
+ {:long_name    "Bethel Municipal",
+  :country-code "US",
+  :city-code    "BET",
+  :location     {:lng -161.8313889, :lat 60.78444444},
+  :code         "BET"}
+ {:long_name    "Abuja International",
+  :country-code "NG",
+  :city-code    "ABV",
+  :location     {:lng 7.263055556, :lat 9.006666667},
+  :code         "ABV"}
+ {:long_name    "Mulhouse Euroairport",
+  :country-code "FR",
+  :city-code    "MLH",
+  :location     {:lng 7.53, :lat 47.59},
+  :code         "MLH"}
+ {:long_name    "Male International",
+  :country-code "MV",
+  :city-code    "MLE",
+  :location     {:lng 73.51944444, :lat 5.25},
+  :code         "MLE"}
+ {:long_name    "Turku",
+  :country-code "FI",
+  :city-code    "TKU",
+  :location     {:lng 22.26555556, :lat 60.51472222},
+  :code         "TKU"}
+ {:long_name    "Dammam",
+  :country-code "SA",
+  :city-code    "DMM",
+  :location     {:lng 49.79833333, :lat 26.47055556},
+  :code         "DMM"}
+ {:long_name    "Tokushima",
+  :country-code "JP",
+  :city-code    "TKS",
+  :location     {:lng 134.6016667, :lat 34.12972222},
+  :code         "TKS"}
+ {:long_name    "Aberdeen",
+  :country-code "GB",
+  :city-code    "ABZ",
+  :location     {:lng -2.197777778, :lat 57.20194444},
+  :code         "ABZ"}
+ {:long_name    "Malta",
+  :country-code "MT",
+  :city-code    "MLA",
+  :location     {:lng 14.4775, :lat 35.8575},
+  :code         "MLA"}
+ {:long_name    "Acapulco - Alvarez International",
+  :country-code "MX",
+  :city-code    "ACA",
+  :location     {:lng -99.76694444, :lat 16.75555556},
+  :code         "ACA"}
+ {:long_name    "Melbourne",
+  :country-code "US",
+  :city-code    "MLB",
+  :location     {:lng -80.64305556, :lat 28.1025},
+  :code         "MLB"}
+ {:long_name    "Fuerteventura",
+  :country-code "ES",
+  :city-code    "FUE",
+  :location     {:lng -13.86388889, :lat 28.45277778},
+  :code         "FUE"}
+ {:long_name    "Belgrade",
+  :country-code "RS",
+  :city-code    "BEG",
+  :location     {:lng 20.31305556, :lat 44.81833333},
+  :code         "BEG"}
+ {:long_name    "Moscow - Vnukovo",
+  :country-code "RU",
+  :city-code    "MOW",
+  :location     {:lng 37.26666667, :lat 55.58333333},
+  :code         "VKO"}
+ {:long_name    "Kochi",
+  :country-code "JP",
+  :city-code    "KCZ",
+  :location     {:lng 133.6769444, :lat 33.54111111},
+  :code         "KCZ"}
+ {:long_name    "Allentown/Bethl",
+  :country-code "US",
+  :city-code    "ABE",
+  :location     {:lng -75.43833333, :lat 40.65472222},
+  :code         "ABE"}
+ {:long_name    "Kabri Dehar",
+  :country-code "ET",
+  :city-code    "ABK",
+  :location     {:lng 44.26611111, :lat 6.733888889},
+  :code         "ABK"}
+ {:long_name    "Monroe",
+  :country-code "US",
+  :city-code    "MLU",
+  :location     {:lng -92.03888889, :lat 32.51111111},
+  :code         "MLU"}
+ {:long_name    "Abidjan",
+  :country-code "CI",
+  :city-code    "ABJ",
+  :location     {:lng -3.926388889, :lat 5.261388889},
+  :code         "ABJ"}
+ {:long_name    "Fukuoka",
+  :country-code "JP",
+  :city-code    "FUK",
+  :location     {:lng 130.4533333, :lat 33.58222222},
+  :code         "FUK"}
+ {:long_name    "Benghazi - Benina International",
+  :country-code "LY",
+  :city-code    "BEN",
+  :location     {:lng 20.275, :lat 32.09583333},
+  :code         "BEN"}
+ {:long_name    "Belem",
+  :country-code "BR",
+  :city-code    "BEL",
+  :location     {:lng -48.47555556, :lat -1.378888889},
+  :code         "BEL"}
+ {:long_name    "Kansas City, Missouri - Johnson Executive",
+  :country-code "US",
+  :city-code    "MKC",
+  :location     {:lng -94.59194444, :lat 39.12416667},
+  :code         "MKC"}
+ {:long_name    "Bucaramanga",
+  :country-code "CO",
+  :city-code    "BGA",
+  :location     {:lng -73.12805556, :lat 7.107222222},
+  :code         "BGA"}
+ {:long_name    "Sukhothai",
+  :country-code "TH",
+  :city-code    "THS",
+  :location     {:lng 99.81805556, :lat 17.23777778},
+  :code         "THS"}
+ {:long_name    "Muskegon",
+  :country-code "US",
+  :city-code    "MKG",
+  :location     {:lng -86.2375, :lat 43.17055556},
+  :code         "MKG"}
+ {:long_name    "Teresina",
+  :country-code "BR",
+  :city-code    "THE",
+  :location     {:lng -42.81777778, :lat -5.065277778},
+  :code         "THE"}
+ {:long_name    "Alexandria Lousiana",
+  :country-code "US",
+  :city-code    "AXB",
+  :location     {:lng -92.54694444, :lat 31.32416667},
+  :code         "AEX"}
+ {:long_name    "Hoolehua",
+  :country-code "US",
+  :city-code    "MKK",
+  :location     {:lng -157.0991667, :lat 21.15611111},
+  :code         "MKK"}
+ {:long_name    "Bakersfield",
+  :country-code "US",
+  :city-code    "BFL",
+  :location     {:lng -119.0566667, :lat 35.43361111},
+  :code         "BFL"}
+ {:long_name    "Mobile - Aerospace",
+  :country-code "US",
+  :city-code    "MOB",
+  :location     {:lng -88.06805556, :lat 30.62638889},
+  :code         "BFM"}
+ {:long_name    "Bloemfontein",
+  :country-code "ZA",
+  :city-code    "BFN",
+  :location     {:lng 26.30277778, :lat -29.09222222},
+  :code         "BFN"}
+ {:long_name    "Kita Kyushu",
+  :country-code "JP",
+  :city-code    "KKJ",
+  :location     {:lng 130.9494444, :lat 33.83305556},
+  :code         "KKJ"}
+ {:long_name    "Alesund",
+  :country-code "NO",
+  :city-code    "AES",
+  :location     {:lng 6.114166667, :lat 62.56111111},
+  :code         "AES"}
+ {:long_name    "Dallas/Fort Worth - International, TX",
+  :country-code "US",
+  :city-code    "DFW",
+  :location     {:lng -97.04111111, :lat 32.89638889},
+  :code         "DFW"}
+ {:long_name    "Kirkenes",
+  :country-code "NO",
+  :city-code    "KKN",
+  :location     {:lng 29.89333333, :lat 69.72277778},
+  :code         "KKN"}
+ {:long_name    "Valparaiso - Fort Walton Beach",
+  :country-code "US",
+  :city-code    "VPS",
+  :location     {:lng -86.83, :lat 30.40638889},
+  :code         "VPS"}
+ {:long_name    "Scottsbluff",
+  :country-code "US",
+  :city-code    "BFF",
+  :location     {:lng -103.6011111, :lat 41.87527778},
+  :code         "BFF"}
+ {:long_name    "Tegucigalpa",
+  :country-code "HN",
+  :city-code    "TGU",
+  :location     {:lng -87.2175, :lat 14.05972222},
+  :code         "TGU"}
+ {:long_name    "Khon Kaen",
+  :country-code "TH",
+  :city-code    "KKC",
+  :location     {:lng 102.7866667, :lat 16.465},
+  :code         "KKC"}
+ {:long_name    "Tuxtla Gutierrez - Llano San Juan",
+  :country-code "MX",
+  :city-code    "TGZ",
+  :location     {:lng -93.34138889, :lat 16.76972222},
+  :code         "TGZ"}
+ {:long_name    "Tripoli International",
+  :country-code "LY",
+  :city-code    "TIP",
+  :location     {:lng 13.16, :lat 32.66138889},
+  :code         "TIP"}
+ {:long_name    "Tirupati",
+  :country-code "IN",
+  :city-code    "TIR",
+  :location     {:lng 79.54138889, :lat 13.63277778},
+  :code         "TIR"}
+ {:long_name    "San Andres Island",
+  :country-code "CO",
+  :city-code    "ADZ",
+  :location     {:lng -81.71166667, :lat 12.58305556},
+  :code         "ADZ"}
+ {:long_name    "Baghdad International",
+  :country-code "IQ",
+  :city-code    "BGW",
+  :location     {:lng 44.36388889, :lat 33.33277778},
+  :code         "BGW"}
+ {:long_name    "Tijuana",
+  :country-code "MX",
+  :city-code    "TIJ",
+  :location     {:lng -116.9702778, :lat 32.54138889},
+  :code         "TIJ"}
+ {:long_name    "Durango",
+  :country-code "MX",
+  :city-code    "DGO",
+  :location     {:lng -104.525, :lat 24.125},
+  :code         "DGO"}
+ {:long_name    "Milano Orio - Bergamo",
+  :country-code "IT",
+  :city-code    "MIL",
+  :location     {:lng 9.700277778, :lat 45.66833333},
+  :code         "BGY"}
+ {:long_name    "Kodiak - Kodiak Airport",
+  :country-code "US",
+  :city-code    "ADQ",
+  :location     {:lng -152.4833333, :lat 57.75416667},
+  :code         "ADQ"}
+ {:long_name    "Bergen",
+  :country-code "NO",
+  :city-code    "BGO",
+  :location     {:lng 5.219444444, :lat 60.29361111},
+  :code         "BGO"}
+ {:long_name    "Mbuji-Mayi",
+  :country-code "CG",
+  :city-code    "MJM",
+  :location     {:lng 23.56972222, :lat -6.121388889},
+  :code         "MJM"}
+ {:long_name    "Mytilene",
+  :country-code "GR",
+  :city-code    "MJT",
+  :location     {:lng 26.59944444, :lat 39.05611111},
+  :code         "MJT"}
+ {:long_name    "Adak Island",
+  :country-code "US",
+  :city-code    "ADK",
+  :location     {:lng -176.6447222, :lat 51.88277778},
+  :code         "ADK"}
+ {:long_name    "Tirana - Mother Teresa Apt. Rinas",
+  :country-code "AL",
+  :city-code    "TIA",
+  :location     {:lng 19.72055556, :lat 41.41472222},
+  :code         "TIA"}
+ {:long_name    "Adelaide",
+  :country-code "AU",
+  :city-code    "ADL",
+  :location     {:lng 138.5347222, :lat -34.94833333},
+  :code         "ADL"}
+ {:long_name    "Bangor International",
+  :country-code "US",
+  :city-code    "BGR",
+  :location     {:lng -68.82777778, :lat 44.80777778},
+  :code         "BGR"}
+ {:long_name    "Fort Wayne Municipal - Baer Field, IN",
+  :country-code "US",
+  :city-code    "FWA",
+  :location     {:lng -85.18805556, :lat 40.97833333},
+  :code         "FWA"}
+ {:long_name    "Bangui",
+  :country-code "CF",
+  :city-code    "BGF",
+  :location     {:lng 18.52027778, :lat 4.396111111},
+  :code         "BGF"}
+ {:long_name    "Adiyaman",
+  :country-code "TR",
+  :city-code    "ADF",
+  :location     {:lng 38.45833333, :lat 37.725},
+  :code         "ADF"}
+ {:long_name    "Barbados (Bridgetown) - Adams International",
+  :country-code "BB",
+  :city-code    "BGI",
+  :location     {:lng -59.49305556, :lat 13.07222222},
+  :code         "BGI"}
+ {:long_name    "Addis Ababa",
+  :country-code "ET",
+  :city-code    "ADD",
+  :location     {:lng 38.79805556, :lat 8.977777778},
+  :code         "ADD"}
+ {:long_name    "Miami International, FL",
+  :country-code "US",
+  :city-code    "MIA",
+  :location     {:lng -80.28611111, :lat 25.7925},
+  :code         "MIA"}
+ {:long_name    "Abha",
+  :country-code "SA",
+  :city-code    "AHB",
+  :location     {:lng 42.655, :lat 18.23861111},
+  :code         "AHB"}
+ {:long_name    "Oxnard/Ventura",
+  :country-code "US",
+  :city-code    "OXR",
+  :location     {:lng -119.2063889, :lat 34.20111111},
+  :code         "OXR"}
+ {:long_name    "Chisinau",
+  :country-code "MD",
+  :city-code    "KIV",
+  :location     {:lng 28.93111111, :lat 46.92777778},
+  :code         "KIV"}
+ {:long_name    "Bastia",
+  :country-code "FR",
+  :city-code    "BIA",
+  :location     {:lng 9.486111111, :lat 42.54916667},
+  :code         "BIA"}
+ {:long_name    "Osaka - Kansai International",
+  :country-code "JP",
+  :city-code    "OSA",
+  :location     {:lng 135.2438889, :lat 34.42833333},
+  :code         "KIX"}
+ {:long_name    "Merida",
+  :country-code "MX",
+  :city-code    "MID",
+  :location     {:lng -89.65777778, :lat 20.93694444},
+  :code         "MID"}
+ {:long_name    "Fayetteville, Arkansas - Drake Field Municipal",
+  :country-code "US",
+  :city-code    "FYV",
+  :location     {:lng -94.17, :lat 36.005},
+  :code         "FYV"}
+ {:long_name    "Beihai",
+  :country-code "CN",
+  :city-code    "BHY",
+  :location     {:lng 109.0833333, :lat 21.48333333},
+  :code         "BHY"}
+ {:long_name    "Mianyang - Nanjiao",
+  :country-code "CN",
+  :city-code    "MIG",
+  :location     {:lng 104.7380556, :lat 31.43111111},
+  :code         "MIG"}
+ {:long_name    "Birmingham International",
+  :country-code "GB",
+  :city-code    "BHX",
+  :location     {:lng -1.746388889, :lat 52.45388889},
+  :code         "BHX"}
+ {:long_name    "Niigata",
+  :country-code "JP",
+  :city-code    "KIJ",
+  :location     {:lng 139.1225, :lat 37.95333333},
+  :code         "KIJ"}
+ {:long_name    "Vilnius",
+  :country-code "LT",
+  :city-code    "VNO",
+  :location     {:lng 25.28333333, :lat 54.63333333},
+  :code         "VNO"}
+ {:long_name    "Malaga",
+  :country-code "ES",
+  :city-code    "AGP",
+  :location     {:lng -4.498055556, :lat 36.67166667},
+  :code         "AGP"}
+ {:long_name    "Kimberley",
+  :country-code "ZA",
+  :city-code    "KIM",
+  :location     {:lng 24.76638889, :lat -28.80583333},
+  :code         "KIM"}
+ {:long_name    "Tezpur",
+  :country-code "IN",
+  :city-code    "TEZ",
+  :location     {:lng 92.79611111, :lat 26.71083333},
+  :code         "TEZ"}
+ {:long_name    "Bhopal",
+  :country-code "IN",
+  :city-code    "BHO",
+  :location     {:lng 77.33861111, :lat 23.28472222},
+  :code         "BHO"}
+ {:long_name    "Ciudad del Este - Alejo Garcia",
+  :country-code "PY",
+  :city-code    "AGT",
+  :location     {:lng -54.84361111, :lat -25.45555556},
+  :code         "AGT"}
+ {:long_name    "Hays",
+  :country-code "US",
+  :city-code    "HYS",
+  :location     {:lng -99.27416667, :lat 38.84611111},
+  :code         "HYS"}
+ {:long_name    "Aguascalientes",
+  :country-code "MX",
+  :city-code    "AGU",
+  :location     {:lng -102.2883333, :lat 21.84833333},
+  :code         "AGU"}
+ {:long_name    "Dibrugarh",
+  :country-code "IN",
+  :city-code    "DIB",
+  :location     {:lng 95.02083333, :lat 27.48388889},
+  :code         "DIB"}
+ {:long_name    "Helsingborg - Angelholm",
+  :country-code "SE",
+  :city-code    "AGH",
+  :location     {:lng 12.8625, :lat 56.29305556},
+  :code         "AGH"}
+ {:long_name    "Birmingham, AL",
+  :country-code "US",
+  :city-code    "BHM",
+  :location     {:lng -86.75555556, :lat 33.56305556},
+  :code         "BHM"}
+ {:long_name    "Varanasi",
+  :country-code "IN",
+  :city-code    "VNS",
+  :location     {:lng 82.86305556, :lat 25.45194444},
+  :code         "VNS"}
+ {:long_name    "Tete Matunda",
+  :country-code "MZ",
+  :city-code    "TET",
+  :location     {:lng 33.63888889, :lat -16.10333333},
+  :code         "TET"}
+ {:long_name    "Dickinson",
+  :country-code "US",
+  :city-code    "DIK",
+  :location     {:lng -102.7963889, :lat 46.79666667},
+  :code         "DIK"}
+ {:long_name    "Tongliao",
+  :country-code "CN",
+  :city-code    "TGO",
+  :location     {:lng 122.25, :lat 43.5},
+  :code         "TGO"}
+ {:long_name    "Hyderabad",
+  :country-code "IN",
+  :city-code    "HYD",
+  :location     {:lng 78.46111111, :lat 17.4525},
+  :code         "HYD"}
+ {:long_name    "Vilankulos",
+  :country-code "MZ",
+  :city-code    "VNX",
+  :location     {:lng 35, :lat -22},
+  :code         "VNX"}
+ {:long_name    "Kuala Terengganu - Sultan Mahmood",
+  :country-code "MY",
+  :city-code    "TGG",
+  :location     {:lng 103.1097222, :lat 5.381111111},
+  :code         "TGG"}
+ {:long_name    "Dire Dawa",
+  :country-code "ET",
+  :city-code    "DIR",
+  :location     {:lng 41.85083333, :lat 9.622222222},
+  :code         "DIR"}
+ {:long_name    "Huangyan",
+  :country-code "CN",
+  :city-code    "HRB",
+  :location     {:lng 122.3666667, :lat 28.41666667},
+  :code         "HYN"}
+ {:long_name    "Nanchang",
+  :country-code "CN",
+  :city-code    "KHN",
+  :location     {:lng 115.9, :lat 28.865},
+  :code         "KHN"}
+ {:long_name    "Podgorica",
+  :country-code "ME",
+  :city-code    "TGD",
+  :location     {:lng 19.25416667, :lat 42.35805556},
+  :code         "TGD"}
+ {:long_name    "Bismarck",
+  :country-code "US",
+  :city-code    "BIS",
+  :location     {:lng -100.7525, :lat 46.77888889},
+  :code         "BIS"}
+ {:long_name    "Volos",
+  :country-code "GR",
+  :city-code    "VOL",
+  :location     {:lng 22, :lat 39},
+  :code         "VOL"}
+ {:long_name    "Kaohsiung International",
+  :country-code "TW",
+  :city-code    "KHH",
+  :location     {:lng 120.3452778, :lat 22.5725},
+  :code         "KHH"}
+ {:long_name    "Bilbao",
+  :country-code "ES",
+  :city-code    "BIO",
+  :location     {:lng -2.921666667, :lat 43.30277778},
+  :code         "BIO"}
+ {:long_name    "Billings, MT",
+  :country-code "US",
+  :city-code    "BIL",
+  :location     {:lng -108.5427778, :lat 45.80694444},
+  :code         "BIL"}
+ {:long_name    "Tenerife Sur",
+  :country-code "ES",
+  :city-code    "TCI",
+  :location     {:lng -16.57055556, :lat 28.04277778},
+  :code         "TFS"}
+ {:long_name    "Manchester - Boston Regional, NH",
+  :country-code "US",
+  :city-code    "MHT",
+  :location     {:lng -71.43888889, :lat 42.93833333},
+  :code         "MHT"}
+ {:long_name    "Huntsville, Madison County, AL",
+  :country-code "US",
+  :city-code    "HSV",
+  :location     {:lng -86.77555556, :lat 34.64277778},
+  :code         "HSV"}
+ {:long_name    "Dongsheng",
+  :country-code "CN",
+  :city-code    "DSN",
+  :location     {:lng 110.0330556, :lat 39.84972222},
+  :code         "DSN"}
+ {:long_name    "Kokkola/Pietarsaari",
+  :country-code "FI",
+  :city-code    "KOK",
+  :location     {:lng 23.14166667, :lat 63.71555556},
+  :code         "KOK"}
+ {:long_name    "Des Moines, IA",
+  :country-code "US",
+  :city-code    "DSM",
+  :location     {:lng -93.65666667, :lat 41.53388889},
+  :code         "DSM"}
+ {:long_name    "Kagoshima",
+  :country-code "JP",
+  :city-code    "KOJ",
+  :location     {:lng 130.7202778, :lat 31.80194444},
+  :code         "KOJ"}
+ {:long_name    "Vishakhapatnam",
+  :country-code "IN",
+  :city-code    "VTZ",
+  :location     {:lng 83.22472222, :lat 17.72111111},
+  :code         "VTZ"}
+ {:long_name    "Bujumbura International",
+  :country-code "BI",
+  :city-code    "BJM",
+  :location     {:lng 29.32083333, :lat -3.331666667},
+  :code         "BJM"}
+ {:long_name    "Ontario International, CA",
+  :country-code "US",
+  :city-code    "ONT",
+  :location     {:lng -117.6080556, :lat 34.05722222},
+  :code         "ONT"}
+ {:long_name    "Zhuhai",
+  :country-code "CN",
+  :city-code    "ZUH",
+  :location     {:lng 113.5, :lat 22.25},
+  :code         "ZUH"}
+ {:long_name    "Banjul - Yundum International",
+  :country-code "GM",
+  :city-code    "BJL",
+  :location     {:lng -16.65222222, :lat 13.33805556},
+  :code         "BJL"}
+ {:long_name    "Tottori",
+  :country-code "JP",
+  :city-code    "TTJ",
+  :location     {:lng 134.17, :lat 35.53},
+  :code         "TTJ"}
+ {:long_name    "Bahar Dar",
+  :country-code "ET",
+  :city-code    "BJR",
+  :location     {:lng 37.38472222, :lat 11.59027778},
+  :code         "BJR"}
+ {:long_name    "Bodrum - Milas Airport",
+  :country-code "TR",
+  :city-code    "BXN",
+  :location     {:lng 27.66861111, :lat 37.14055556},
+  :code         "BJV"}
+ {:long_name    "Xuzhou",
+  :country-code "CN",
+  :city-code    "XUZ",
+  :location     {:lng 117.1833333, :lat 34.26666667},
+  :code         "XUZ"}
+ {:long_name    "Leon-Guanajuato - Del Bajio",
+  :country-code "MX",
+  :city-code    "BJX",
+  :location     {:lng -101.48, :lat 20.99138889},
+  :code         "BJX"}
+ {:long_name    "Darwin",
+  :country-code "AU",
+  :city-code    "DRW",
+  :location     {:lng 130.8766667, :lat -12.41472222},
+  :code         "DRW"}
+ {:long_name    "Muan",
+  :country-code "KR",
+  :city-code    "MWX",
+  :location     {:lng -75.87805556, :lat 23.5625},
+  :code         "MWX"}
+ {:long_name    "Odate Noshiro",
+  :country-code "JP",
+  :city-code    "ONJ",
+  :location     {:lng 140.3752778, :lat 40.18916667},
+  :code         "ONJ"}
+ {:long_name    "Durango La Plata",
+  :country-code "US",
+  :city-code    "DRO",
+  :location     {:lng -107.7538889, :lat 37.15138889},
+  :code         "DRO"}
+ {:long_name    "Vientiane",
+  :country-code "LA",
+  :city-code    "VTE",
+  :location     {:lng 102.5666667, :lat 17.98472222},
+  :code         "VTE"}
+ {:long_name    "Fukushima",
+  :country-code "JP",
+  :city-code    "FKS",
+  :location     {:lng 140.4291667, :lat 37.22861111},
+  :code         "FKS"}
+ {:long_name    "Del Rio International",
+  :country-code "US",
+  :city-code    "DRT",
+  :location     {:lng -100.9258333, :lat 29.37277778},
+  :code         "DRT"}
+ {:long_name    "Dresden",
+  :country-code "DE",
+  :city-code    "DRS",
+  :location     {:lng 13.76722222, :lat 51.13277778},
+  :code         "DRS"}
+ {:long_name    "Kota Kinabalu",
+  :country-code "MY",
+  :city-code    "BKI",
+  :location     {:lng 116.0511111, :lat 5.937222222},
+  :code         "BKI"}
+ {:long_name    "Tucuman",
+  :country-code "AR",
+  :city-code    "TUC",
+  :location     {:lng -65.19972222, :lat -26.83305556},
+  :code         "TUC"}
+ {:long_name    "Bangkok - Suvarnabhumi Int'l",
+  :country-code "TH",
+  :city-code    "BKK",
+  :location     {:lng 100.6066667, :lat 13.9125},
+  :code         "BKK"}
+ {:long_name    "Dortmund",
+  :country-code "DE",
+  :city-code    "DTM",
+  :location     {:lng 7.612222222, :lat 51.51833333},
+  :code         "DTM"}
+ {:long_name    "Zakynthos",
+  :country-code "GR",
+  :city-code    "ZTH",
+  :location     {:lng 20.88277778, :lat 37.75111111},
+  :code         "ZTH"}
+ {:long_name    "Shreveport Downtown",
+  :country-code "US",
+  :city-code    "SHV",
+  :location     {:lng -93.748891, :lat 32.537646},
+  :code         "DTN"}
+ {:long_name    "Bamako",
+  :country-code "ML",
+  :city-code    "BKO",
+  :location     {:lng -8.026666667, :lat 12.63222222},
+  :code         "BKO"}
+ {:long_name    "Moses Lake - Grant County",
+  :country-code "US",
+  :city-code    "MWH",
+  :location     {:lng -119.3202778, :lat 47.20777778},
+  :code         "MWH"}
+ {:long_name    "Kharkov",
+  :country-code "UA",
+  :city-code    "HRK",
+  :location     {:lng 36.29, :lat 49.92472222},
+  :code         "HRK"}
+ {:long_name    "Tulsa International, OK",
+  :country-code "US",
+  :city-code    "TUL",
+  :location     {:lng -95.88972222, :lat 36.1975},
+  :code         "TUL"}
+ {:long_name    "Harlingen, Texas",
+  :country-code "US",
+  :city-code    "HFD",
+  :location     {:lng -97.65222222, :lat 26.22805556},
+  :code         "HRL"}
+ {:long_name    "Karlsruhe",
+  :country-code "DE",
+  :city-code    "FKB",
+  :location     {:lng 8.080277778, :lat 48.77916667},
+  :code         "FKB"}
+ {:long_name    "Tunis - Carthage International",
+  :country-code "TN",
+  :city-code    "TUN",
+  :location     {:lng 63.06638889, :lat 25.98333333},
+  :code         "TUN"}
+ {:long_name    "Kanpur",
+  :country-code "IN",
+  :city-code    "KNU",
+  :location     {:lng 80.4125, :lat 26.40277778},
+  :code         "KNU"}
+ {:long_name    "Tucson International, AZ",
+  :country-code "US",
+  :city-code    "TUS",
+  :location     {:lng -110.9488889, :lat 32.125},
+  :code         "TUS"}
+ {:long_name    "Saga Airport",
+  :country-code "JP",
+  :city-code    "HSG",
+  :location     {:lng 130.3044444, :lat 33.14638889},
+  :code         "HSG"}
+ {:long_name    "Barcelona",
+  :country-code "VE",
+  :city-code    "BLA",
+  :location     {:lng -64.6875, :lat 10.10972222},
+  :code         "BLA"}
+ {:long_name    "Gold Coast, Queensland",
+  :country-code "AU",
+  :city-code    "OOL",
+  :location     {:lng 153.5047222, :lat -28.16444444},
+  :code         "OOL"}
+ {:long_name    "Alliance",
+  :country-code "US",
+  :city-code    "AIA",
+  :location     {:lng -102.8066667, :lat 42.05166667},
+  :code         "AIA"}
+ {:long_name    "Kona",
+  :country-code "US",
+  :city-code    "KOA",
+  :location     {:lng -156.0455556, :lat 19.73888889},
+  :code         "KOA"}
+ {:long_name    "Trondheim",
+  :country-code "NO",
+  :city-code    "TRD",
+  :location     {:lng 10.93694444, :lat 63.45972222},
+  :code         "TRD"}
+ {:long_name    "Bologna",
+  :country-code "IT",
+  :city-code    "BLQ",
+  :location     {:lng 11.2925, :lat 44.53055556},
+  :code         "BLQ"}
+ {:long_name    "Miyazaki",
+  :country-code "JP",
+  :city-code    "KMI",
+  :location     {:lng 131.4438889, :lat 31.87444444},
+  :code         "KMI"}
+ {:long_name    "Auckland - International",
+  :country-code "NZ",
+  :city-code    "AKL",
+  :location     {:lng 174.7916667, :lat -37.00805556},
+  :code         "AKL"}
+ {:long_name    "Kunming",
+  :country-code "CN",
+  :city-code    "KMG",
+  :location     {:lng 102.7436111, :lat 24.9925},
+  :code         "KMG"}
+ {:long_name    "Torreon",
+  :country-code "MX",
+  :city-code    "TRC",
+  :location     {:lng -103.4108333, :lat 25.56833333},
+  :code         "TRC"}
+ {:long_name    "Asahikawa",
+  :country-code "JP",
+  :city-code    "AKJ",
+  :location     {:lng 142.4513889, :lat 43.67083333},
+  :code         "AKJ"}
+ {:long_name    "Huatulco",
+  :country-code "MX",
+  :city-code    "HUX",
+  :location     {:lng -96.2625, :lat 15.77388889},
+  :code         "HUX"}
+ {:long_name    "Montevideo",
+  :country-code "UY",
+  :city-code    "MVD",
+  :location     {:lng -56.03027778, :lat -34.84},
+  :code         "MVD"}
+ {:long_name    "Fort Myers - Page Field",
+  :country-code "US",
+  :city-code    "FMY",
+  :location     {:lng -81.86222222, :lat 26.58694444},
+  :code         "FMY"}
+ {:long_name    "Billund",
+  :country-code "DK",
+  :city-code    "BLL",
+  :location     {:lng 9.152777778, :lat 55.74027778},
+  :code         "BLL"}
+ {:long_name    "Komatsu",
+  :country-code "JP",
+  :city-code    "KMQ",
+  :location     {:lng 136.4169444, :lat 36.39388889},
+  :code         "KMQ"}
+ {:long_name    "Verona",
+  :country-code "IT",
+  :city-code    "VRN",
+  :location     {:lng 10.93333333, :lat 45.46666667},
+  :code         "VRN"}
+ {:long_name    "Funchal",
+  :country-code "PT",
+  :city-code    "FNC",
+  :location     {:lng -16.77444444, :lat 32.69777778},
+  :code         "FNC"}
+ {:long_name    "Bristol",
+  :country-code "US",
+  :city-code    "TTO",
+  :location     {:lng -82.40638889, :lat 36.47611111},
+  :code         "TRI"}
+ {:long_name    "Sandefjord",
+  :country-code "NO",
+  :city-code    "TRF",
+  :location     {:lng 10.26027778, :lat 59.18777778},
+  :code         "TRF"}
+ {:long_name    "Freetown - Lungi International",
+  :country-code "SL",
+  :city-code    "FNA",
+  :location     {:lng -13.19694444, :lat 8.6175},
+  :code         "FNA"}
+ {:long_name    "Dublin",
+  :country-code "IE",
+  :city-code    "DUB",
+  :location     {:lng -6.252222222, :lat 53.4325},
+  :code         "DUB"}
+ {:long_name    "Bengaluru/Bangalore International",
+  :country-code "IN",
+  :city-code    "BLR",
+  :location     {:lng 77.66805556, :lat 12.94972222},
+  :code         "BLR"}
+ {:long_name    "Kumamoto",
+  :country-code "JP",
+  :city-code    "KMJ",
+  :location     {:lng 130.8525, :lat 32.83194444},
+  :code         "KMJ"}
+ {:long_name    "Memmingen",
+  :country-code "DE",
+  :city-code    "FMM",
+  :location     {:lng 10.23944444, :lat 47.98888889},
+  :code         "FMM"}
+ {:long_name    "Farmington, New Mexico - Municipal",
+  :country-code "US",
+  :city-code    "FMN",
+  :location     {:lng -108.2291667, :lat 36.74111111},
+  :code         "FMN"}
+ {:long_name    "Triest",
+  :country-code "IT",
+  :city-code    "TRS",
+  :location     {:lng 13.47222222, :lat 45.82666667},
+  :code         "TRS"}
+ {:long_name    "Olbia",
+  :country-code "IT",
+  :city-code    "OLB",
+  :location     {:lng 9.522222222, :lat 40.89722222},
+  :code         "OLB"}
+ {:long_name    "Almaty",
+  :country-code "KZ",
+  :city-code    "ALA",
+  :location     {:lng 81.62777778, :lat 47.09277778},
+  :code         "ALA"}
+ {:long_name    "Albany, NY",
+  :country-code "US",
+  :city-code    "ALB",
+  :location     {:lng -73.80527778, :lat 42.74583333},
+  :code         "ALB"}
+ {:long_name    "Blantyre",
+  :country-code "MW",
+  :city-code    "BLZ",
+  :location     {:lng 34.97083333, :lat -15.67472222},
+  :code         "BLZ"}
+ {:long_name    "Turin",
+  :country-code "IT",
+  :city-code    "TRN",
+  :location     {:lng 7.648055556, :lat 45.20111111},
+  :code         "TRN"}
+ {:long_name    "Maturin Quiriquire",
+  :country-code "VE",
+  :city-code    "MUN",
+  :location     {:lng -63.15416667, :lat 9.745833333},
+  :code         "MUN"}
+ {:long_name    "Detroit - Wayne County, MI",
+  :country-code "US",
+  :city-code    "DTT",
+  :location     {:lng -83.35333333, :lat 42.2125},
+  :code         "DTW"}
+ {:long_name    "Alta",
+  :country-code "NO",
+  :city-code    "ALF",
+  :location     {:lng 23.38055556, :lat 69.97611111},
+  :code         "ALF"}
+ {:long_name    "Varadero",
+  :country-code "CU",
+  :city-code    "VRA",
+  :location     {:lng -81.29722222, :lat 23.12583333},
+  :code         "VRA"}
+ {:long_name    "TIRUCHCHIRAPPALLI",
+  :country-code "IN",
+  :city-code    "TRZ",
+  :location     {:lng 78.70888889, :lat 10.76388889},
+  :code         "TRZ"}
+ {:long_name    "Munster",
+  :country-code "DE",
+  :city-code    "FMO",
+  :location     {:lng 7.686111111, :lat 52.13527778},
+  :code         "FMO"}
+ {:long_name    "Algiers",
+  :country-code "DZ",
+  :city-code    "ALG",
+  :location     {:lng 3.215277778, :lat 36.36333333},
+  :code         "ALG"}
+ {:long_name    "Thiruvananthapuram",
+  :country-code "IN",
+  :city-code    "TRV",
+  :location     {:lng 76.91972222, :lat 8.479722222},
+  :code         "TRV"}
+ {:long_name    "Davao",
+  :country-code "PH",
+  :city-code    "DVO",
+  :location     {:lng 125.6494444, :lat 7.131666667},
+  :code         "DVO"}
+ {:long_name    "Astana",
+  :country-code "KZ",
+  :city-code    "TSE",
+  :location     {:lng 71.46694444, :lat 51.02222222},
+  :code         "TSE"}
+ {:long_name    "Aizawl",
+  :country-code "IN",
+  :city-code    "AJL",
+  :location     {:lng 92.80277778, :lat 23.74666667},
+  :code         "AJL"}
+ {:long_name    "Munich - Franz Josef Strauss",
+  :country-code "DE",
+  :city-code    "MUC",
+  :location     {:lng 11.69916667, :lat 48.1325},
+  :code         "MUC"}
+ {:long_name    "Devils Lake",
+  :country-code "US",
+  :city-code    "DVL",
+  :location     {:lng -98.9075, :lat 48.11305556},
+  :code         "DVL"}
+ {:long_name    "Maun",
+  :country-code "BW",
+  :city-code    "MUB",
+  :location     {:lng 23.43055556, :lat -19.97083333},
+  :code         "MUB"}
+ {:long_name    "Huntington",
+  :country-code "US",
+  :city-code    "HTS",
+  :location     {:lng -82.55805556, :lat 38.36666667},
+  :code         "HTS"}
+ {:long_name    "Jerez De La Frontera - La Parra",
+  :country-code "ES",
+  :city-code    "XRY",
+  :location     {:lng -6.058888889, :lat 36.74527778},
+  :code         "XRY"}
+ {:long_name    "Tianjin",
+  :country-code "CN",
+  :city-code    "TSN",
+  :location     {:lng 117.3469444, :lat 39.11888889},
+  :code         "TSN"}
+ {:long_name    "Aracaju",
+  :country-code "BR",
+  :city-code    "AJU",
+  :location     {:lng -37.07027778, :lat -10.98388889},
+  :code         "AJU"}
+ {:long_name    "Tsushima",
+  :country-code "JP",
+  :city-code    "TSJ",
+  :location     {:lng 129.3325, :lat 34.28166667},
+  :code         "TSJ"}
+ {:long_name    "Monterrey - Gen. Mariano Escobedo",
+  :country-code "MX",
+  :city-code    "MTY",
+  :location     {:lng -100.1069444, :lat 25.7775},
+  :code         "MTY"}
+ {:long_name    "Klagenfurt",
+  :country-code "AT",
+  :city-code    "KLU",
+  :location     {:lng 14.34166667, :lat 46.64305556},
+  :code         "KLU"}
+ {:long_name    "Manzini - Matsapha International",
+  :country-code "SZ",
+  :city-code    "MTS",
+  :location     {:lng 31.31138889, :lat -26.52416667},
+  :code         "MTS"}
+ {:long_name    "Nashville, TN",
+  :country-code "US",
+  :city-code    "BNA",
+  :location     {:lng -86.67805556, :lat 36.12444444},
+  :code         "BNA"}
+ {:long_name    "Minatitlan",
+  :country-code "MX",
+  :city-code    "MTT",
+  :location     {:lng -94.58055556, :lat 18.10333333},
+  :code         "MTT"}
+ {:long_name    "Fort Lauderdale - International, FL",
+  :country-code "US",
+  :city-code    "FLL",
+  :location     {:lng -80.15305556, :lat 26.07222222},
+  :code         "FLL"}
+ {:long_name    "Kalamata",
+  :country-code "GR",
+  :city-code    "KLX",
+  :location     {:lng 22.02777778, :lat 37.06944444},
+  :code         "KLX"}
+ {:long_name    "Nome",
+  :country-code "US",
+  :city-code    "OME",
+  :location     {:lng -165.4416667, :lat 64.51138889},
+  :code         "OME"}
+ {:long_name    "Humera",
+  :country-code "ET",
+  :city-code    "HUE",
+  :location     {:lng 36.58333333, :lat 14.25},
+  :code         "HUE"}
+ {:long_name    "Kalmar",
+  :country-code "SE",
+  :city-code    "KLR",
+  :location     {:lng 16.28722222, :lat 56.685},
+  :code         "KLR"}
+ {:long_name    "Timisoara – Traian Vuia International Airport",
+  :country-code "RO",
+  :city-code    "TSR",
+  :location     {:lng 13.47222222, :lat 45.8275},
+  :code         "TSR"}
+ {:long_name    "Omaha - Eppley Airfield, NE",
+  :country-code "US",
+  :city-code    "OMA",
+  :location     {:lng -95.89333333, :lat 41.30194444},
+  :code         "OMA"}
+ {:long_name    "Florence - Amerigo Vespucci",
+  :country-code "IT",
+  :city-code    "FLR",
+  :location     {:lng 11.19777778, :lat 43.81027778},
+  :code         "FLR"}
+ {:long_name    "Villahermosa",
+  :country-code "MX",
+  :city-code    "VSA",
+  :location     {:lng -92.93333333, :lat 17.96666667},
+  :code         "VSA"}
+ {:long_name    "Florianopolis",
+  :country-code "BR",
+  :city-code    "FLN",
+  :location     {:lng -48.55055556, :lat -27.66972222},
+  :code         "FLN"}
+ {:long_name    "Zurich",
+  :country-code "CH",
+  :city-code    "ZRH",
+  :location     {:lng 8.551666667, :lat 47.45833333},
+  :code         "ZRH"}
+ {:long_name    "Florence",
+  :country-code "US",
+  :city-code    "FLO",
+  :location     {:lng -79.72444444, :lat 34.18888889},
+  :code         "FLO"}
+ {:long_name    "Durban International Airport",
+  :country-code "ZA",
+  :city-code    "DUR",
+  :location     {:lng 30.95694444, :lat -29.96916667},
+  :code         "DUR"}
+ {:long_name    "Brisbane International",
+  :country-code "AU",
+  :city-code    "BNE",
+  :location     {:lng 153.0855556, :lat -27.425},
+  :code         "BNE"}
+ {:long_name    "Dusseldorf - Nordrhein-Westfalen",
+  :country-code "DE",
+  :city-code    "DUS",
+  :location     {:lng 6.752777778, :lat 51.28111111},
+  :code         "DUS"}
+ {:long_name    "Montrose County",
+  :country-code "US",
+  :city-code    "MTJ",
+  :location     {:lng -107.8947222, :lat 38.50055556},
+  :code         "MTJ"}
+ {:long_name    "New Orleans International, LA",
+  :country-code "US",
+  :city-code    "MSY",
+  :location     {:lng -90.25138889, :lat 29.99111111},
+  :code         "MSY"}
+ {:long_name    "Taipei - Taoyuan Intl",
+  :country-code "TW",
+  :city-code    "TPE",
+  :location     {:lng 121.2213889, :lat 25.08555556},
+  :code         "TPE"}
+ {:long_name    "Holguin",
+  :country-code "CU",
+  :city-code    "HOG",
+  :location     {:lng -76.315, :lat 20.78527778},
+  :code         "HOG"}
+ {:long_name    "Kristiansund - Kvernberget",
+  :country-code "NO",
+  :city-code    "KSU",
+  :location     {:lng 7.844444444, :lat 63.11472222},
+  :code         "KSU"}
+ {:long_name    "Amsterdam",
+  :country-code "NL",
+  :city-code    "AMS",
+  :city         {:name "Amsterdam" :location {:lng 4.9, :lat 52.3667}}
+  :location     {:lng 4.768055556, :lat 52.30833333},
+  :code         "AMS"}
+ {:long_name    "Queretaro",
+  :country-code "MX",
+  :city-code    "QRO",
+  :location     {:lng -100.3719444, :lat 20.62555556},
+  :code         "QRO"}
+ {:long_name    "Orsta-Volda",
+  :country-code "NO",
+  :city-code    "HOV",
+  :location     {:lng 6.078888889, :lat 62.18166667},
+  :code         "HOV"}
+ {:long_name    "Tampa International, FL",
+  :country-code "US",
+  :city-code    "TPA",
+  :location     {:lng -82.53527778, :lat 27.97305556},
+  :code         "TPA"}
+ {:long_name    "Doha",
+  :country-code "QA",
+  :city-code    "DOH",
+  :location     {:lng 51.60833333, :lat 25.27444444},
+  :code         "DOH"}
+ {:long_name    "Amman - Queen Alia International",
+  :country-code "JO",
+  :city-code    "AMM",
+  :location     {:lng 35.99527778, :lat 31.72361111},
+  :code         "AMM"}
+ {:long_name    "Bogotá",
+  :country-code "CO",
+  :city-code    "BOG",
+  :location     {:lng -74.14222222, :lat 4.706111111},
+  :code         "BOG"}
+ {:long_name    "Fortaleza",
+  :country-code "BR",
+  :city-code    "FOR",
+  :location     {:lng -38.53444444, :lat -3.776666667},
+  :code         "FOR"}
+ {:long_name    "Dnipropetrovsk-42",
+  :country-code "UA",
+  :city-code    "DNK",
+  :location     {:lng 35.10055556, :lat 48.35722222},
+  :code         "DNK"}
+ {:long_name    "Antofagasta",
+  :country-code "CL",
+  :city-code    "ANF",
+  :location     {:lng -70.44277778, :lat -23.43944444},
+  :code         "ANF"}
+ {:long_name    "Burgas",
+  :country-code "BG",
+  :city-code    "BOJ",
+  :location     {:lng 27.51083333, :lat 42.55361111},
+  :code         "BOJ"}
+ {:long_name    "Boise, ID",
+  :country-code "US",
+  :city-code    "BOI",
+  :location     {:lng -116.225, :lat 43.56527778},
+  :code         "BOI"}
+ {:long_name    "Minsk",
+  :country-code "BY",
+  :city-code    "MSQ",
+  :location     {:lng 28.03083333, :lat 53.8825},
+  :code         "MSQ"}
+ {:long_name    "Norfolk International, VA",
+  :country-code "US",
+  :city-code    "ORF",
+  :location     {:lng -76.20138889, :lat 36.89583333},
+  :code         "ORF"}
+ {:long_name    "Anchorage - International",
+  :country-code "US",
+  :city-code    "ANC",
+  :location     {:lng -149.9852778, :lat 61.16916667},
+  :code         "ANC"}
+ {:long_name    "Minneapolis - St Paul International, MN",
+  :country-code "US",
+  :city-code    "MSP",
+  :location     {:lng -93.21777778, :lat 44.88611111},
+  :code         "MSP"}
+ {:long_name    "Missoula International, MT",
+  :country-code "US",
+  :city-code    "MSO",
+  :location     {:lng -114.0875, :lat 46.91555556},
+  :code         "MSO"}
+ {:long_name    "Chicago - O'Hare International, IL",
+  :country-code "US",
+  :city-code    "CHI",
+  :location     {:lng -87.90611111, :lat 41.97805556},
+  :code         "ORD"}
+ {:long_name    "Madison, WI",
+  :country-code "US",
+  :city-code    "MSN",
+  :location     {:lng -89.33694444, :lat 43.14194444},
+  :code         "MSN"}
+ {:long_name    "Maseru - Moshoeshoe International",
+  :country-code "LS",
+  :city-code    "MSU",
+  :location     {:lng 27.50555556, :lat -29.30138889},
+  :code         "MSU"}
+ {:long_name    "Walla Walla",
+  :country-code "WF",
+  :city-code    "WLS",
+  :location     {:lng -118.2911111, :lat 46.09472222},
+  :code         "ALW"}
+ {:long_name    "Mauritius",
+  :country-code "MU",
+  :city-code    "MRU",
+  :location     {:lng 57.67638889, :lat -20.4275},
+  :code         "MRU"}
+ {:long_name    "Fuzhou",
+  :country-code "CN",
+  :city-code    "FOC",
+  :location     {:lng 119.6633333, :lat 25.935},
+  :code         "FOC"}
+ {:long_name    "Krasnodar",
+  :country-code "RU",
+  :city-code    "KRR",
+  :location     {:lng 39.17055556, :lat 45.03472222},
+  :code         "KRR"}
+ {:long_name    "Topeka - Forbes AFB",
+  :country-code "US",
+  :city-code    "TOP",
+  :location     {:lng -95.6625, :lat 38.9525},
+  :code         "FOE"}
+ {:long_name    "Alamosa",
+  :country-code "US",
+  :city-code    "ALS",
+  :location     {:lng -105.8666667, :lat 37.435},
+  :code         "ALS"}
+ {:long_name    "Kristiansand - Kjevik",
+  :country-code "NO",
+  :city-code    "KRS",
+  :location     {:lng 8.084166667, :lat 58.20305556},
+  :code         "KRS"}
+ {:long_name    "Monterey Peninsula, CA",
+  :country-code "US",
+  :city-code    "MRY",
+  :location     {:lng -121.8480556, :lat 36.58805556},
+  :code         "MRY"}
+ {:long_name    "Khartoum",
+  :country-code "SD",
+  :city-code    "KRT",
+  :location     {:lng 32.55611111, :lat 15.59944444},
+  :code         "KRT"}
+ {:long_name    "Honolulu International",
+  :country-code "US",
+  :city-code    "HNL",
+  :location     {:lng -157.9252778, :lat 21.32194444},
+  :code         "HNL"}
+ {:long_name    "Mumbai - Chhatrapati Shivaji Intl. Airport",
+  :country-code "IN",
+  :city-code    "BOM",
+  :location     {:lng 72.85166667, :lat 19.08805556},
+  :code         "BOM"}
+ {:long_name    "Bodo",
+  :country-code "NO",
+  :city-code    "BOO",
+  :location     {:lng 14.37222222, :lat 67.26916667},
+  :code         "BOO"}
+ {:long_name    "Krakow",
+  :country-code "PL",
+  :city-code    "KRK",
+  :location     {:lng 19.78472222, :lat 50.07777778},
+  :code         "KRK"}
+ {:long_name    "Boston - Logan International, MA",
+  :country-code "US",
+  :city-code    "BOS",
+  :location     {:lng -71.00527778, :lat 42.36444444},
+  :code         "BOS"}
+ {:long_name    "Kiruna",
+  :country-code "SE",
+  :city-code    "KRN",
+  :location     {:lng 20.34583333, :lat 67.82222222},
+  :code         "KRN"}
+ {:long_name    "Mataram",
+  :country-code "ID",
+  :city-code    "AMI",
+  :location     {:lng 116.0969444, :lat -8.56},
+  :code         "AMI"}
+ {:long_name    "Donetsk",
+  :country-code "UA",
+  :city-code    "DOK",
+  :location     {:lng 37.73972222, :lat 48.07444444},
+  :code         "DOK"}
+ {:long_name    "Arba Minch",
+  :country-code "ET",
+  :city-code    "AMH",
+  :location     {:lng 37.57694444, :lat 6.036111111},
+  :code         "AMH"}
+ {:long_name    "Oslo",
+  :country-code "NO",
+  :city-code    "OSL",
+  :location     {:lng 11.08555556, :lat 60.20277778},
+  :code         "OSL"}
+ {:long_name    "Kosice",
+  :country-code "SK",
+  :city-code    "KSC",
+  :location     {:lng 21.24111111, :lat 48.66305556},
+  :code         "KSC"}
+ {:long_name    "Ahmedabad",
+  :country-code "IN",
+  :city-code    "AMD",
+  :location     {:lng 72.62416667, :lat 23.06638889},
+  :code         "AMD"}
+ {:long_name    "Karlstad",
+  :country-code "SE",
+  :city-code    "KSD",
+  :location     {:lng 13.46944444, :lat 59.36166667},
+  :code         "KSD"}
+ {:long_name    "Amarillo - International",
+  :country-code "US",
+  :city-code    "AMA",
+  :location     {:lng -101.7219444, :lat 35.22722222},
+  :code         "AMA"}
+ {:long_name    "Ostersund",
+  :country-code "SE",
+  :city-code    "OSD",
+  :location     {:lng 14.49444444, :lat 63.19861111},
+  :code         "OSD"}
+ {:long_name    "Marseille-Provence",
+  :country-code "FR",
+  :city-code    "MRS",
+  :location     {:lng 5.216388889, :lat 43.43555556},
+  :code         "MRS"}
+ {:long_name    "Mekele",
+  :country-code "ET",
+  :city-code    "MQX",
+  :location     {:lng 39.52638889, :lat 13.46833333},
+  :code         "MQX"}
+ {:long_name    "Jinan",
+  :country-code "CN",
+  :city-code    "TNA",
+  :location     {:lng 117.2161111, :lat 36.85722222},
+  :code         "TNA"}
+ {:long_name    "Beaumont - Jefferson County",
+  :country-code "US",
+  :city-code    "BPT",
+  :location     {:lng -94.02, :lat 29.95083333},
+  :code         "BPT"}
+ {:long_name    "Merida",
+  :country-code "VE",
+  :city-code    "MRD",
+  :location     {:lng -71.16111111, :lat 8.582222222},
+  :code         "MRD"}
+ {:long_name    "Frankfurt/Main International",
+  :country-code "DE",
+  :city-code    "FRA",
+  :location     {:lng 8.577777778, :lat 50.03194444},
+  :code         "FRA"}
+ {:long_name    "Porto Seguro",
+  :country-code "BR",
+  :city-code    "BPS",
+  :location     {:lng -39.08083333, :lat -16.43861111},
+  :code         "BPS"}
+ {:long_name    "Alor Setar",
+  :country-code "MY",
+  :city-code    "AOR",
+  :location     {:lng 100.4038889, :lat 6.191111111},
+  :code         "AOR"}
+ {:long_name    "Balikpapan",
+  :country-code "ID",
+  :city-code    "BPN",
+  :location     {:lng 116.8930556, :lat -1.268055556},
+  :code         "BPN"}
+ {:long_name    "Stuttgart - Railway Station",
+  :country-code "DE",
+  :city-code    "STR",
+  :location     {:lng 9, :lat 48},
+  :code         "ZWS"}
+ {:long_name    "Denpasar-Bali",
+  :country-code "ID",
+  :city-code    "DPS",
+  :location     {:lng 115.165, :lat -8.748611111},
+  :code         "DPS"}
+ {:long_name    "Porto",
+  :country-code "PT",
+  :city-code    "OPO",
+  :location     {:lng -8.674722222, :lat 41.23805556},
+  :code         "OPO"}
+ {:long_name    "Antananarivo",
+  :country-code "MG",
+  :city-code    "TNR",
+  :location     {:lng 47.47888889, :lat -18.79611111},
+  :code         "TNR"}
+ {:long_name    "Nampula",
+  :country-code "MZ",
+  :city-code    "APL",
+  :location     {:lng 39.28722222, :lat -15.10166667},
+  :code         "APL"}
+ {:long_name    "Hurghada",
+  :country-code "EG",
+  :city-code    "HRG",
+  :location     {:lng 33.79888889, :lat 27.18583333},
+  :code         "HRG"}
+ {:long_name    "Harare",
+  :country-code "ZW",
+  :city-code    "HRE",
+  :location     {:lng 31.10138889, :lat -17.92277778},
+  :code         "HRE"}
+ {:long_name    "Harbin",
+  :country-code "CN",
+  :city-code    "HRB",
+  :location     {:lng 126.2502778, :lat 45.62333333},
+  :code         "HRB"}
+ {:long_name    "Antigua - V.C. Bird International",
+  :country-code "AG",
+  :city-code    "ANU",
+  :location     {:lng -61.79, :lat 17.1375},
+  :code         "ANU"}
+ {:long_name    "Westchester County",
+  :country-code "US",
+  :city-code    "HPN",
+  :location     {:lng -73.7075, :lat 41.06694444},
+  :code         "HPN"}
+ {:long_name    "Xining",
+  :country-code "CN",
+  :city-code    "XNN",
+  :location     {:lng 101, :lat 36},
+  :code         "XNN"}
+ {:long_name    "P'Ohang",
+  :country-code "KR",
+  :city-code    "KPO",
+  :location     {:lng 129.4194444, :lat 35.98472222},
+  :code         "KPO"}
+ {:long_name    "Barquisimeto",
+  :country-code "VE",
+  :city-code    "BRM",
+  :location     {:lng -69.35611111, :lat 10.04527778},
+  :code         "BRM"}
+ {:long_name    "Toyama",
+  :country-code "JP",
+  :city-code    "TOY",
+  :location     {:lng 137.1888889, :lat 36.64416667},
+  :code         "TOY"}
+ {:long_name    "Ancona",
+  :country-code "IT",
+  :city-code    "AOI",
+  :location     {:lng 13.36416667, :lat 43.6175},
+  :code         "AOI"}
+ {:long_name    "Brownsville - S. Padre Island International",
+  :country-code "US",
+  :city-code    "BRO",
+  :location     {:lng -97.42555556, :lat 25.90638889},
+  :code         "BRO"}
+ {:long_name    "Tromso",
+  :country-code "NO",
+  :city-code    "TOS",
+  :location     {:lng 18.92166667, :lat 69.68138889},
+  :code         "TOS"}
+ {:long_name    "Karpathos",
+  :country-code "GR",
+  :city-code    "AOK",
+  :location     {:lng 27.14722222, :lat 35.42388889},
+  :code         "AOK"}
+ {:long_name    "Bari",
+  :country-code "IT",
+  :city-code    "BRI",
+  :location     {:lng 16.78833333, :lat 41.14111111},
+  :code         "BRI"}
+ {:long_name    "Fayetteville, AR",
+  :country-code "US",
+  :city-code    "FYV",
+  :location     {:lng -94.30666667, :lat 36.28166667},
+  :code         "XNA"}
+ {:long_name    "Bremen",
+  :country-code "DE",
+  :city-code    "BRE",
+  :location     {:lng 8.79, :lat 53.04666667},
+  :code         "BRE"}
+ {:long_name    "Topeka - Phillip",
+  :country-code "US",
+  :city-code    "TOP",
+  :location     {:lng -95.6225, :lat 39.06972222},
+  :code         "TOP"}
+ {:long_name    "Montpellier",
+  :country-code "FR",
+  :city-code    "MPL",
+  :location     {:lng 3.970277778, :lat 43.58055556},
+  :code         "MPL"}
+ {:long_name    "San Carlos De Bariloche International",
+  :country-code "AR",
+  :city-code    "BRC",
+  :location     {:lng -71.15833333, :lat -41.14972222},
+  :code         "BRC"}
+ {:long_name    "Maputo International",
+  :country-code "MZ",
+  :city-code    "MPM",
+  :location     {:lng 32.57305556, :lat -25.92027778},
+  :code         "MPM"}
+ {:long_name    "Page",
+  :country-code "US",
+  :city-code    "PGA",
+  :location     {:lng -111.4472222, :lat 36.92638889},
+  :code         "PGA"}
+ {:long_name    "Hilton Head",
+  :country-code "US",
+  :city-code    "HHH",
+  :location     {:lng -80.6975, :lat 32.22444444},
+  :code         "HHH"}
+ {:long_name    "Xi'An - Xianyang",
+  :country-code "CN",
+  :city-code    "SIA",
+  :location     {:lng 108.7516667, :lat 34.44722222},
+  :code         "XIY"}
+ {:long_name    "Kushiro",
+  :country-code "JP",
+  :city-code    "KUH",
+  :location     {:lng 144.2038889, :lat 43.03972222},
+  :code         "KUH"}
+ {:long_name    "Samara Int'l Apt. Kuromoch",
+  :country-code "RU",
+  :city-code    "KUF",
+  :location     {:lng 50.15, :lat 53.2},
+  :code         "KUF"}
+ {:long_name    "Sanya",
+  :country-code "CN",
+  :city-code    "SYX",
+  :location     {:lng 109.4122222, :lat 18.30277778},
+  :code         "SYX"}
+ {:long_name    "Rostov-on-Don",
+  :country-code "RU",
+  :city-code    "ROV",
+  :location     {:lng 39.81805556, :lat 47.25833333},
+  :code         "ROV"}
+ {:long_name    "Kuantan",
+  :country-code "MY",
+  :city-code    "KUA",
+  :location     {:lng 103.2102778, :lat 3.772222222},
+  :code         "KUA"}
+ {:long_name    "Kittila",
+  :country-code "FI",
+  :city-code    "KTT",
+  :location     {:lng 24.84694444, :lat 67.70111111},
+  :code         "KTT"}
+ {:long_name    "Shonai",
+  :country-code "JP",
+  :city-code    "SYO",
+  :location     {:lng 139.7863889, :lat 38.81111111},
+  :code         "SYO"}
+ {:long_name    "Greenville, North Carolina - Pitt/Greenville",
+  :country-code "US",
+  :city-code    "PGV",
+  :location     {:lng -77.38527778, :lat 35.63527778},
+  :code         "PGV"}
+ {:long_name    "Fargo, ND",
+  :country-code "US",
+  :city-code    "FAR",
+  :location     {:lng -96.81472222, :lat 46.91555556},
+  :code         "FAR"}
+ {:long_name    "Rochester, NY",
+  :country-code "US",
+  :city-code    "ROC",
+  :location     {:lng -77.67083333, :lat 43.12138889},
+  :code         "ROC"}
+ {:long_name    "Katowice",
+  :country-code "PL",
+  :city-code    "KTW",
+  :location     {:lng 19.08, :lat 50.47416667},
+  :code         "KTW"}
+ {:long_name    "Syracuse - Hancock International, NY",
+  :country-code "US",
+  :city-code    "SYR",
+  :location     {:lng -76.1025, :lat 43.11055556},
+  :code         "SYR"}
+ {:long_name    "Monrovia - Robertsville International",
+  :country-code "LR",
+  :city-code    "MLW",
+  :location     {:lng -10.35888889, :lat 6.239722222},
+  :code         "ROB"}
+ {:long_name    "Roanoke, VA",
+  :country-code "US",
+  :city-code    "ROA",
+  :location     {:lng -79.97638889, :lat 37.32472222},
+  :code         "ROA"}
+ {:long_name    "Faro",
+  :country-code "PT",
+  :city-code    "FAO",
+  :location     {:lng -7.965833333, :lat 37.01444444},
+  :code         "FAO"}
+ {:long_name    "Fresno - Air Terminal, CA",
+  :country-code "US",
+  :city-code    "FAT",
+  :location     {:lng -119.7172222, :lat 36.77611111},
+  :code         "FAT"}
+ {:long_name    "Fayetteville, North Carolina - Municipal",
+  :country-code "US",
+  :city-code    "FAY",
+  :location     {:lng -78.88027778, :lat 34.99138889},
+  :code         "FAY"}
+ {:long_name    "Ketchikan International",
+  :country-code "US",
+  :city-code    "KTN",
+  :location     {:lng -131.7138889, :lat 55.35555556},
+  :code         "KTN"}
+ {:long_name    "Kathmandu - Tribhuvan",
+  :country-code "NP",
+  :city-code    "KTM",
+  :location     {:lng 85.36305556, :lat 27.70055556},
+  :code         "KTM"}
+ {:long_name    "Hiroshima International",
+  :country-code "JP",
+  :city-code    "HIJ",
+  :location     {:lng 132.4155556, :lat 34.36333333},
+  :code         "HIJ"}
+ {:long_name    "Reno - Cannon International, NV",
+  :country-code "US",
+  :city-code    "RNO",
+  :location     {:lng -119.7675, :lat 39.49777778},
+  :code         "RNO"}
+ {:long_name    "Shilabo",
+  :country-code "ET",
+  :city-code    "HIL",
+  :location     {:lng 44.75, :lat 6.066666667},
+  :code         "HIL"}
+ {:long_name    "Jinju",
+  :country-code "KR",
+  :city-code    "HIN",
+  :location     {:lng 128.0719444, :lat 35.08777778},
+  :code         "HIN"}
+ {:long_name    "Sydney - Kingsford Smith International",
+  :country-code "AU",
+  :city-code    "SYD",
+  :location     {:lng 151.1758333, :lat -33.94416667},
+  :code         "SYD"}
+ {:long_name    "Peshawar",
+  :country-code "PK",
+  :city-code    "PEW",
+  :location     {:lng 71.51444444, :lat 33.99388889},
+  :code         "PEW"}
+ {:long_name    "Kavala",
+  :country-code "GR",
+  :city-code    "KVA",
+  :location     {:lng 24.34194444, :lat 40.97277778},
+  :code         "KVA"}
+ {:long_name    "Srinagar",
+  :country-code "IN",
+  :city-code    "SXR",
+  :location     {:lng 74.77527778, :lat 33.98805556},
+  :code         "SXR"}
+ {:long_name    "Ronneby",
+  :country-code "SE",
+  :city-code    "RNB",
+  :location     {:lng 15.26111111, :lat 56.25833333},
+  :code         "RNB"}
+ {:long_name    "Curitiba",
+  :country-code "BR",
+  :city-code    "CWB",
+  :location     {:lng -49.17777778, :lat -25.52666667},
+  :code         "CWB"}
+ {:long_name    "Kuala Lumpur Int'l (Sepang)",
+  :country-code "MY",
+  :city-code    "KUL",
+  :location     {:lng 101.5519444, :lat 3.129722222},
+  :code         "KUL"}
+ {:long_name    "Kuopio",
+  :country-code "FI",
+  :city-code    "KUO",
+  :location     {:lng 27.79777778, :lat 63.00722222},
+  :code         "KUO"}
+ {:long_name    "Gwangju",
+  :country-code "KR",
+  :city-code    "KWJ",
+  :location     {:lng 126.8108333, :lat 35.12333333},
+  :code         "KWJ"}
+ {:long_name    "Kuwait International",
+  :country-code "KW",
+  :city-code    "KWI",
+  :location     {:lng 47.97527778, :lat 29.23027778},
+  :code         "KWI"}
+ {:long_name    "Peoria, IL",
+  :country-code "US",
+  :city-code    "PIA",
+  :location     {:lng -89.68722222, :lat 40.66138889},
+  :code         "PIA"}
+ {:long_name    "Guiyang",
+  :country-code "CN",
+  :city-code    "KWE",
+  :location     {:lng 106.5316667, :lat 26.40944444},
+  :code         "KWE"}
+ {:long_name    "Hefei",
+  :country-code "CN",
+  :city-code    "HFE",
+  :location     {:lng 117.2983333, :lat 31.78},
+  :code         "HFE"}
+ {:long_name    "Manzanillo",
+  :country-code "MX",
+  :city-code    "ZLO",
+  :location     {:lng -104.3505556, :lat 19.11333333},
+  :code         "ZLO"}
+ {:long_name    "Cincinnati - Northern Kentucky, OH",
+  :country-code "US",
+  :city-code    "CVG",
+  :location     {:lng -84.66861111, :lat 39.04777778},
+  :code         "CVG"}
+ {:long_name    "Phoenix - Sky Harbor International, AZ",
+  :country-code "US",
+  :city-code    "PHX",
+  :location     {:lng -112.0116667, :lat 33.43416667},
+  :code         "PHX"}
+ {:long_name    "Pittsburgh International, PA",
+  :country-code "US",
+  :city-code    "PIT",
+  :location     {:lng -80.23583333, :lat 40.49666667},
+  :code         "PIT"}
+ {:long_name    "Pierre",
+  :country-code "US",
+  :city-code    "PIR",
+  :location     {:lng -100.2841667, :lat 44.38361111},
+  :code         "PIR"}
+ {:long_name    "Chihuahua",
+  :country-code "MX",
+  :city-code    "CUU",
+  :location     {:lng -106.0944444, :lat 28.6525},
+  :code         "CUU"}
+ {:long_name    "Curacao - Hato Airport",
+  :country-code "CW",
+  :city-code    "CUR",
+  :location     {:lng -68.95916667, :lat 12.18916667},
+  :code         "CUR"}
+ {:long_name    "Raipur",
+  :country-code "IN",
+  :city-code    "RPR",
+  :location     {:lng 81.74388889, :lat 21.18194444},
+  :code         "RPR"}
+ {:long_name    "Cancun",
+  :country-code "MX",
+  :city-code    "CUN",
+  :location     {:lng -86.87694444, :lat 21.03666667},
+  :code         "CUN"}
+ {:long_name    "Newport News - Hampton, Virginia",
+  :country-code "US",
+  :city-code    "PHF",
+  :location     {:lng -76.49333333, :lat 37.13166667},
+  :code         "PHF"}
+ {:long_name    "Hangzhou",
+  :country-code "CN",
+  :city-code    "HGH",
+  :location     {:lng 120.4316667, :lat 30.22833333},
+  :code         "HGH"}
+ {:long_name    "Culiacan",
+  :country-code "MX",
+  :city-code    "CUL",
+  :location     {:lng -107.4741667, :lat 24.76444444},
+  :code         "CUL"}
+ {:long_name    "Port Harcourt International",
+  :country-code "NG",
+  :city-code    "PHC",
+  :location     {:lng 7.022222222, :lat 4.844166667},
+  :code         "PHC"}
+ {:long_name    "Cumana",
+  :country-code "VE",
+  :city-code    "CUM",
+  :location     {:lng -64.19194444, :lat 10.44777778},
+  :code         "CUM"}
+ {:long_name    "Shenzhen",
+  :country-code "CN",
+  :city-code    "SZX",
+  :location     {:lng 113.8105556, :lat 22.63916667},
+  :code         "SZX"}
+ {:long_name    "Cucuta",
+  :country-code "CO",
+  :city-code    "CUC",
+  :location     {:lng -72.50944444, :lat 7.93},
+  :code         "CUC"}
+ {:long_name    "Joinville",
+  :country-code "BR",
+  :city-code    "JOI",
+  :location     {:lng -48.7975, :lat -26.22444444},
+  :code         "JOI"}
+ {:long_name    "Nagpur",
+  :country-code "IN",
+  :city-code    "NAG",
+  :location     {:lng 79.04972222, :lat 21.09111111},
+  :code         "NAG"}
+ {:long_name    "Phalaborwa",
+  :country-code "ZA",
+  :city-code    "PHW",
+  :location     {:lng 31.15611111, :lat -23.93361111},
+  :code         "PHW"}
+ {:long_name    "Xiamen",
+  :country-code "CN",
+  :city-code    "XMN",
+  :location     {:lng 118.1166667, :lat 24.46666667},
+  :code         "XMN"}
+ {:long_name    "Naples - Capodichino",
+  :country-code "IT",
+  :city-code    "NAP",
+  :location     {:lng 14.29166667, :lat 40.88611111},
+  :code         "NAP"}
+ {:long_name    "Philadelphia International, PA",
+  :country-code "US",
+  :city-code    "PHL",
+  :location     {:lng -75.24861111, :lat 39.86805556},
+  :code         "PHL"}
+ {:long_name    "Chengdu",
+  :country-code "CN",
+  :city-code    "CTU",
+  :location     {:lng 103.9472222, :lat 30.57861111},
+  :code         "CTU"}
+ {:long_name    "Salzburg - W.A. Mozart",
+  :country-code "AT",
+  :city-code    "SZG",
+  :location     {:lng 13.00444444, :lat 47.79333333},
+  :code         "SZG"}
+ {:long_name    "Guilin",
+  :country-code "CN",
+  :city-code    "KWL",
+  :location     {:lng 110.0391667, :lat 25.21805556},
+  :code         "KWL"}
+ {:long_name    "Sapporo - Chitose",
+  :country-code "JP",
+  :city-code    "SPK",
+  :location     {:lng 141.6691667, :lat 42.79583333},
+  :code         "CTS"}
+ {:long_name    "Rock Springs",
+  :country-code "US",
+  :city-code    "RKS",
+  :location     {:lng -109.0658333, :lat 41.59638889},
+  :code         "RKS"}
+ {:long_name    "Hailar",
+  :country-code "CN",
+  :city-code    "HLD",
+  :location     {:lng 119.825, :lat 49.205},
+  :code         "HLD"}
+ {:long_name    "Parkersburg/Marietta",
+  :country-code "US",
+  :city-code    "PKB",
+  :location     {:lng -81.43888889, :lat 39.34555556},
+  :code         "PKB"}
+ {:long_name    "Strasbourg Bus Station",
+  :country-code "FR",
+  :city-code    "SXB",
+  :location     {:lng 7.632222222, :lat 48.54055556},
+  :code         "XER"}
+ {:long_name    "Ulanhot",
+  :country-code "CN",
+  :city-code    "HLH",
+  :location     {:lng 122.0166667, :lat 46.08333333},
+  :code         "HLH"}
+ {:long_name    "Jabalpur",
+  :country-code "IN",
+  :city-code    "JLR",
+  :location     {:lng 80.05416667, :lat 23.17777778},
+  :code         "JLR"}
+ {:long_name    "Milan Malpensa",
+  :country-code "IT",
+  :city-code    "MIL",
+  :location     {:lng 8.732222222, :lat 45.63277778},
+  :code         "MXP"}
+ {:long_name    "Surabaya",
+  :country-code "ID",
+  :city-code    "SUB",
+  :location     {:lng 112.7208333, :lat -7.218055556},
+  :code         "SUB"}
+ {:long_name    "Miyake Jima",
+  :country-code "JP",
+  :city-code    "MYE",
+  :location     {:lng 139.5625, :lat 34.06944444},
+  :code         "MYE"}
+ {:long_name    "Matsuyama",
+  :country-code "JP",
+  :city-code    "MYJ",
+  :location     {:lng 132.7041667, :lat 33.82222222},
+  :code         "MYJ"}
+ {:long_name    "Lamezia Terme",
+  :country-code "IT",
+  :city-code    "SUF",
+  :location     {:lng 16.23888889, :lat 38.90916667},
+  :code         "SUF"}
+ {:long_name    "Pekanbaru",
+  :country-code "ID",
+  :city-code    "PKU",
+  :location     {:lng 101.4444444, :lat 0.460833333},
+  :code         "PKU"}
+ {:long_name    "Sun Valley",
+  :country-code "US",
+  :city-code    "SUN",
+  :location     {:lng -114.3083333, :lat 43.50416667},
+  :code         "SUN"}
+ {:long_name    "Xiangfan",
+  :country-code "CN",
+  :city-code    "XFN",
+  :location     {:lng 112, :lat 32},
+  :code         "XFN"}
+ {:long_name    "Stuttgart - Echterdingen",
+  :country-code "DE",
+  :city-code    "STR",
+  :location     {:lng 9.21, :lat 48.68833333},
+  :code         "STR"}
+ {:long_name    "Santa Rosa",
+  :country-code "US",
+  :city-code    "STS",
+  :location     {:lng -122.8116667, :lat 38.50916667},
+  :code         "STS"}
+ {:long_name    "Saint Thomas Island",
+  :country-code "US",
+  :city-code    "SNP",
+  :location     {:lng -64.96944444, :lat 18.3375},
+  :code         "STT"}
+ {:long_name    "Miri",
+  :country-code "MY",
+  :city-code    "MYY",
+  :location     {:lng 113.9869444, :lat 4.321944444},
+  :code         "MYY"}
+ {:long_name    "Surat",
+  :country-code "IN",
+  :city-code    "STV",
+  :location     {:lng 72.74222222, :lat 21.11361111},
+  :code         "STV"}
+ {:long_name    "Osorno",
+  :country-code "CL",
+  :city-code    "ZOS",
+  :location     {:lng -73.05555556, :lat -40.6075},
+  :code         "ZOS"}
+ {:long_name    "Johannesburg- O.R. Tambo International Airport",
+  :country-code "ZA",
+  :city-code    "JNB",
+  :location     {:lng 28.04722222, :lat -26.20416667},
+  :code         "JNB"}
+ {:long_name    "Jamestown, North Dakota",
+  :country-code "US",
+  :city-code    "JMS",
+  :location     {:lng -98.67833333, :lat 46.93},
+  :code         "JMS"}
+ {:long_name    "Rijeka",
+  :country-code "HR",
+  :city-code    "RJK",
+  :location     {:lng 14.57027778, :lat 45.21694444},
+  :code         "RJK"}
+ {:long_name    "Hermosillo",
+  :country-code "MX",
+  :city-code    "HMO",
+  :location     {:lng -111.0461111, :lat 29.09638889},
+  :code         "HMO"}
+ {:long_name    "Jiamusi",
+  :country-code "CN",
+  :city-code    "JMU",
+  :location     {:lng 130.4652778, :lat 46.84333333},
+  :code         "JMU"}
+ {:long_name    "Myrtle Beach - International",
+  :country-code "US",
+  :city-code    "MYR",
+  :location     {:lng -78.92972222, :lat 33.67916667},
+  :code         "MYR"}
+ {:long_name    "Mykonos",
+  :country-code "GR",
+  :city-code    "JMK",
+  :location     {:lng 25.34444444, :lat 37.43611111},
+  :code         "JMK"}
+ {:long_name    "Changzhou",
+  :country-code "CN",
+  :city-code    "CZX",
+  :location     {:lng 119.9666667, :lat 31.7},
+  :code         "CZX"}
+ {:long_name    "Manizales",
+  :country-code "CO",
+  :city-code    "MZL",
+  :location     {:lng -75.68111111, :lat 5.090277778},
+  :code         "MZL"}
+ {:long_name    "Riverton",
+  :country-code "US",
+  :city-code    "RIW",
+  :location     {:lng -108.4569444, :lat 43.06444444},
+  :code         "RIW"}
+ {:long_name    "Riga",
+  :country-code "LV",
+  :city-code    "RIX",
+  :location     {:lng 23.97111111, :lat 56.92361111},
+  :code         "RIX"}
+ {:long_name    "Saint Louis - Lambert-St Louis Intl, MO",
+  :country-code "US",
+  :city-code    "STL",
+  :location     {:lng -90.36, :lat 38.74777778},
+  :code         "STL"}
+ {:long_name    "London-Stansted",
+  :country-code "GB",
+  :city-code    "LON",
+  :location     {:lng 0.233888889, :lat 51.88277778},
+  :code         "STN"}
+ {:long_name    "Tokyo - Haneda",
+  :country-code "JP",
+  :city-code    "TYO",
+  :location     {:lng 139.7658333, :lat 35.55361111},
+  :code         "HND"}
+ {:long_name    "Zanzibar",
+  :country-code "TZ",
+  :city-code    "ZNZ",
+  :location     {:lng 39.22194444, :lat -6.219166667},
+  :code         "ZNZ"}
+ {:long_name    "Puerto Montt",
+  :country-code "CL",
+  :city-code    "PMC",
+  :location     {:lng -73.09027778, :lat -41.4325},
+  :code         "PMC"}
+ {:long_name    "Cozumel",
+  :country-code "MX",
+  :city-code    "CZM",
+  :location     {:lng -86.92555556, :lat 20.5225},
+  :code         "CZM"}
+ {:long_name    "Mazatlan",
+  :country-code "MX",
+  :city-code    "MZT",
+  :location     {:lng -106.2738889, :lat 23.1625},
+  :code         "MZT"}
+ {:long_name    "Strasbourg",
+  :country-code "FR",
+  :city-code    "SXB",
+  :location     {:lng 7.6275, :lat 48.53694444},
+  :code         "SXB"}
+ {:long_name    "Palma de Mallorca",
+  :country-code "ES",
+  :city-code    "PMI",
+  :location     {:lng 2.727777778, :lat 39.55361111},
+  :code         "PMI"}
+ {:long_name    "Key West International",
+  :country-code "US",
+  :city-code    "EYW",
+  :location     {:lng -81.75972222, :lat 24.55555556},
+  :code         "EYW"}
+ {:long_name    "Jinjiang",
+  :country-code "CN",
+  :city-code    "IQM",
+  :location     {:lng 118.5833333, :lat 24.9},
+  :code         "JJN"}
+ {:long_name    "Pucon",
+  :country-code "CL",
+  :city-code    "ZPC",
+  :location     {:lng -71.63305556, :lat -39.76388889},
+  :code         "ZPC"}
+ {:long_name    "Palermo",
+  :country-code "IT",
+  :city-code    "PMO",
+  :location     {:lng 13.105, :lat 38.18111111},
+  :code         "PMO"}
+ {:long_name    "Vaasa",
+  :country-code "FI",
+  :city-code    "VAA",
+  :location     {:lng 4.970277778, :lat 44.92},
+  :code         "VAA"}
+ {:long_name    "Buenos Aires - Ministro Pistarini",
+  :country-code "AR",
+  :city-code    "BUE",
+  :location     {:lng -58.53388889, :lat -34.82},
+  :code         "EZE"}
+ {:long_name    "Porlamar",
+  :country-code "VE",
+  :city-code    "PMV",
+  :location     {:lng -63.96666667, :lat 10.9125},
+  :code         "PMV"}
+ {:long_name    "Hong Kong International Airport",
+  :country-code "HK",
+  :city-code    "HKG",
+  :location     {:lng 114.2027778, :lat 22.31555556},
+  :code         "HKG"}
+ {:long_name    "San Antonio",
+  :country-code "VE",
+  :city-code    "SVZ",
+  :location     {:lng -72.43805556, :lat 7.843055556},
+  :code         "SVZ"}
+ {:long_name    "Hakodate",
+  :country-code "JP",
+  :city-code    "HKD",
+  :location     {:lng 140.8225, :lat 41.76833333},
+  :code         "HKD"}
+ {:long_name    "Cheyenne Municipal",
+  :country-code "US",
+  :city-code    "CYS",
+  :location     {:lng -104.8122222, :lat 41.15583333},
+  :code         "CYS"}
+ {:long_name    "Shantou",
+  :country-code "CN",
+  :city-code    "SWA",
+  :location     {:lng 116.6833333, :lat 23.4},
+  :code         "SWA"}
+ {:long_name    "Queenstown",
+  :country-code "NZ",
+  :city-code    "ZQN",
+  :location     {:lng 168.7388889, :lat -45.02138889},
+  :code         "ZQN"}
+ {:long_name    "Stavanger",
+  :country-code "NO",
+  :city-code    "SVG",
+  :location     {:lng 5.634722222, :lat 58.87972222},
+  :code         "SVG"}
+ {:long_name    "Rostock-Laage",
+  :country-code "DE",
+  :city-code    "RLG",
+  :location     {:lng 12.27833333, :lat 53.91805556},
+  :code         "RLG"}
+ {:long_name    "Palembang",
+  :country-code "ID",
+  :city-code    "PLM",
+  :location     {:lng 104.7, :lat -2.898333333},
+  :code         "PLM"}
+ {:long_name    "Phuket",
+  :country-code "TH",
+  :city-code    "HKT",
+  :location     {:lng 98.3125, :lat 8.110555556},
+  :code         "HKT"}
+ {:long_name    "Port Elizabeth",
+  :country-code "ZA",
+  :city-code    "PLZ",
+  :location     {:lng 25.61388889, :lat -33.98611111},
+  :code         "PLZ"}
+ {:long_name    "Chios",
+  :country-code "GR",
+  :city-code    "JKH",
+  :location     {:lng 26.14166667, :lat 38.345},
+  :code         "JKH"}
+ {:long_name    "Xilinhot",
+  :country-code "CN",
+  :city-code    "XIL",
+  :location     {:lng 116.0666667, :lat 43.96666667},
+  :code         "XIL"}
+ {:long_name    "Zagreb",
+  :country-code "HR",
+  :city-code    "ZAG",
+  :location     {:lng 16.06888889, :lat 45.74305556},
+  :code         "ZAG"}
+ {:long_name    "Tabriz",
+  :country-code "IR",
+  :city-code    "TBZ",
+  :location     {:lng 46.24333333, :lat 38.13166667},
+  :code         "TBZ"}
+ {:long_name    "Valdivia",
+  :country-code "CL",
+  :city-code    "ZAL",
+  :location     {:lng -73.23916667, :lat -39.79166667},
+  :code         "ZAL"}
+ {:long_name    "Johor Bahru - Sultan Ismail International",
+  :country-code "MY",
+  :city-code    "JHB",
+  :location     {:lng 103.6708333, :lat 1.638888889},
+  :code         "JHB"}
+ {:long_name    "Venice - Marco Polo",
+  :country-code "IT",
+  :city-code    "VCE",
+  :location     {:lng 12.35, :lat 45.50666667},
+  :code         "VCE"}
+ {:long_name    "Daytona Beach",
+  :country-code "US",
+  :city-code    "DAB",
+  :location     {:lng -81.05277778, :lat 29.1825},
+  :code         "DAB"}
+ {:long_name    "Tbilisi",
+  :country-code "GE",
+  :city-code    "TBS",
+  :location     {:lng 44.95472222, :lat 41.66916667},
+  :code         "TBS"}
+ {:long_name    "Kapalua",
+  :country-code "US",
+  :city-code    "JHM",
+  :location     {:lng -156.6772222, :lat 20.96611111},
+  :code         "JHM"}
+ {:long_name    "Dhaka - Zia International",
+  :country-code "BD",
+  :city-code    "DAC",
+  :location     {:lng 90.38611111, :lat 23.78055556},
+  :code         "DAC"}
+ {:long_name    "Dazhou",
+  :country-code "CN",
+  :city-code    "DZU",
+  :location     {:lng 107.5, :lat 13.3},
+  :code         "DAX"}
+ {:long_name    "Dayton - James Cox International, OH",
+  :country-code "US",
+  :city-code    "DAY",
+  :location     {:lng -84.22, :lat 39.90111111},
+  :code         "DAY"}
+ {:long_name    "Kinshasa N'Djili",
+  :country-code "CD",
+  :city-code    "FIH",
+  :location     {:lng 15.445, :lat -4.384722222},
+  :code         "FIH"}
+ {:long_name    "Yangon",
+  :country-code "MM",
+  :city-code    "RGN",
+  :location     {:lng 96.13166667, :lat 16.90666667},
+  :code         "RGN"}
+ {:long_name    "Dar es Salaam International",
+  :country-code "TZ",
+  :city-code    "DAR",
+  :location     {:lng 39.20194444, :lat -6.875277778},
+  :code         "DAR"}
+ {:long_name    "Bathurst",
+  :country-code "CA",
+  :city-code    "ZBF",
+  :location     {:lng -65.73916667, :lat 47.62888889},
+  :code         "ZBF"}
+ {:long_name    "Datong",
+  :country-code "CN",
+  :city-code    "DAT",
+  :location     {:lng 113.3, :lat 40.08333333},
+  :code         "DAT"}
+ {:long_name    "Djibouti",
+  :country-code "DJ",
+  :city-code    "JIB",
+  :location     {:lng 43.15777778, :lat 11.54666667},
+  :code         "JIB"}
+ {:long_name    "Harrisburg, Pennsylvania - Skyport",
+  :country-code "US",
+  :city-code    "HAR",
+  :location     {:lng -76.85222222, :lat 40.21611111},
+  :code         "HAR"}
+ {:long_name    "Resistencia",
+  :country-code "AR",
+  :city-code    "RES",
+  :location     {:lng -59.05083333, :lat -27.45138889},
+  :code         "RES"}
+ {:long_name    "Nagoya",
+  :country-code "JP",
+  :city-code    "NGO",
+  :location     {:lng 136.9275, :lat 35.25166667},
+  :code         "NGO"}
+ {:long_name    "Havanna",
+  :country-code "CU",
+  :city-code    "HAV",
+  :location     {:lng -82.4075, :lat 22.98944444},
+  :code         "HAV"}
+ {:long_name    "Haugesund",
+  :country-code "NO",
+  :city-code    "HAU",
+  :location     {:lng 5.209166667, :lat 59.34666667},
+  :code         "HAU"}
+ {:long_name    "Qingdao",
+  :country-code "CN",
+  :city-code    "TAO",
+  :location     {:lng 120.3744444, :lat 36.26611111},
+  :code         "TAO"}
+ {:long_name    "Jijiga",
+  :country-code "ET",
+  :city-code    "JIJ",
+  :location     {:lng 42.71666667, :lat 9.333333333},
+  :code         "JIJ"}
+ {:long_name    "Haikou",
+  :country-code "CN",
+  :city-code    "HAK",
+  :location     {:lng 110.4588889, :lat 19.93472222},
+  :code         "HAK"}
+ {:long_name    "Nagasaki",
+  :country-code "JP",
+  :city-code    "NGS",
+  :location     {:lng 129.9158333, :lat 32.91361111},
+  :code         "NGS"}
+ {:long_name    "Tampico",
+  :country-code "MX",
+  :city-code    "TAM",
+  :location     {:lng -97.80166667, :lat 22.27444444},
+  :code         "TAM"}
+ {:long_name    "Hannover",
+  :country-code "DE",
+  :city-code    "HAJ",
+  :location     {:lng 9.684722222, :lat 52.46166667},
+  :code         "HAJ"}
+ {:long_name    "Jimma",
+  :country-code "ET",
+  :city-code    "JIM",
+  :location     {:lng 36.82111111, :lat 7.654444444},
+  :code         "JIM"}
+ {:long_name    "Hanoi",
+  :country-code "VN",
+  :city-code    "HAN",
+  :location     {:lng 105.89, :lat 21.03583333},
+  :code         "HAN"}
+ {:long_name    "Hamburg",
+  :country-code "DE",
+  :city-code    "HAM",
+  :location     {:lng 9.995, :lat 53.63388889},
+  :code         "HAM"}
+ {:long_name    "Hachijo Jima",
+  :country-code "JP",
+  :city-code    "HAC",
+  :location     {:lng 139.7905556, :lat 33.11333333},
+  :code         "HAC"}
+ {:long_name    "Varna",
+  :country-code "BG",
+  :city-code    "VAR",
+  :location     {:lng 27.82555556, :lat 43.23222222},
+  :code         "VAR"}
+ {:long_name    "Ningbo",
+  :country-code "CN",
+  :city-code    "NGB",
+  :location     {:lng 121.465, :lat 29.825},
+  :code         "NGB"}
+ {:long_name    "Temuco",
+  :country-code "CL",
+  :city-code    "ZCO",
+  :location     {:lng -72.63694444, :lat -38.76388889},
+  :code         "ZCO"}
+ {:long_name    "Trat",
+  :country-code "TH",
+  :city-code    "TDX",
+  :location     {:lng 102.3169444, :lat 12.26805556},
+  :code         "TDX"}
+ {:long_name    "Zacatecas",
+  :country-code "MX",
+  :city-code    "ZCL",
+  :location     {:lng -102.55, :lat 22.79972222},
+  :code         "ZCL"}
+ {:long_name    "Vernal",
+  :country-code "US",
+  :city-code    "VEL",
+  :location     {:lng -109.5102778, :lat 40.43888889},
+  :code         "VEL"}
+ {:long_name    "Richmond - Byrd Field International, VA",
+  :country-code "US",
+  :city-code    "RIC",
+  :location     {:lng -77.3225, :lat 37.50611111},
+  :code         "RIC"}
+ {:long_name    "New York - JFK International, NY",
+  :country-code "US",
+  :city-code    "NYC",
+  :location     {:lng -73.77888889, :lat 40.63972222},
+  :code         "JFK"}
+ {:long_name    "Paducah",
+  :country-code "US",
+  :city-code    "PAH",
+  :location     {:lng -88.7725, :lat 37.06111111},
+  :code         "PAH"}
+ {:long_name    "Paderborn",
+  :country-code "DE",
+  :city-code    "PAD",
+  :location     {:lng 8.615277778, :lat 51.61166667},
+  :code         "PAD"}
+ {:long_name    "Basel SBB Railway Station",
+  :country-code "CH",
+  :city-code    "ZDH",
+  :location     {:lng 7.59, :lat 47.5475},
+  :code         "ZDH"}
+ {:long_name    "Luanda",
+  :country-code "AO",
+  :city-code    "LAD",
+  :location     {:lng 13.23611111, :lat -8.853055556},
+  :code         "LAD"}
+ {:long_name    "Jamnagar",
+  :country-code "IN",
+  :city-code    "JGA",
+  :location     {:lng 70.0125, :lat 22.46555556},
+  :code         "JGA"}
+ {:long_name    "Niamey",
+  :country-code "NE",
+  :city-code    "NIM",
+  :location     {:lng 2.183611111, :lat 13.48166667},
+  :code         "NIM"}
+ {:long_name    "Victoria",
+  :country-code "US",
+  :city-code    "VCT",
+  :location     {:lng -96.91444444, :lat 28.85111111},
+  :code         "VCT"}
+ {:long_name    "Las Vegas - McCarran International, NV",
+  :country-code "US",
+  :city-code    "LAS",
+  :location     {:lng -115.1588889, :lat 36.07972222},
+  :code         "LAS"}
+ {:long_name    "Laramie",
+  :country-code "US",
+  :city-code    "LAR",
+  :location     {:lng -105.6730556, :lat 41.31361111},
+  :code         "LAR"}
+ {:long_name    "La Paz",
+  :country-code "MX",
+  :city-code    "LAP",
+  :location     {:lng -110.2983333, :lat 24.12555556},
+  :code         "LAP"}
+ {:long_name    "Lansing",
+  :country-code "US",
+  :city-code    "LAN",
+  :location     {:lng -84.58833333, :lat 42.77916667},
+  :code         "LAN"}
+ {:long_name    "Rhodes Diagoras Airport",
+  :country-code "GR",
+  :city-code    "RHO",
+  :location     {:lng 28.11833333, :lat 36.38472222},
+  :code         "RHO"}
+ {:long_name    "Hayden - Yampa Valley, Colorado",
+  :country-code "US",
+  :city-code    "AXG",
+  :location     {:lng -107.22, :lat 40.48166667},
+  :code         "HDN"}
+ {:long_name    "Los Angeles International, CA",
+  :country-code "US",
+  :city-code    "LAX",
+  :location     {:lng -118.4072222, :lat 33.94222222},
+  :code         "LAX"}
+ {:long_name    "Nairobi - Jomo Kenyatta International",
+  :country-code "KE",
+  :city-code    "NBO",
+  :location     {:lng 36.92777778, :lat -1.319166667},
+  :code         "NBO"}
+ {:long_name    "Jodhpur",
+  :country-code "IN",
+  :city-code    "JDH",
+  :location     {:lng 73.04777778, :lat 26.26055556},
+  :code         "JDH"}
+ {:long_name    "Vigo",
+  :country-code "ES",
+  :city-code    "VGO",
+  :location     {:lng -8.627777778, :lat 42.22638889},
+  :code         "VGO"}
+ {:long_name    "Hoedspruit",
+  :country-code "ZA",
+  :city-code    "HDS",
+  :location     {:lng 31.04861111, :lat -24.36861111},
+  :code         "HDS"}
+ {:long_name    "Enfidha - Hammamet",
+  :country-code "TN",
+  :city-code    "NBE",
+  :location     {:lng 10.41388889, :lat 36.09194444},
+  :code         "NBE"}
+ {:long_name    "New Delhi - Indira Gandhi International",
+  :country-code "IN",
+  :city-code    "DEL",
+  :location     {:lng 77.10083333, :lat 28.57361111},
+  :code         "DEL"}
+ {:long_name    "Lubbock International, TX",
+  :country-code "US",
+  :city-code    "LBB",
+  :location     {:lng -101.8222222, :lat 33.66361111},
+  :code         "LBB"}
+ {:long_name    "Denver - International, CO",
+  :country-code "US",
+  :city-code    "DEN",
+  :location     {:lng -104.6669444, :lat 39.85833333},
+  :code         "DEN"}
+ {:long_name    "Hat Yai",
+  :country-code "TH",
+  :city-code    "HDY",
+  :location     {:lng 100.3944444, :lat 6.9325},
+  :code         "HDY"}
+ {:long_name    "North Platte",
+  :country-code "US",
+  :city-code    "LBF",
+  :location     {:lng -100.6966667, :lat 41.12833333},
+  :code         "LBF"}
+ {:long_name    "Labuan Bajo",
+  :country-code "ID",
+  :city-code    "LBJ",
+  :location     {:lng 119.8891667, :lat -8.486666667},
+  :code         "LBJ"}
+ {:long_name    "Liberal",
+  :country-code "US",
+  :city-code    "LBL",
+  :location     {:lng -100.9605556, :lat 37.04444444},
+  :code         "LBL"}
+ {:long_name    "Richards Bay",
+  :country-code "ZA",
+  :city-code    "RCB",
+  :location     {:lng 32.09305556, :lat -28.74055556},
+  :code         "RCB"}
+ {:long_name    "Natal",
+  :country-code "BR",
+  :city-code    "NAT",
+  :location     {:lng -35.24361111, :lat -5.910555556},
+  :code         "NAT"}
+ {:long_name    "Heringsdorf/Usedom",
+  :country-code "DE",
+  :city-code    "HDF",
+  :location     {:lng 14.15166667, :lat 53.87888889},
+  :code         "HDF"}
+ {:long_name    "Labuan",
+  :country-code "MY",
+  :city-code    "LBU",
+  :location     {:lng 115.2483333, :lat 5.300555556},
+  :code         "LBU"}
+ {:long_name    "Dodge City",
+  :country-code "US",
+  :city-code    "DDC",
+  :location     {:lng -99.965, :lat 37.76166667},
+  :code         "DDC"}
+ {:long_name    "Libreville",
+  :country-code "GA",
+  :city-code    "LBV",
+  :location     {:lng 9.415277778, :lat 0.459166667},
+  :code         "LBV"}
+ {:long_name    "Jeddah - King Abdul Aziz International",
+  :country-code "SA",
+  :city-code    "JED",
+  :location     {:lng 39.20666667, :lat 21.50555556},
+  :code         "JED"}
+ {:long_name    "Puebla",
+  :country-code "MX",
+  :city-code    "PBC",
+  :location     {:lng -98.37416667, :lat 19.15805556},
+  :code         "PBC"}
+ {:long_name    "Dandong",
+  :country-code "CN",
+  :city-code    "DDG",
+  :location     {:lng 124.25, :lat 40.2},
+  :code         "DDG"}
+ {:long_name    "Hohhot",
+  :country-code "CN",
+  :city-code    "HET",
+  :location     {:lng 111.8241667, :lat 40.85138889},
+  :code         "HET"}
+ {:long_name    "West Palm Beach International, FL",
+  :country-code "US",
+  :city-code    "PBI",
+  :location     {:lng -80.09416667, :lat 26.68222222},
+  :code         "PBI"}
+ {:long_name    "Heraklion",
+  :country-code "GR",
+  :city-code    "HER",
+  :location     {:lng 25.18027778, :lat 35.34027778},
+  :code         "HER"}
+ {:long_name    "Larnaca",
+  :country-code "CY",
+  :city-code    "LCA",
+  :location     {:lng 33.63055556, :lat 34.87777778},
+  :code         "LCA"}
+ {:long_name    "Rarotonga",
+  :country-code "CK",
+  :city-code    "RAR",
+  :location     {:lng -159.8, :lat -21.20027778},
+  :code         "RAR"}
+ {:long_name    "Victoria Falls",
+  :country-code "ZW",
+  :city-code    "VFA",
+  :location     {:lng 25.84027778, :lat -18.09305556},
+  :code         "VFA"}
+ {:long_name    "Ribeirao Preto",
+  :country-code "BR",
+  :city-code    "RAO",
+  :location     {:lng -47.77333333, :lat -21.13583333},
+  :code         "RAO"}
+ {:long_name    "Jingdezhen",
+  :country-code "CN",
+  :city-code    "JDZ",
+  :location     {:lng 117.1833333, :lat 29.26666667},
+  :code         "JDZ"}
+ {:long_name    "Nice",
+  :country-code "FR",
+  :city-code    "NCE",
+  :location     {:lng 7.2175, :lat 43.66388889},
+  :code         "NCE"}
+ {:long_name    "Rapid City Regional",
+  :country-code "US",
+  :city-code    "RAP",
+  :location     {:lng -103.0572222, :lat 44.04333333},
+  :code         "RAP"}
+ {:long_name    "Newcastle International",
+  :country-code "GB",
+  :city-code    "NCL",
+  :location     {:lng -1.686666667, :lat 55.03777778},
+  :code         "NCL"}
+ {:long_name    "Lodz Lublinek Airport",
+  :country-code "PL",
+  :city-code    "LCJ",
+  :location     {:lng 19.39805556, :lat 51.72194444},
+  :code         "LCJ"}
+ {:long_name    "Patna",
+  :country-code "IN",
+  :city-code    "PAT",
+  :location     {:lng 85.09, :lat 25.59055556},
+  :code         "PAT"}
+ {:long_name    "Friedrichshafen",
+  :country-code "DE",
+  :city-code    "FDH",
+  :location     {:lng 9.5125, :lat 47.66722222},
+  :code         "FDH"}
+ {:long_name    "Lake Charles",
+  :country-code "US",
+  :city-code    "LCH",
+  :location     {:lng -93.18555556, :lat 30.17083333},
+  :code         "LCH"}
+ {:long_name    "Vera Cruz",
+  :country-code "MX",
+  :city-code    "VER",
+  :location     {:lng -96.18333333, :lat 19.15},
+  :code         "VER"}
+ {:long_name    "Helsinki - Vantaa",
+  :country-code "FI",
+  :city-code    "HEL",
+  :location     {:lng 24.97166667, :lat 60.32555556},
+  :code         "HEL"}
+ {:long_name    "Jersey",
+  :country-code "GB",
+  :city-code    "JER",
+  :location     {:lng -2.195555556, :lat 49.20805556},
+  :code         "JER"}
+ {:long_name    "Pereira",
+  :country-code "CO",
+  :city-code    "PEI",
+  :location     {:lng -75.745, :lat 4.814722222},
+  :code         "PEI"}
+ {:long_name    "Beijing (BJS) - Capital",
+  :country-code "CN",
+  :city-code    "BJS",
+  :location     {:lng 116.5844444, :lat 40.08},
+  :code         "PEK"}
+ {:long_name    "Washington National",
+  :country-code "US",
+  :city-code    "WAS",
+  :location     {:lng -77.03694444, :lat 38.85166667},
+  :code         "DCA"}
+ {:long_name    "London City Airport",
+  :country-code "GB",
+  :city-code    "LON",
+  :location     {:lng 0.055277778, :lat 51.50527778},
+  :code         "LCY"}
+ {:long_name    "Perugia",
+  :country-code "IT",
+  :city-code    "PEG",
+  :location     {:lng 12.51138889, :lat 43.09694444},
+  :code         "PEG"}
+ {:long_name    "Ndjamena",
+  :country-code "TD",
+  :city-code    "NDJ",
+  :location     {:lng 15.035, :lat 12.13472222},
+  :code         "NDJ"}
+ {:long_name    "Perth",
+  :country-code "AU",
+  :city-code    "PER",
+  :location     {:lng 115.9683333, :lat -31.93166667},
+  :code         "PER"}
+ {:long_name    "Jacksonville, International, FL",
+  :country-code "US",
+  :city-code    "JAX",
+  :location     {:lng -81.68777778, :lat 30.48472222},
+  :code         "JAX"}
+ {:long_name    "Qiqihar",
+  :country-code "CN",
+  :city-code    "NDG",
+  :location     {:lng 123.9180556, :lat 47.23972222},
+  :code         "NDG"}
+ {:long_name    "Penang - International",
+  :country-code "MY",
+  :city-code    "PEN",
+  :location     {:lng 100.2725, :lat 5.289722222},
+  :code         "PEN"}
+ {:long_name    "Rome - Leonardo Da Vinci",
+  :country-code "IT",
+  :city-code    "ROM",
+  :location     {:lng 12.23888889, :lat 41.80027778},
+  :code         "FCO"}
+ {:long_name    "Londrina",
+  :country-code "BR",
+  :city-code    "LDB",
+  :location     {:lng -51.13194444, :lat -23.33194444},
+  :code         "LDB"}
+ {:long_name    "Vienna International",
+  :country-code "AT",
+  :city-code    "VIE",
+  :city         {:name "Vienna" :location {:lng 16.3667, :lat 48.2000}}
+  :location     {:lng 16.55805556, :lat 48.11083333},
+  :code         "VIE"}
+ {:long_name    "Raleigh/Durham, NC",
+  :country-code "US",
+  :city-code    "RDU",
+  :location     {:lng -78.78194444, :lat 35.87527778},
+  :code         "RDU"}
+ {:long_name    "Siem Reap",
+  :country-code "KH",
+  :city-code    "REP",
+  :location     {:lng 103.8158333, :lat 13.40888889},
+  :code         "REP"}
+ {:long_name    "Tobago",
+  :country-code "TT",
+  :city-code    "TAB",
+  :location     {:lng -60.83666667, :lat 11.14638889},
+  :code         "TAB"}
+ {:long_name    "Portland International, OR",
+  :country-code "US",
+  :city-code    "PDX",
+  :location     {:lng -122.595, :lat 45.58916667},
+  :code         "PDX"}
+ {:long_name    "Hobart",
+  :country-code "AU",
+  :city-code    "HBA",
+  :location     {:lng 147.5125, :lat -42.83583333},
+  :code         "HBA"}
+ {:long_name    "Trelew",
+  :country-code "AR",
+  :city-code    "REL",
+  :location     {:lng -65.27027778, :lat -43.21055556},
+  :code         "REL"}
+ {:long_name    "Kalispell",
+  :country-code "US",
+  :city-code    "FCA",
+  :location     {:lng -114.2511111, :lat 48.31277778},
+  :code         "FCA"}
+ {:long_name    "Takamatsu",
+  :country-code "JP",
+  :city-code    "TAK",
+  :location     {:lng 134.0730556, :lat 34.29027778},
+  :code         "TAK"}
+ {:long_name    "Daegu",
+  :country-code "KR",
+  :city-code    "TAE",
+  :location     {:lng 128.6605556, :lat 35.89027778},
+  :code         "TAE"}
+ {:long_name    "Recife - Guararapes International",
+  :country-code "BR",
+  :city-code    "REC",
+  :location     {:lng -34.92388889, :lat -8.125833333},
+  :code         "REC"}
+ {:long_name    "Alexandria - Borg El Arab",
+  :country-code "EG",
+  :city-code    "ALY",
+  :location     {:lng 29.68833333, :lat 30.91638889},
+  :code         "HBE"}
+ {:long_name    "Punta Del Este",
+  :country-code "UY",
+  :city-code    "PDP",
+  :location     {:lng -54.91916667, :lat -34.91444444},
+  :code         "PDP"}
+ {:long_name    "St. Petersburg - Pulkovo International",
+  :country-code "RU",
+  :city-code    "LED",
+  :location     {:lng 30.2625, :lat 59.80027778},
+  :code         "LED"}
+ {:long_name    "Lubumbashi",
+  :country-code "CD",
+  :city-code    "FBM",
+  :location     {:lng 27.52916667, :lat -11.59083333},
+  :code         "FBM"}
+ {:long_name    "Redmond",
+  :country-code "US",
+  :city-code    "RDM",
+  :location     {:lng -121.1513889, :lat 44.25444444},
+  :code         "RDM"}
+ {:long_name    "Leipzig/Halle",
+  :country-code "DE",
+  :city-code    "LEJ",
+  :location     {:lng 12.23638889, :lat 51.42388889},
+  :code         "LEJ"}
+ {:long_name    "Ixtapa/Zihuatanejo International",
+  :country-code "MX",
+  :city-code    "ZIH",
+  :location     {:lng -101.555, :lat 17.64333333},
+  :code         "ZIH"}
+ {:long_name    "Lexington, KY",
+  :country-code "US",
+  :city-code    "LEX",
+  :location     {:lng -84.60222222, :lat 38.03972222},
+  :code         "LEX"}
+ {:long_name    "Redding",
+  :country-code "US",
+  :city-code    "RDD",
+  :location     {:lng -122.2922222, :lat 40.50833333},
+  :code         "RDD"}
+ {:long_name    "Dubrovnik",
+  :country-code "HR",
+  :city-code    "DBV",
+  :location     {:lng 18.26888889, :lat 42.5625},
+  :code         "DBV"}
+ {:long_name    "Sheridan",
+  :country-code "US",
+  :city-code    "SHR",
+  :location     {:lng -106.9772222, :lat 44.77416667},
+  :code         "SHR"}
+ {:long_name    "Puerto Vallarta",
+  :country-code "MX",
+  :city-code    "PVR",
+  :location     {:lng -105.2483333, :lat 20.68194444},
+  :code         "PVR"}
+ {:long_name    "Saint John's",
+  :country-code "CA",
+  :city-code    "YYT",
+  :location     {:lng -52.75194444, :lat 47.61861111},
+  :code         "YYT"}
+ {:long_name    "Cuiaba",
+  :country-code "BR",
+  :city-code    "CGB",
+  :location     {:lng -56.11666667, :lat -15.65305556},
+  :code         "CGB"}
+ {:long_name    "Jackson, Mississippi - International",
+  :country-code "US",
+  :city-code    "JAN",
+  :location     {:lng -90.07583333, :lat 32.30972222},
+  :code         "JAN"}
+ {:long_name    "Jaipur",
+  :country-code "IN",
+  :city-code    "JAI",
+  :location     {:lng 75.80611111, :lat 26.82166667},
+  :code         "JAI"}
+ {:long_name    "Knock - Ireland West",
+  :country-code "IE",
+  :city-code    "NOC",
+  :location     {:lng -8.817777778, :lat 53.91},
+  :code         "NOC"}
+ {:long_name    "Goose Bay",
+  :country-code "CA",
+  :city-code    "YYR",
+  :location     {:lng -60.42583333, :lat 53.31916667},
+  :code         "YYR"}
+ {:long_name    "Sharjah",
+  :country-code "AE",
+  :city-code    "SHJ",
+  :location     {:lng 55.39583333, :lat 25.34583333},
+  :code         "SHJ"}
+ {:long_name    "Westerland/Sylt",
+  :country-code "DE",
+  :city-code    "GWT",
+  :location     {:lng 8.343055556, :lat 54.91527778},
+  :code         "GWT"}
+ {:long_name    "Shillong",
+  :country-code "IN",
+  :city-code    "SHL",
+  :location     {:lng 91.98055556, :lat 25.70138889},
+  :code         "SHL"}
+ {:long_name    "Mont Joli",
+  :country-code "CA",
+  :city-code    "YYY",
+  :location     {:lng -68.20805556, :lat 48.60861111},
+  :code         "YYY"}
+ {:long_name    "Langkawi",
+  :country-code "MY",
+  :city-code    "LGK",
+  :location     {:lng 99.72861111, :lat 6.329722222},
+  :code         "LGK"}
+ {:long_name    "Shenyang Taoxian International Airport",
+  :country-code "CN",
+  :city-code    "SHE",
+  :location     {:lng 123.4833333, :lat 41.63972222},
+  :code         "SHE"}
+ {:long_name    "Shanghai - Pu Dong",
+  :country-code "CN",
+  :city-code    "SHA",
+  :location     {:lng 121.7913889, :lat 31.14388889},
+  :code         "PVG"}
+ {:long_name    "Porto Velho",
+  :country-code "BR",
+  :city-code    "PVH",
+  :location     {:lng -63.90222222, :lat -8.709166667},
+  :code         "PVH"}
+ {:long_name    "Kerkyra",
+  :country-code "GR",
+  :city-code    "CFU",
+  :location     {:lng 19.91027778, :lat 39.60138889},
+  :code         "CFU"}
+ {:long_name    "Toronto - Pearson Int'l (Lester)",
+  :country-code "CA",
+  :city-code    "YTO",
+  :location     {:lng -79.63055556, :lat 43.67722222},
+  :code         "YYZ"}
+ {:long_name    "Smithers",
+  :country-code "CA",
+  :city-code    "YYD",
+  :location     {:lng -127.1827778, :lat 54.82472222},
+  :code         "YYD"}
+ {:long_name    "Nakashibetsu",
+  :country-code "JP",
+  :city-code    "SHB",
+  :location     {:lng 144.96, :lat 43.5775},
+  :code         "SHB"}
+ {:long_name    "Noumea - La Tontouta",
+  :country-code "NC",
+  :city-code    "NOU",
+  :location     {:lng 166.2108333, :lat -22.01694444},
+  :code         "NOU"}
+ {:long_name    "Penticton",
+  :country-code "CA",
+  :city-code    "YYF",
+  :location     {:lng -119.6022222, :lat 49.46305556},
+  :code         "YYF"}
+ {:long_name    "Inda Selassie",
+  :country-code "ET",
+  :city-code    "SHC",
+  :location     {:lng 38.27444444, :lat 14.07416667},
+  :code         "SHC"}
+ {:long_name    "Charlottetown",
+  :country-code "CA",
+  :city-code    "YYG",
+  :location     {:lng -63.12111111, :lat 46.29},
+  :code         "YYG"}
+ {:long_name    "North Bay",
+  :country-code "CA",
+  :city-code    "YYB",
+  :location     {:lng -79.42277778, :lat 46.36361111},
+  :code         "YYB"}
+ {:long_name    "Calgary",
+  :country-code "CA",
+  :city-code    "YYC",
+  :location     {:lng -114.0202778, :lat 51.11388889},
+  :code         "YYC"}
+ {:long_name    "Jackson, WY",
+  :country-code "US",
+  :city-code    "JAC",
+  :location     {:lng -110.7369444, :lat 43.60666667},
+  :code         "JAC"}
+ {:long_name    "Long Beach",
+  :country-code "US",
+  :city-code    "LGB",
+  :location     {:lng -118.1511111, :lat 33.8175},
+  :code         "LGB"}
+ {:long_name    "New York - La Guardia",
+  :country-code "US",
+  :city-code    "NYC",
+  :location     {:lng -73.8725, :lat 40.77722222},
+  :code         "LGA"}
+ {:long_name    "Saint George",
+  :country-code "US",
+  :city-code    "SGU",
+  :location     {:lng -113.5922222, :lat 37.09305556},
+  :code         "SGU"}
+ {:long_name    "Victoria - International",
+  :country-code "CA",
+  :city-code    "YYJ",
+  :location     {:lng -123.4258333, :lat 48.64694444},
+  :code         "YYJ"}
+ {:long_name    "Christchurch International",
+  :country-code "NZ",
+  :city-code    "CHC",
+  :location     {:lng 172.5344444, :lat -43.48944444},
+  :code         "CHC"}
+ {:long_name    "London (CA)",
+  :country-code "CA",
+  :city-code    "YXU",
+  :location     {:lng -81.15111111, :lat 43.03305556},
+  :code         "YXU"}
+ {:long_name    "Sitka",
+  :country-code "US",
+  :city-code    "SIT",
+  :location     {:lng -135.3616667, :lat 57.04861111},
+  :code         "SIT"}
+ {:long_name    "Nanning",
+  :country-code "CN",
+  :city-code    "NNG",
+  :location     {:lng 108.3394444, :lat 22.81},
+  :code         "NNG"}
+ {:long_name    "Terrace",
+  :country-code "CA",
+  :city-code    "YXT",
+  :location     {:lng -128.5761111, :lat 54.46861111},
+  :code         "YXT"}
+ {:long_name    "Wanxian",
+  :country-code "CN",
+  :city-code    "WXN",
+  :location     {:lng 102, :lat 36},
+  :code         "WXN"}
+ {:long_name    "Chattanooga",
+  :country-code "US",
+  :city-code    "CHA",
+  :location     {:lng -85.20361111, :lat 35.03638889},
+  :code         "CHA"}
+ {:long_name    "Prince George",
+  :country-code "CA",
+  :city-code    "YXS",
+  :location     {:lng -122.6788889, :lat 53.88944444},
+  :code         "YXS"}
+ {:long_name    "Sacramento Executive",
+  :country-code "US",
+  :city-code    "SAC",
+  :location     {:lng -121.4925, :lat 38.5125},
+  :code         "SAC"}
+ {:long_name    "Lome",
+  :country-code "TG",
+  :city-code    "LFW",
+  :location     {:lng 1.254444444, :lat 6.165555556},
+  :code         "LFW"}
+ {:long_name    "Lafayette, Louisiana - Regional",
+  :country-code "US",
+  :city-code    "LFT",
+  :location     {:lng -91.9875, :lat 30.20472222},
+  :code         "LFT"}
+ {:long_name    "Singapore - Changi International",
+  :country-code "SG",
+  :city-code    "SIN",
+  :location     {:lng 103.9908333, :lat 1.357777778},
+  :code         "SIN"}
+ {:long_name    "San Salvador - El Salvador International",
+  :country-code "SV",
+  :city-code    "SAL",
+  :location     {:lng -89.11805556, :lat 13.69361111},
+  :code         "SAL"}
+ {:long_name    "Portland Intl, ME",
+  :country-code "US",
+  :city-code    "PWM",
+  :location     {:lng -70.30361111, :lat 43.64444444},
+  :code         "PWM"}
+ {:long_name    "Sana'a International",
+  :country-code "YE",
+  :city-code    "SAH",
+  :location     {:lng 44.22, :lat 15.47694444},
+  :code         "SAH"}
+ {:long_name    "Whitehorse",
+  :country-code "CA",
+  :city-code    "YXY",
+  :location     {:lng -135.0672222, :lat 60.70944444},
+  :code         "YXY"}
+ {:long_name    "Abbotsford",
+  :country-code "CA",
+  :city-code    "YXX",
+  :location     {:lng -122.3605556, :lat 49.02527778},
+  :code         "YXX"}
+ {:long_name    "Saskatoon",
+  :country-code "CA",
+  :city-code    "YXE",
+  :location     {:lng -106.6997222, :lat 52.17083333},
+  :code         "YXE"}
+ {:long_name    "Campo Grande International",
+  :country-code "BR",
+  :city-code    "CGR",
+  :location     {:lng -54.6725, :lat -20.46333333},
+  :code         "CGR"}
+ {:long_name    "Cranbrook",
+  :country-code "CA",
+  :city-code    "YXC",
+  :location     {:lng -115.7819444, :lat 49.61222222},
+  :code         "YXC"}
+ {:long_name    "Changchun",
+  :country-code "CN",
+  :city-code    "CGQ",
+  :location     {:lng 125.1975, :lat 43.90666667},
+  :code         "CGQ"}
+ {:long_name    "Gwalior",
+  :country-code "IN",
+  :city-code    "GWL",
+  :location     {:lng 78.23, :lat 26.29388889},
+  :code         "GWL"}
+ {:long_name    "Zhengzhou",
+  :country-code "CN",
+  :city-code    "CGO",
+  :location     {:lng 113.8408333, :lat 34.51972222},
+  :code         "CGO"}
+ {:long_name    "Xi'An - Xiguan",
+  :country-code "CN",
+  :city-code    "SIA",
+  :location     {:lng 108.9333333, :lat 34.3},
+  :code         "SIA"}
+ {:long_name    "Cologne - Cologne/Bonn Airport",
+  :country-code "DE",
+  :city-code    "CGN",
+  :location     {:lng 7.141944444, :lat 50.86583333},
+  :code         "CGN"}
+ {:long_name    "Jakarta - Soekarno-Hatta International",
+  :country-code "ID",
+  :city-code    "JKT",
+  :location     {:lng 106.6577778, :lat -6.125833333},
+  :code         "CGK"}
+ {:long_name    "Sao Paulo - Congonhas",
+  :country-code "BR",
+  :city-code    "SAO",
+  :location     {:lng -46.66, :lat -23.625},
+  :code         "CGH"}
+ {:long_name    "Fort Saint John",
+  :country-code "CA",
+  :city-code    "YXJ",
+  :location     {:lng -120.7402778, :lat 56.23805556},
+  :code         "YXJ"}
+ {:long_name    "Quito Mariscal Sucre Airport",
+  :country-code "EC",
+  :city-code    "UIO",
+  :location     {:lng -78.35833333, :lat -0.130555556},
+  :code         "UIO"}
+ {:long_name    "Medicine Hat",
+  :country-code "CA",
+  :city-code    "YXH",
+  :location     {:lng -110.7208333, :lat 50.01888889},
+  :code         "YXH"}
+ {:long_name    "Shreveport Regional",
+  :country-code "US",
+  :city-code    "SHV",
+  :location     {:lng -93.82861111, :lat 32.44694444},
+  :code         "SHV"}
+ {:long_name    "Sao Jose Do Rio Preto",
+  :country-code "BR",
+  :city-code    "SJP",
+  :location     {:lng -49.40638889, :lat -20.81666667},
+  :code         "SJP"}
+ {:long_name    "San Jose - Juan Santamaria International",
+  :country-code "CR",
+  :city-code    "SJO",
+  :location     {:lng -84.21111111, :lat 9.9925},
+  :code         "SJO"}
+ {:long_name    "Santa Barbara Municipal, CA",
+  :country-code "US",
+  :city-code    "SBA",
+  :location     {:lng -119.8394444, :lat 34.42777778},
+  :code         "SBA"}
+ {:long_name    "Elmira/Corning",
+  :country-code "US",
+  :city-code    "ELM",
+  :location     {:lng -76.89527778, :lat 42.16083333},
+  :code         "ELM"}
+ {:long_name    "San Juan - Luis Munoz Marin International",
+  :country-code "PR",
+  :city-code    "SJU",
+  :location     {:lng -66.00222222, :lat 18.44138889},
+  :code         "SJU"}
+ {:long_name    "Lima",
+  :country-code "PE",
+  :city-code    "LIM",
+  :location     {:lng -77.12277778, :lat -12.02666667},
+  :code         "LIM"}
+ {:long_name    "El Paso International, TX",
+  :country-code "US",
+  :city-code    "ELP",
+  :location     {:lng -106.3772222, :lat 31.80666667},
+  :code         "ELP"}
+ {:long_name    "Chadron",
+  :country-code "US",
+  :city-code    "CDR",
+  :location     {:lng -103.0977778, :lat 42.835},
+  :code         "CDR"}
+ {:long_name    "Milan Linate",
+  :country-code "IT",
+  :city-code    "MIL",
+  :location     {:lng 9.277777778, :lat 45.44166667},
+  :code         "LIN"}
+ {:long_name    "Sarajevo",
+  :country-code "BA",
+  :city-code    "SJJ",
+  :location     {:lng 18.33638889, :lat 43.81472222},
+  :code         "SJJ"}
+ {:long_name    "Neuquen",
+  :country-code "AR",
+  :city-code    "NQN",
+  :location     {:lng -68.15583333, :lat -38.94888889},
+  :code         "NQN"}
+ {:long_name    "East London",
+  :country-code "ZA",
+  :city-code    "ELS",
+  :location     {:lng 27.82388889, :lat -33.03611111},
+  :code         "ELS"}
+ {:long_name    "Cordova - Mile 13 Field",
+  :country-code "US",
+  :city-code    "CDV",
+  :location     {:lng -145.47, :lat 60.49305556},
+  :code         "CDV"}
+ {:long_name    "Liberia",
+  :country-code "CR",
+  :city-code    "LIR",
+  :location     {:lng -85.54444444, :lat 10.59333333},
+  :code         "LIR"}
+ {:long_name    "Lisbon – Aeroporto de Lisboa",
+  :country-code "PT",
+  :city-code    "LIS",
+  :location     {:lng -9.135833333, :lat 38.78138889},
+  :code         "LIS"}
+ {:long_name    "South Bend",
+  :country-code "US",
+  :city-code    "SBN",
+  :location     {:lng -86.31666667, :lat 41.70472222},
+  :code         "SBN"}
+ {:long_name    "Little Rock",
+  :country-code "US",
+  :city-code    "LIT",
+  :location     {:lng -92.22472222, :lat 34.72888889},
+  :code         "LIT"}
+ {:long_name    "San Diego Lindberg Field, CA",
+  :country-code "US",
+  :city-code    "SAN",
+  :location     {:lng -117.1866667, :lat 32.73361111},
+  :code         "SAN"}
+ {:long_name    "Kauai Island - Lihue",
+  :country-code "US",
+  :city-code    "LIH",
+  :location     {:lng -159.3458333, :lat 21.97916667},
+  :code         "LIH"}
+ {:long_name    "San Pedro Sula",
+  :country-code "HN",
+  :city-code    "SAP",
+  :location     {:lng -87.92416667, :lat 15.45138889},
+  :code         "SAP"}
+ {:long_name    "San Jose, California",
+  :country-code "US",
+  :city-code    "SJC",
+  :location     {:lng -121.9255556, :lat 37.36111111},
+  :code         "SJC"}
+ {:long_name    "San Jose del Cabo - Los Cabos",
+  :country-code "MX",
+  :city-code    "SJD",
+  :location     {:lng -109.725, :lat 23.15527778},
+  :code         "SJD"}
+ {:long_name    "San Antonio International, TX",
+  :country-code "US",
+  :city-code    "SAT",
+  :location     {:lng -98.46972222, :lat 29.53361111},
+  :code         "SAT"}
+ {:long_name    "Newquay",
+  :country-code "GB",
+  :city-code    "NQY",
+  :location     {:lng -4.994722222, :lat 50.43944444},
+  :code         "NQY"}
+ {:long_name    "Istanbul Sabiha Gokcen Airport",
+  :country-code "TR",
+  :city-code    "IST",
+  :location     {:lng 29.30916667, :lat 40.89944444},
+  :code         "SAW"}
+ {:long_name    "East Midlands",
+  :country-code "GB",
+  :city-code    "EMA",
+  :location     {:lng -1.328055556, :lat 52.83111111},
+  :code         "EMA"}
+ {:long_name    "Savannah International, GA",
+  :country-code "US",
+  :city-code    "SAV",
+  :location     {:lng -81.2025, :lat 32.1275},
+  :code         "SAV"}
+ {:long_name    "Genève - Geneva-Cointrin Airport",
+  :country-code "CH",
+  :city-code    "GVA",
+  :location     {:lng 6.110277778, :lat 46.23944444},
+  :code         "GVA"}
+ {:long_name    "Paris - Charles De Gaulle",
+  :country-code "FR",
+  :city-code    "PAR",
+  :location     {:lng 2.547777778, :lat 49.00972222},
+  :code         "CDG"}
+ {:long_name    "Prudhoe Bay/Deadhorse",
+  :country-code "US",
+  :city-code    "SCC",
+  :location     {:lng -148.4652778, :lat 70.19472222},
+  :code         "SCC"}
+ {:long_name    "Lanzhou - Lanzhou Airport",
+  :country-code "CN",
+  :city-code    "LHW",
+  :location     {:lng 103.62, :lat 36.51527778},
+  :code         "LHW"}
+ {:long_name    "Sarnia",
+  :country-code "CA",
+  :city-code    "YZR",
+  :location     {:lng -82.30888889, :lat 42.99944444},
+  :code         "YZR"}
+ {:long_name    "Cortez",
+  :country-code "US",
+  :city-code    "CEZ",
+  :location     {:lng -108.6280556, :lat 37.30305556},
+  :code         "CEZ"}
+ {:long_name    "Skopje",
+  :country-code "MK",
+  :city-code    "SKP",
+  :location     {:lng 21.62166667, :lat 41.96138889},
+  :code         "SKP"}
+ {:long_name    "Sept-Iles",
+  :country-code "CA",
+  :city-code    "YZV",
+  :location     {:lng -66.26555556, :lat 50.22333333},
+  :code         "YZV"}
+ {:long_name    "State College",
+  :country-code "US",
+  :city-code    "SCE",
+  :location     {:lng -77.88138889, :lat 40.77083333},
+  :code         "SCE"}
+ {:long_name    "Saarbruecken - Ensheim",
+  :country-code "DE",
+  :city-code    "SCN",
+  :location     {:lng 7.109444444, :lat 49.21444444},
+  :code         "SCN"}
+ {:long_name    "London Heathrow",
+  :country-code "GB",
+  :city-code    "LON",
+  :location     {:lng -0.461388889, :lat 51.4775},
+  :code         "LHR"}
+ {:long_name    "Santiago - Arturo Merino Benitez",
+  :country-code "CL",
+  :city-code    "SCL",
+  :location     {:lng -70.785, :lat -33.38666667},
+  :code         "SCL"}
+ {:long_name    "Osaka - Kobe",
+  :country-code "JP",
+  :city-code    "OSA",
+  :location     {:lng 135.1666667, :lat 34.75},
+  :code         "UKB"}
+ {:long_name    "San Luis Obispo County, CA",
+  :country-code "US",
+  :city-code    "CSL",
+  :location     {:lng -120.6391667, :lat 35.23666667},
+  :code         "SBP"}
+ {:long_name    "Pietermaritzburg",
+  :country-code "ZA",
+  :city-code    "PZB",
+  :location     {:lng 30.39861111, :lat -29.64888889},
+  :code         "PZB"}
+ {:long_name    "Guam - Agana Field",
+  :country-code "GU",
+  :city-code    "GUM",
+  :location     {:lng 144.7933333, :lat 13.48166667},
+  :code         "GUM"}
+ {:long_name    "Thessaloniki",
+  :country-code "GR",
+  :city-code    "SKG",
+  :location     {:lng 22.97222222, :lat 40.52083333},
+  :code         "SKG"}
+ {:long_name    "Yellowknife",
+  :country-code "CA",
+  :city-code    "YZF",
+  :location     {:lng -114.4402778, :lat 62.46277778},
+  :code         "YZF"}
+ {:long_name    "Sibiu International",
+  :country-code "RO",
+  :city-code    "SBZ",
+  :location     {:lng 24.09138889, :lat 45.78555556},
+  :code         "SBZ"}
+ {:long_name    "Guatemala City",
+  :country-code "GT",
+  :city-code    "GUA",
+  :location     {:lng -90.5275, :lat 14.58194444},
+  :code         "GUA"}
+ {:long_name    "Salisbury",
+  :country-code "US",
+  :city-code    "SBY",
+  :location     {:lng -75.51, :lat 38.33861111},
+  :code         "SBY"}
+ {:long_name    "Crescent City",
+  :country-code "US",
+  :city-code    "CEC",
+  :location     {:lng -124.2358333, :lat 41.78},
+  :code         "CEC"}
+ {:long_name    "Sibu",
+  :country-code "MY",
+  :city-code    "SBW",
+  :location     {:lng 111.8383333, :lat 2.341666667},
+  :code         "SBW"}
+ {:long_name    "Cebu",
+  :country-code "PH",
+  :city-code    "CEB",
+  :location     {:lng 123.9066667, :lat 10.33166667},
+  :code         "CEB"}
+ {:long_name    "Chiang Rai",
+  :country-code "TH",
+  :city-code    "CEI",
+  :location     {:lng 99.83055556, :lat 19.88638889},
+  :code         "CEI"}
+ {:long_name    "Sandspit",
+  :country-code "CA",
+  :city-code    "YZP",
+  :location     {:lng -131.8138889, :lat 53.25444444},
+  :code         "YZP"}
+ {:long_name    "Gunnison",
+  :country-code "US",
+  :city-code    "GUC",
+  :location     {:lng -106.9388889, :lat 38.53388889},
+  :code         "GUC"}
+ {:long_name    "Puerto Ordaz",
+  :country-code "VE",
+  :city-code    "PZO",
+  :location     {:lng -62.73444444, :lat 8.305},
+  :code         "PZO"}
+ {:long_name    "Louisville International, KY",
+  :country-code "US",
+  :city-code    "SDF",
+  :location     {:lng -85.73861111, :lat 38.17972222},
+  :code         "SDF"}
+ {:long_name    "Lucknow",
+  :country-code "IN",
+  :city-code    "LKO",
+  :location     {:lng 80.88027778, :lat 26.76027778},
+  :code         "LKO"}
+ {:long_name    "Nanjing",
+  :country-code "CN",
+  :city-code    "NKG",
+  :location     {:lng 118.8116667, :lat 31.99527778},
+  :code         "NKG"}
+ {:long_name    "Chongqing",
+  :country-code "CN",
+  :city-code    "CKG",
+  :location     {:lng 106.3597222, :lat 29.49583333},
+  :code         "CKG"}
+ {:long_name    "Sendai",
+  :country-code "JP",
+  :city-code    "SDJ",
+  :location     {:lng 140.9238889, :lat 38.13611111},
+  :code         "SDJ"}
+ {:long_name    "Wuhan",
+  :country-code "CN",
+  :city-code    "WUH",
+  :location     {:lng 114.2427778, :lat 30.59777778},
+  :code         "WUH"}
+ {:long_name    "Sandakan",
+  :country-code "MY",
+  :city-code    "SDK",
+  :location     {:lng 118.0594444, :lat 5.900833333},
+  :code         "SDK"}
+ {:long_name    "Sundsvall",
+  :country-code "SE",
+  :city-code    "SDL",
+  :location     {:lng 17.44666667, :lat 62.52638889},
+  :code         "SDL"}
+ {:long_name    "Clarksburg",
+  :country-code "US",
+  :city-code    "CKB",
+  :location     {:lng -80.22944444, :lat 39.29555556},
+  :code         "CKB"}
+ {:long_name    "Jeju",
+  :country-code "KR",
+  :city-code    "CJU",
+  :location     {:lng 126.495, :lat 33.50555556},
+  :code         "CJU"}
+ {:long_name    "Wuxi",
+  :country-code "CN",
+  :city-code    "WUX",
+  :location     {:lng 120, :lat 31},
+  :code         "WUX"}
+ {:long_name    "Ljubljana",
+  :country-code "SI",
+  :city-code    "LJU",
+  :location     {:lng 14.4575, :lat 46.22361111},
+  :code         "LJU"}
+ {:long_name    "Umea",
+  :country-code "SE",
+  :city-code    "UME",
+  :location     {:lng 20.28444444, :lat 63.79333333},
+  :code         "UME"}
+ {:long_name    "Gaziantep",
+  :country-code "TR",
+  :city-code    "GZT",
+  :location     {:lng 37.47833333, :lat 36.94805556},
+  :code         "GZT"}
+ {:long_name    "Conakry",
+  :country-code "GN",
+  :city-code    "CKY",
+  :location     {:lng -13.61083333, :lat 9.576388889},
+  :code         "CKY"}
+ {:long_name    "Cleveland - Hopkins International, OH",
+  :country-code "US",
+  :city-code    "CLE",
+  :location     {:lng -81.84944444, :lat 41.41083333},
+  :code         "CLE"}
+ {:long_name    "Carlsbad, CA",
+  :country-code "US",
+  :city-code    "CLD",
+  :location     {:lng -117.2797222, :lat 33.12861111},
+  :code         "CLD"}
+ {:long_name    "Rio de Janeiro - Santos Dumont",
+  :country-code "BR",
+  :city-code    "RIO",
+  :location     {:lng -43.16277778, :lat -22.91},
+  :code         "SDU"}
+ {:long_name    "Santo Domingo - Las Americas",
+  :country-code "DO",
+  :city-code    "SDQ",
+  :location     {:lng -69.66916667, :lat 18.42916667},
+  :code         "SDQ"}
+ {:long_name    "Seattle - Seattle/Tacoma International, WA",
+  :country-code "US",
+  :city-code    "SEA",
+  :location     {:lng -122.3080556, :lat 47.44916667},
+  :code         "SEA"}
+ {:long_name    "Zadar",
+  :country-code "HR",
+  :city-code    "ZAD",
+  :location     {:lng 15.34666667, :lat 44.10833333},
+  :code         "ZAD"}
+ {:long_name    "San Francisco International, CA",
+  :country-code "US",
+  :city-code    "SFO",
+  :location     {:lng -122.3727778, :lat 37.61944444},
+  :code         "SFO"}
+ {:long_name    "Chico",
+  :country-code "US",
+  :city-code    "CIC",
+  :location     {:lng -121.8566667, :lat 39.79583333},
+  :code         "CIC"}
+ {:long_name    "Cedar Rapids, IA",
+  :country-code "US",
+  :city-code    "CID",
+  :location     {:lng -91.70611111, :lat 41.88444444},
+  :code         "CID"}
+ {:long_name    "Mahe Island - Seychelles International",
+  :country-code "SC",
+  :city-code    "SEZ",
+  :location     {:lng 55.5225, :lat -4.672222222},
+  :code         "SEZ"}
+ {:long_name    "Charlottesville Albemarie",
+  :country-code "US",
+  :city-code    "CHO",
+  :location     {:lng -78.45305556, :lat 38.14138889},
+  :code         "CHO"}
+ {:long_name    "Chania",
+  :country-code "GR",
+  :city-code    "CHQ",
+  :location     {:lng 24.14833333, :lat 35.5325},
+  :code         "CHQ"}
+ {:long_name    "Charleston, SC",
+  :country-code "US",
+  :city-code    "CHS",
+  :location     {:lng -80.03888889, :lat 32.89916667},
+  :code         "CHS"}
+ {:long_name    "Lampedusa",
+  :country-code "IT",
+  :city-code    "LMP",
+  :location     {:lng 12.615, :lat 35.49611111},
+  :code         "LMP"}
+ {:long_name    "Springfield Branson",
+  :country-code "US",
+  :city-code    "SGF",
+  :location     {:lng -93.385, :lat 37.24},
+  :code         "SGF"}
+ {:long_name    "Walvis Bay",
+  :country-code "NA",
+  :city-code    "WVB",
+  :location     {:lng 14.65055556, :lat -22.97861111},
+  :code         "WVB"}
+ {:long_name    "Lilongwe - Kamuzu International",
+  :country-code "MW",
+  :city-code    "LLW",
+  :location     {:lng 33.69694444, :lat -13.965},
+  :code         "LLW"}
+ {:long_name    "Ho Chi Minh City",
+  :country-code "VN",
+  :city-code    "SGN",
+  :location     {:lng 106.6577778, :lat 10.81722222},
+  :code         "SGN"}
+ {:long_name    "Coimbatore",
+  :country-code "IN",
+  :city-code    "CJB",
+  :location     {:lng 77.04333333, :lat 11.02833333},
+  :code         "CJB"}
+ {:long_name    "Ndola",
+  :country-code "ZM",
+  :city-code    "NLA",
+  :location     {:lng 28.66305556, :lat -12.99583333},
+  :code         "NLA"}
+ {:long_name    "Calama",
+  :country-code "CL",
+  :city-code    "CJC",
+  :location     {:lng -68.90361111, :lat -22.49805556},
+  :code         "CJC"}
+ {:long_name    "Baku - Heydar Aliyev Int´l",
+  :country-code "AZ",
+  :city-code    "BAK",
+  :location     {:lng 50.04666667, :lat 40.4675},
+  :code         "GYD"}
+ {:long_name    "Guayaquil",
+  :country-code "EC",
+  :city-code    "GYE",
+  :location     {:lng -79.87555556, :lat -2.154444444},
+  :code         "GYE"}
+ {:long_name    "Port Blair",
+  :country-code "IN",
+  :city-code    "IXZ",
+  :location     {:lng 92.74361111, :lat 11.64833333},
+  :code         "IXZ"}
+ {:long_name    "Skelleftea",
+  :country-code "SE",
+  :city-code    "SFT",
+  :location     {:lng 21.07833333, :lat 64.625},
+  :code         "SFT"}
+ {:long_name    "Lulea",
+  :country-code "SE",
+  :city-code    "LLA",
+  :location     {:lng 22.12777778, :lat 65.54472222},
+  :code         "LLA"}
+ {:long_name    "Nelspruit",
+  :country-code "ZA",
+  :city-code    "NLP",
+  :location     {:lng 30.91388889, :lat -25.50083333},
+  :code         "NLP"}
+ {:long_name    "Ranchi",
+  :country-code "IN",
+  :city-code    "IXR",
+  :location     {:lng 85.32361111, :lat 23.31444444},
+  :code         "IXR"}
+ {:long_name    "Lalibela",
+  :country-code "ET",
+  :city-code    "LLI",
+  :location     {:lng 38.98, :lat 11.975},
+  :code         "LLI"}
+ {:long_name    "Aurangabad",
+  :country-code "IN",
+  :city-code    "IXU",
+  :location     {:lng 75.40111111, :lat 19.86361111},
+  :code         "IXU"}
+ {:long_name    "Goiania",
+  :country-code "BR",
+  :city-code    "GYN",
+  :location     {:lng -49.21083333, :lat -16.63833333},
+  :code         "GYN"}
+ {:long_name    "Silchar",
+  :country-code "IN",
+  :city-code    "IXS",
+  :location     {:lng 92.98138889, :lat 24.91222222},
+  :code         "IXS"}
+ {:long_name    "Moab",
+  :country-code "US",
+  :city-code    "CNY",
+  :location     {:lng -109.7461111, :lat 38.75944444},
+  :code         "CNY"}
+ {:long_name    "Springfield, Illinois",
+  :country-code "US",
+  :city-code    "SPI",
+  :location     {:lng -89.67888889, :lat 39.84416667},
+  :code         "SPI"}
+ {:long_name    "Chiang Mai",
+  :country-code "TH",
+  :city-code    "CNX",
+  :location     {:lng 98.96833333, :lat 18.77194444},
+  :code         "CNX"}
+ {:long_name    "Cairns",
+  :country-code "AU",
+  :city-code    "CNS",
+  :location     {:lng 145.7552778, :lat -16.88583333},
+  :code         "CNS"}
+ {:long_name    "Santa Cruz de la Palma - La Palma",
+  :country-code "ES",
+  :city-code    "SPC",
+  :location     {:lng -17.75361111, :lat 28.6225},
+  :code         "SPC"}
+ {:long_name    "Windsor",
+  :country-code "CA",
+  :city-code    "YQG",
+  :location     {:lng -82.95555556, :lat 42.27555556},
+  :code         "YQG"}
+ {:long_name    "Puerto Natales",
+  :country-code "CL",
+  :city-code    "PNT",
+  :location     {:lng -72.52833333, :lat -51.67138889},
+  :code         "PNT"}
+ {:long_name    "Pensacola Municipal",
+  :country-code "US",
+  :city-code    "PNS",
+  :location     {:lng -87.18833333, :lat 30.4725},
+  :code         "PNS"}
+ {:long_name    "Pointe Noire",
+  :country-code "CG",
+  :city-code    "PNR",
+  :location     {:lng 11.88583333, :lat -4.810555556},
+  :code         "PNR"}
+ {:long_name    "New Bern",
+  :country-code "US",
+  :city-code    "EWN",
+  :location     {:lng -77.0425, :lat 35.07361111},
+  :code         "EWN"}
+ {:long_name    "Quebec",
+  :country-code "CA",
+  :city-code    "YQB",
+  :location     {:lng -71.39055556, :lat 46.79111111},
+  :code         "YQB"}
+ {:long_name    "Pune",
+  :country-code "IN",
+  :city-code    "PNQ",
+  :location     {:lng 73.92055556, :lat 18.58138889},
+  :code         "PNQ"}
+ {:long_name    "Pantelleria",
+  :country-code "IT",
+  :city-code    "PNL",
+  :location     {:lng 11.96611111, :lat 36.81361111},
+  :code         "PNL"}
+ {:long_name    "Mangalore",
+  :country-code "IN",
+  :city-code    "IXE",
+  :location     {:lng 74.89388889, :lat 12.96388889},
+  :code         "IXE"}
+ {:long_name    "La Paz",
+  :country-code "BO",
+  :city-code    "LPB",
+  :location     {:lng -68.20138889, :lat -16.50694444},
+  :code         "LPB"}
+ {:long_name    "Kochi",
+  :country-code "IN",
+  :city-code    "COK",
+  :location     {:lng 76.27194444, :lat 9.944444444},
+  :code         "COK"}
+ {:long_name    "Moncton",
+  :country-code "CA",
+  :city-code    "YQM",
+  :location     {:lng -64.67861111, :lat 46.11222222},
+  :code         "YQM"}
+ {:long_name    "Gothenburg - Landvetter",
+  :country-code "SE",
+  :city-code    "GOT",
+  :location     {:lng 12.28277778, :lat 57.66305556},
+  :code         "GOT"}
+ {:long_name    "Chandigarh",
+  :country-code "IN",
+  :city-code    "IXC",
+  :location     {:lng 76.79055556, :lat 30.67194444},
+  :code         "IXC"}
+ {:long_name    "Lethbridge",
+  :country-code "CA",
+  :city-code    "YQL",
+  :location     {:lng -112.7997222, :lat 49.63027778},
+  :code         "YQL"}
+ {:long_name    "Allahabad",
+  :country-code "IN",
+  :city-code    "IXD",
+  :location     {:lng 81.73611111, :lat 25.43972222},
+  :code         "IXD"}
+ {:long_name    "Las Palmas - Aeropuerto de Gran Canaria",
+  :country-code "ES",
+  :city-code    "LPA",
+  :location     {:lng -15.38666667, :lat 27.93194444},
+  :code         "LPA"}
+ {:long_name    "Phnom-Penh",
+  :country-code "KH",
+  :city-code    "PNH",
+  :location     {:lng 104.8491667, :lat 11.54583333},
+  :code         "PNH"}
+ {:long_name    "Agartala",
+  :country-code "IN",
+  :city-code    "IXA",
+  :location     {:lng 91.24222222, :lat 23.89},
+  :code         "IXA"}
+ {:long_name    "Bagdogra",
+  :country-code "IN",
+  :city-code    "IXB",
+  :location     {:lng 88.33055556, :lat 26.68055556},
+  :code         "IXB"}
+ {:long_name    "Cody",
+  :country-code "US",
+  :city-code    "COD",
+  :location     {:lng -109.0275, :lat 44.51583333},
+  :code         "COD"}
+ {:long_name    "Split",
+  :country-code "HR",
+  :city-code    "SPU",
+  :location     {:lng 16.29888889, :lat 43.53833333},
+  :code         "SPU"}
+ {:long_name    "Madurai",
+  :country-code "IN",
+  :city-code    "IXM",
+  :location     {:lng 78.08805556, :lat 9.8325},
+  :code         "IXM"}
+ {:long_name    "Grande Prairie",
+  :country-code "CA",
+  :city-code    "YQU",
+  :location     {:lng -118.885, :lat 55.17972222},
+  :code         "YQU"}
+ {:long_name    "Thunder Bay",
+  :country-code "CA",
+  :city-code    "YQT",
+  :location     {:lng -89.20722222, :lat 48.37194444},
+  :code         "YQT"}
+ {:long_name    "Ujung Pandang",
+  :country-code "ID",
+  :city-code    "UPG",
+  :location     {:lng 119.55, :lat -5.066666667},
+  :code         "UPG"}
+ {:long_name    "Leh",
+  :country-code "IN",
+  :city-code    "IXL",
+  :location     {:lng 77.54916667, :lat 34.13583333},
+  :code         "IXL"}
+ {:long_name    "Nizhny Novgorod",
+  :country-code "RU",
+  :city-code    "GOJ",
+  :location     {:lng 43.78416667, :lat 56.23},
+  :code         "GOJ"}
+ {:long_name    "Regina",
+  :country-code "CA",
+  :city-code    "YQR",
+  :location     {:lng -104.6658333, :lat 50.43194444},
+  :code         "YQR"}
+ {:long_name    "Jammu",
+  :country-code "IN",
+  :city-code    "IXJ",
+  :location     {:lng 74.83888889, :lat 32.69027778},
+  :code         "IXJ"}
+ {:long_name    "Comox",
+  :country-code "CA",
+  :city-code    "YQQ",
+  :location     {:lng -124.8866667, :lat 49.71083333},
+  :code         "YQQ"}
+ {:long_name    "Lagos",
+  :country-code "NG",
+  :city-code    "LOS",
+  :location     {:lng 3.326388889, :lat 6.588888889},
+  :code         "LOS"}
+ {:long_name    "Goa",
+  :country-code "IN",
+  :city-code    "GOI",
+  :location     {:lng 73.83361111, :lat 15.38166667},
+  :code         "GOI"}
+ {:long_name    "Genoa",
+  :country-code "IT",
+  :city-code    "GOA",
+  :location     {:lng 8.837777778, :lat 44.41305556},
+  :code         "GOA"}
+ {:long_name    "Lincoln, NE",
+  :country-code "US",
+  :city-code    "LNK",
+  :location     {:lng -96.75888889, :lat 40.85083333},
+  :code         "LNK"}
+ {:long_name    "Ottawa - International",
+  :country-code "CA",
+  :city-code    "YOW",
+  :location     {:lng -75.66916667, :lat 45.3225},
+  :code         "YOW"}
+ {:long_name    "Poznan",
+  :country-code "PL",
+  :city-code    "POZ",
+  :location     {:lng 16.82638889, :lat 52.42111111},
+  :code         "POZ"}
+ {:long_name    "Colorado Springs - Peterson Field, CO",
+  :country-code "US",
+  :city-code    "COS",
+  :location     {:lng -104.7091667, :lat 38.80888889},
+  :code         "COS"}
+ {:long_name    "Cordoba",
+  :country-code "AR",
+  :city-code    "COR",
+  :location     {:lng -64.19944444, :lat -31.31305556},
+  :code         "COR"}
+ {:long_name    "Cotonou",
+  :country-code "BJ",
+  :city-code    "COO",
+  :location     {:lng 2.385555556, :lat 6.354166667},
+  :code         "COO"}
+ {:long_name    "Pemba",
+  :country-code "MZ",
+  :city-code    "POL",
+  :location     {:lng 40.5225, :lat -12.98833333},
+  :code         "POL"}
+ {:long_name    "Gainesville, Florida - Allison Municipal",
+  :country-code "US",
+  :city-code    "GNV",
+  :location     {:lng -82.27583333, :lat 29.68972222},
+  :code         "GNV"}
+ {:long_name    "New York - Newark International, NJ",
+  :country-code "US",
+  :city-code    "NYC",
+  :location     {:lng -74.17166667, :lat 40.69583333},
+  :code         "EWR"}
+ {:long_name    "Linz - Blue Danube",
+  :country-code "AT",
+  :city-code    "LNZ",
+  :location     {:lng 14.19361111, :lat 48.23444444},
+  :code         "LNZ"}
+ {:long_name    "Copenhagen",
+  :country-code "DK",
+  :city-code    "CPH",
+  :location     {:lng 12.65583333, :lat 55.61805556},
+  :code         "CPH"}
+ {:long_name    "Iwami",
+  :country-code "JP",
+  :city-code    "IWJ",
+  :location     {:lng 131.7902778, :lat 34.67638889},
+  :code         "IWJ"}
+ {:long_name    "Navegantes",
+  :country-code "BR",
+  :city-code    "NVT",
+  :location     {:lng -48.65083333, :lat -26.87944444},
+  :code         "NVT"}
+ {:long_name    "Iwakuni",
+  :country-code "JP",
+  :city-code    "IWK",
+  :location     {:lng 132.2355556, :lat 34.13527778},
+  :code         "IWK"}
+ {:long_name    "Lanai City",
+  :country-code "US",
+  :city-code    "LNY",
+  :location     {:lng -156.9494444, :lat 20.78472222},
+  :code         "LNY"}
+ {:long_name    "Prince Rupert - Digby Island",
+  :country-code "CA",
+  :city-code    "YPR",
+  :location     {:lng -130.4447222, :lat 54.28611111},
+  :code         "YPR"}
+ {:long_name    "Porto Alegre",
+  :country-code "BR",
+  :city-code    "POA",
+  :location     {:lng -51.17083333, :lat -29.99333333},
+  :code         "POA"}
+ {:long_name    "Charlotte, NC",
+  :country-code "US",
+  :city-code    "CLT",
+  :location     {:lng -80.93583333, :lat 35.21916667},
+  :code         "CLT"}
+ {:long_name    "Eugene, OR",
+  :country-code "US",
+  :city-code    "EUG",
+  :location     {:lng -123.2175, :lat 44.12083333},
+  :code         "EUG"}
+ {:long_name    "Surat Thani",
+  :country-code "TH",
+  :city-code    "URT",
+  :location     {:lng 99.31638889, :lat 9.133055556},
+  :code         "URT"}
+ {:long_name    "College Station - Easterwood Field",
+  :country-code "US",
+  :city-code    "CLL",
+  :location     {:lng -96.36444444, :lat 30.58944444},
+  :code         "CLL"}
+ {:long_name    "Sudbury",
+  :country-code "CA",
+  :city-code    "YSB",
+  :location     {:lng -80.79888889, :lat 46.625},
+  :code         "YSB"}
+ {:long_name    "Cluj",
+  :country-code "RO",
+  :city-code    "CLJ",
+  :location     {:lng 23.68611111, :lat 46.785},
+  :code         "CLJ"}
+ {:long_name    "Cali",
+  :country-code "CO",
+  :city-code    "CLO",
+  :location     {:lng -76.385, :lat 3.546111111},
+  :code         "CLO"}
+ {:long_name    "Papeete",
+  :country-code "PF",
+  :city-code    "PPT",
+  :location     {:lng -149.6138889, :lat -17.54722222},
+  :code         "PPT"}
+ {:long_name    "Santa Cruz - El Trompillo",
+  :country-code "BO",
+  :city-code    "SRZ",
+  :location     {:lng -63.17083333, :lat -17.80722222},
+  :code         "SRZ"}
+ {:long_name    "Seoul - Gimpo International",
+  :country-code "KR",
+  :city-code    "SEL",
+  :location     {:lng 126.7963889, :lat 37.555},
+  :code         "GMP"}
+ {:long_name    "Ciudad Del Carmen",
+  :country-code "MX",
+  :city-code    "CME",
+  :location     {:lng -91.79888889, :lat 18.65361111},
+  :code         "CME"}
+ {:long_name    "Colombo - Katunayake",
+  :country-code "LK",
+  :city-code    "CMB",
+  :location     {:lng 79.88472222, :lat 7.175},
+  :code         "CMB"}
+ {:long_name    "Saint John",
+  :country-code "CA",
+  :city-code    "YSJ",
+  :location     {:lng -65.89027778, :lat 45.31611111},
+  :code         "YSJ"}
+ {:long_name    "Columbus, OH",
+  :country-code "US",
+  :city-code    "CMH",
+  :location     {:lng -82.87833333, :lat 39.99111111},
+  :code         "CMH"}
+ {:long_name    "Laredo International",
+  :country-code "US",
+  :city-code    "LRD",
+  :location     {:lng -99.46111111, :lat 27.54472222},
+  :code         "LRD"}
+ {:long_name    "Urumqi",
+  :country-code "CN",
+  :city-code    "URC",
+  :location     {:lng 87, :lat 43},
+  :code         "URC"}
+ {:long_name    "Sarasota/Bradenton",
+  :country-code "US",
+  :city-code    "SRQ",
+  :location     {:lng -82.55416667, :lat 27.39388889},
+  :code         "SRQ"}
+ {:long_name    "Gander",
+  :country-code "CA",
+  :city-code    "YQX",
+  :location     {:lng -54.56805556, :lat 48.93694444},
+  :code         "YQX"}
+ {:long_name    "Ulsan",
+  :country-code "KR",
+  :city-code    "USN",
+  :location     {:lng 129.3575, :lat 35.59055556},
+  :code         "USN"}
+ {:long_name    "Sharm El Sheikh",
+  :country-code "EG",
+  :city-code    "SSH",
+  :location     {:lng 34.38972222, :lat 27.975},
+  :code         "SSH"}
+ {:long_name    "Sydney",
+  :country-code "CA",
+  :city-code    "YQY",
+  :location     {:lng -60.04777778, :lat 46.16138889},
+  :code         "YQY"}
+ {:long_name    "Quesnel",
+  :country-code "CA",
+  :city-code    "YQZ",
+  :location     {:lng -122.5102778, :lat 53.02611111},
+  :code         "YQZ"}
+ {:long_name    "Osaka - Itami",
+  :country-code "JP",
+  :city-code    "OSA",
+  :location     {:lng 135.4411111, :lat 34.7825},
+  :code         "ITM"}
+ {:long_name    "Luang Prabang",
+  :country-code "LA",
+  :city-code    "LPQ",
+  :location     {:lng 102.1638889, :lat 19.89583333},
+  :code         "LPQ"}
+ {:long_name    "Gambela",
+  :country-code "ET",
+  :city-code    "GMB",
+  :location     {:lng 34.56305556, :lat 8.128888889},
+  :code         "GMB"}
+ {:long_name    "Harstad-Narvik, Evenes",
+  :country-code "NO",
+  :city-code    "EVE",
+  :location     {:lng 16.67972222, :lat 68.49111111},
+  :code         "EVE"}
+ {:long_name    "Hilo International",
+  :country-code "US",
+  :city-code    "ITO",
+  :location     {:lng -155.0580556, :lat 19.72361111},
+  :code         "ITO"}
+ {:long_name    "Hancock",
+  :country-code "US",
+  :city-code    "CMX",
+  :location     {:lng -88.48638889, :lat 47.16777778},
+  :code         "CMX"}
+ {:long_name    "Worland",
+  :country-code "US",
+  :city-code    "WRL",
+  :location     {:lng -107.9530556, :lat 43.9675},
+  :code         "WRL"}
+ {:long_name    "Salvador",
+  :country-code "BR",
+  :city-code    "SSA",
+  :location     {:lng -38.33611111, :lat -12.91555556},
+  :code         "SSA"}
+ {:long_name    "Wroclaw",
+  :country-code "PL",
+  :city-code    "WRO",
+  :location     {:lng 16.88333333, :lat 51.1},
+  :code         "WRO"}
+ {:long_name    "Yerevan - Zvartnots Int´l",
+  :country-code "AM",
+  :city-code    "EVN",
+  :location     {:lng 44.40138889, :lat 40.15416667},
+  :code         "EVN"}
+ {:long_name    "Linkoping",
+  :country-code "SE",
+  :city-code    "LPI",
+  :location     {:lng 15.68055556, :lat 58.40611111},
+  :code         "LPI"}
+ {:long_name    "Casablanca - Mohamed V",
+  :country-code "MA",
+  :city-code    "CAS",
+  :location     {:lng -7.59, :lat 33.3675},
+  :code         "CMN"}
+ {:long_name    "Malabo",
+  :country-code "GQ",
+  :city-code    "SSG",
+  :location     {:lng 8.705555556, :lat 3.752777778},
+  :code         "SSG"}
+ {:long_name    "Constanta",
+  :country-code "RO",
+  :city-code    "CND",
+  :location     {:lng 28.48833333, :lat 44.36222222},
+  :code         "CND"}
+ {:long_name    "Belo Horizonte - Tancredo Neves International",
+  :country-code "BR",
+  :city-code    "BHZ",
+  :location     {:lng -43.96888889, :lat -19.63361111},
+  :code         "CNF"}
+ {:long_name    "Wrangell",
+  :country-code "US",
+  :city-code    "WRG",
+  :location     {:lng -132.3666667, :lat 56.48444444},
+  :code         "WRG"}
+ {:long_name    "Lampang",
+  :country-code "TH",
+  :city-code    "LPT",
+  :location     {:lng 99.50722222, :lat 18.27416667},
+  :code         "LPT"}
+ {:long_name    "Ushuaia",
+  :country-code "AR",
+  :city-code    "USH",
+  :location     {:lng -68.32777778, :lat -54.8025},
+  :code         "USH"}
+ {:long_name    "Rzeszow",
+  :country-code "PL",
+  :city-code    "RZE",
+  :location     {:lng 22.01888889, :lat 50.11},
+  :code         "RZE"}
+ {:long_name    "Ko Samui",
+  :country-code "TH",
+  :city-code    "USM",
+  :location     {:lng 100.0663889, :lat 9.550555556},
+  :code         "USM"}
+ {:long_name    "Nantes",
+  :country-code "FR",
+  :city-code    "NTE",
+  :location     {:lng -1.609722222, :lat 47.15833333},
+  :code         "NTE"}
+ {:long_name    "Istanbul",
+  :country-code "TR",
+  :city-code    "IST",
+  :location     {:lng 28.81527778, :lat 40.97666667},
+  :code         "IST"}
+ {:long_name    "Corpus Christi - International",
+  :country-code "US",
+  :city-code    "CRP",
+  :location     {:lng -97.50083333, :lat 27.77},
+  :code         "CRP"}
+ {:long_name    "Pisa",
+  :country-code "IT",
+  :city-code    "PSA",
+  :location     {:lng 10.39277778, :lat 43.68055556},
+  :code         "PSA"}
+ {:long_name    "Umtata",
+  :country-code "ZA",
+  :city-code    "UTT",
+  :location     {:lng 28.78305556, :lat -31.58305556},
+  :code         "UTT"}
+ {:long_name    "Ankara - Esenboga",
+  :country-code "TR",
+  :city-code    "ANK",
+  :location     {:lng 32.99666667, :lat 40.12916667},
+  :code         "ESB"}
+ {:long_name    "Williston - Sloulin Field International",
+  :country-code "US",
+  :city-code    "ISN",
+  :location     {:lng -103.6361111, :lat 48.17611111},
+  :code         "ISN"}
+ {:long_name    "Launceston",
+  :country-code "AU",
+  :city-code    "LST",
+  :location     {:lng 147.21, :lat -41.54583333},
+  :code         "LST"}
+ {:long_name    "Salt Lake City International, UT",
+  :country-code "US",
+  :city-code    "SLC",
+  :location     {:lng -111.9688889, :lat 40.78694444},
+  :code         "SLC"}
+ {:long_name    "Charleston, West Virginia - Yeager",
+  :country-code "US",
+  :city-code    "CRW",
+  :location     {:lng -81.59305556, :lat 38.37277778},
+  :code         "CRW"}
+ {:long_name    "Salta",
+  :country-code "AR",
+  :city-code    "SLA",
+  :location     {:lng -65.47222222, :lat -24.855},
+  :code         "SLA"}
+ {:long_name    "Great Falls International",
+  :country-code "US",
+  :city-code    "GTF",
+  :location     {:lng -111.3669444, :lat 47.48555556},
+  :code         "GTF"}
+ {:long_name    "Las Piedras",
+  :country-code "VE",
+  :city-code    "LSP",
+  :location     {:lng -70.1525, :lat 11.77944444},
+  :code         "LSP"}
+ {:long_name    "Nakhon Si Thammarat",
+  :country-code "TH",
+  :city-code    "NST",
+  :location     {:lng 99.94472222, :lat 8.539722222},
+  :code         "NST"}
+ {:long_name    "Upington",
+  :country-code "ZA",
+  :city-code    "UTN",
+  :location     {:lng 21.25333333, :lat -28.40055556},
+  :code         "UTN"}
+ {:long_name    "San Luis Potosi",
+  :country-code "MX",
+  :city-code    "SLP",
+  :location     {:lng -100.9883333, :lat 22.17722222},
+  :code         "SLP"}
+ {:long_name    "Prague, Václav Havel Airport",
+  :country-code "CZ",
+  :city-code    "PRG",
+  :location     {:lng 14.26, :lat 50.10083333},
+  :code         "PRG"}
+ {:long_name    "Ithaca",
+  :country-code "US",
+  :city-code    "ITH",
+  :location     {:lng -76.45805556, :lat 42.49027778},
+  :code         "ITH"}
+ {:long_name    "Rouyn",
+  :country-code "CA",
+  :city-code    "YUY",
+  :location     {:lng -78.83555556, :lat 48.20611111},
+  :code         "YUY"}
+ {:long_name    "Greenville - Spartanbur, SC",
+  :country-code "US",
+  :city-code    "GSP",
+  :location     {:lng -82.21388889, :lat 34.89888889},
+  :code         "GSP"}
+ {:long_name    "Greensboro - Piedmont Triad International, NC",
+  :country-code "US",
+  :city-code    "GSO",
+  :location     {:lng -79.94277778, :lat 36.09194444},
+  :code         "GSO"}
+ {:long_name    "Udon Thani",
+  :country-code "TH",
+  :city-code    "UTH",
+  :location     {:lng 102.7927778, :lat 17.38472222},
+  :code         "UTH"}
+ {:long_name    "Saltillo",
+  :country-code "MX",
+  :city-code    "SLW",
+  :location     {:lng -100.9286111, :lat 25.54944444},
+  :code         "SLW"}
+ {:long_name    "Pristina, Kosovo",
+  :country-code "RS",
+  :city-code    "PRN",
+  :location     {:lng 21.03638889, :lat 42.57527778},
+  :code         "PRN"}
+ {:long_name    "San Luis Obispo",
+  :country-code "US",
+  :city-code    "CSL",
+  :location     {:lng -120.7344444, :lat 35.33333333},
+  :code         "CSL"}
+ {:long_name    "Yaounde - Nsimalen Airport",
+  :country-code "CM",
+  :city-code    "YAO",
+  :location     {:lng 11.52361111, :lat 3.833611111},
+  :code         "NSI"}
+ {:long_name    "Montreal - Pierre Elliott Trudeau",
+  :country-code "CA",
+  :city-code    "YMQ",
+  :location     {:lng -73.74083333, :lat 45.47055556},
+  :code         "YUL"}
+ {:long_name    "Sao Luiz",
+  :country-code "BR",
+  :city-code    "SLZ",
+  :location     {:lng -44.23416667, :lat -2.585277778},
+  :code         "SLZ"}
+ {:long_name    "Wellington International",
+  :country-code "NZ",
+  :city-code    "WLG",
+  :location     {:lng 174.8013889, :lat -41.32388889},
+  :code         "WLG"}
+ {:long_name    "Sacramento Metropolitan, CA",
+  :country-code "US",
+  :city-code    "SAC",
+  :location     {:lng -121.5897222, :lat 38.69555556},
+  :code         "SMF"}
+ {:long_name    "Samos",
+  :country-code "GR",
+  :city-code    "SMI",
+  :location     {:lng 26.91388889, :lat 37.68888889},
+  :code         "SMI"}
+ {:long_name    "Changsha",
+  :country-code "CN",
+  :city-code    "CSX",
+  :location     {:lng 113.0833333, :lat 28.2},
+  :code         "CSX"}
+ {:long_name    "Tokyo - Narita",
+  :country-code "JP",
+  :city-code    "TYO",
+  :location     {:lng 140.3911111, :lat 35.76388889},
+  :code         "NRT"}
+ {:long_name    "Ishigaki",
+  :country-code "JP",
+  :city-code    "ISG",
+  :location     {:lng 124.1688889, :lat 24.33694444},
+  :code         "ISG"}
+ {:long_name    "Petersburg",
+  :country-code "US",
+  :city-code    "PSG",
+  :location     {:lng -132.9425, :lat 56.80416667},
+  :code         "PSG"}
+ {:long_name    "Grand Rapids, Kent County Intl, MI",
+  :country-code "US",
+  :city-code    "GRR",
+  :location     {:lng -85.52416667, :lat 42.88111111},
+  :code         "GRR"}
+ {:long_name    "Cartagena",
+  :country-code "CO",
+  :city-code    "CTG",
+  :location     {:lng -75.51055556, :lat 10.44666667},
+  :code         "CTG"}
+ {:long_name    "Timmins",
+  :country-code "CA",
+  :city-code    "YTS",
+  :location     {:lng -81.37666667, :lat 48.56972222},
+  :code         "YTS"}
+ {:long_name    "Pasco, WA",
+  :country-code "US",
+  :city-code    "PSC",
+  :location     {:lng -119.1147222, :lat 46.26388889},
+  :code         "PSC"}
+ {:long_name    "Catania",
+  :country-code "IT",
+  :city-code    "CTA",
+  :location     {:lng 14.92305556, :lat 37.40277778},
+  :code         "CTA"}
+ {:long_name    "Palm Springs Municipal, CA",
+  :country-code "US",
+  :city-code    "PSP",
+  :location     {:lng -116.505, :lat 33.82666667},
+  :code         "PSP"}
+ {:long_name    "Yeosu",
+  :country-code "KR",
+  :city-code    "RSU",
+  :location     {:lng 127.6188889, :lat 34.83694444},
+  :code         "RSU"}
+ {:long_name    "La Serena",
+  :country-code "CL",
+  :city-code    "LSC",
+  :location     {:lng -71.19777778, :lat -29.91333333},
+  :code         "LSC"}
+ {:long_name    "Santa Maria",
+  :country-code "US",
+  :city-code    "SMX",
+  :location     {:lng -120.4577778, :lat 34.905},
+  :code         "SMX"}
+ {:long_name    "Graz - Thalerhof",
+  :country-code "AT",
+  :city-code    "GRZ",
+  :location     {:lng 15.44, :lat 46.99333333},
+  :code         "GRZ"}
+ {:long_name    "Fort Myers - SW Florida Region, FL",
+  :country-code "US",
+  :city-code    "FMY",
+  :location     {:lng -81.755, :lat 26.53611111},
+  :code         "RSW"}
+ {:long_name    "Santa Marta",
+  :country-code "CO",
+  :city-code    "SMR",
+  :location     {:lng -74.22861111, :lat 11.12222222},
+  :code         "SMR"}
+ {:long_name    "Sao Paulo - Guarulhos International",
+  :country-code "BR",
+  :city-code    "SAO",
+  :location     {:lng -46.47277778, :lat -23.435},
+  :code         "GRU"}
+ {:long_name    "Copiapo",
+  :country-code "CL",
+  :city-code    "CPO",
+  :location     {:lng -70.41361111, :lat -27.29611111},
+  :code         "CPO"}
+ {:long_name    "Rotterdam",
+  :country-code "NL",
+  :city-code    "RTM",
+  :location     {:lng 4.444444444, :lat 51.95833333},
+  :code         "RTM"}
+ {:long_name    "Winnipeg",
+  :country-code "CA",
+  :city-code    "YWG",
+  :location     {:lng -97.23333333, :lat 49.9},
+  :code         "YWG"}
+ {:long_name    "Iquique",
+  :country-code "CL",
+  :city-code    "IQQ",
+  :location     {:lng -70.14083333, :lat -20.23166667},
+  :code         "IQQ"}
+ {:long_name    "Williams Lake",
+  :country-code "CA",
+  :city-code    "YWL",
+  :location     {:lng -122.0541667, :lat 52.18305556},
+  :code         "YWL"}
+ {:long_name
+                "Santa Ana (Orange County) - John Wayne\nInternational, CA",
+  :country-code "US",
+  :city-code    "SNA",
+  :location     {:lng -117.8672222, :lat 33.67555556},
+  :code         "SNA"}
+ {:long_name    "Green Bay",
+  :country-code "US",
+  :city-code    "GRB",
+  :location     {:lng -88.13055556, :lat 44.48805556},
+  :code         "GRB"}
+ {:long_name    "Cape Town",
+  :country-code "ZA",
+  :city-code    "CPT",
+  :location     {:lng 18.60222222, :lat -33.96472222},
+  :code         "CPT"}
+ {:long_name    "Wabush",
+  :country-code "CA",
+  :city-code    "YWK",
+  :location     {:lng -66.86444444, :lat 52.92194444},
+  :code         "YWK"}
+ {:long_name    "Panama City - Tocumen International",
+  :country-code "PA",
+  :city-code    "PTY",
+  :location     {:lng -79.38361111, :lat 9.07},
+  :code         "PTY"}
+ {:long_name    "Casper",
+  :country-code "US",
+  :city-code    "CPR",
+  :location     {:lng -106.4625, :lat 42.90861111},
+  :code         "CPR"}
+ {:long_name    "Lusaka",
+  :country-code "ZM",
+  :city-code    "LUN",
+  :location     {:lng 28.45277778, :lat -15.32916667},
+  :code         "LUN"}
+ {:long_name    "Roatan",
+  :country-code "HN",
+  :city-code    "RTB",
+  :location     {:lng -86.52583333, :lat 16.31472222},
+  :code         "RTB"}
+ {:long_name    "Grand Island",
+  :country-code "US",
+  :city-code    "GRI",
+  :location     {:lng -98.30666667, :lat 40.96722222},
+  :code         "GRI"}
+ {:long_name    "George",
+  :country-code "ZA",
+  :city-code    "GRJ",
+  :location     {:lng 22.42111111, :lat -33.9675},
+  :code         "GRJ"}
+ {:long_name    "Luxemburg",
+  :country-code "LU",
+  :city-code    "LUX",
+  :location     {:lng 6.206666667, :lat 49.62777778},
+  :code         "LUX"}
+ {:long_name    "Pueblo",
+  :country-code "US",
+  :city-code    "PUB",
+  :location     {:lng -104.4961111, :lat 38.29277778},
+  :code         "PUB"}
+ {:long_name    "Polokwane",
+  :country-code "ZA",
+  :city-code    "UTT",
+  :location     {:lng 29.45777778, :lat -23.84777778},
+  :code         "PTG"}
+ {:long_name    "Wenzhou",
+  :country-code "CN",
+  :city-code    "WNZ",
+  :location     {:lng 120, :lat 27},
+  :code         "WNZ"}
+ {:long_name    "Shannon",
+  :country-code "IE",
+  :city-code    "SNN",
+  :location     {:lng -8.918611111, :lat 52.70055556},
+  :code         "SNN"}
+ {:long_name    "Lublin",
+  :country-code "PL",
+  :city-code    "LUZ",
+  :location     {:lng 22.56666667, :lat 51.85},
+  :code         "LUZ"}
+ {:long_name    "Santa Clara",
+  :country-code "CU",
+  :city-code    "SNU",
+  :location     {:lng -79.94361111, :lat 22.49222222},
+  :code         "SNU"}
+ {:long_name    "Livingstone",
+  :country-code "ZM",
+  :city-code    "LVI",
+  :location     {:lng 25.82222222, :lat -17.82055556},
+  :code         "LVI"}
+ {:long_name    "Saint Lucia - Hewanorra",
+  :country-code "LC",
+  :city-code    "SLU",
+  :location     {:lng -60.95222222, :lat 13.73555556},
+  :code         "UVF"}
+ {:long_name    "Pullman/Moscow",
+  :country-code "US",
+  :city-code    "PUW",
+  :location     {:lng -117.105, :lat 46.74472222},
+  :code         "PUW"}
+ {:long_name    "Pula",
+  :country-code "HR",
+  :city-code    "PUY",
+  :location     {:lng 13.9225, :lat 44.89138889},
+  :code         "PUY"}
+ {:long_name    "Erie International",
+  :country-code "US",
+  :city-code    "ERI",
+  :location     {:lng -80.17861111, :lat 42.08},
+  :code         "ERI"}
+ {:long_name    "Solo City",
+  :country-code "ID",
+  :city-code    "SOC",
+  :location     {:lng 110.7513889, :lat -73.18194444},
+  :code         "SOC"}
+ {:long_name    "Nuremberg",
+  :country-code "DE",
+  :city-code    "NUE",
+  :location     {:lng 11.08166667, :lat 49.49972222},
+  :code         "NUE"}
+ {:long_name    "Sofia",
+  :country-code "BG",
+  :city-code    "SOF",
+  :location     {:lng 23.40611111, :lat 42.69527778},
+  :code         "SOF"}
+ {:long_name    "Riyadh - King Khaled International",
+  :country-code "SA",
+  :city-code    "RUH",
+  :location     {:lng 46.69611111, :lat 24.95916667},
+  :code         "RUH"}
+ {:long_name    "El Centro - Imperial County",
+  :country-code "US",
+  :city-code    "IPL",
+  :location     {:lng -115.5747222, :lat 32.83722222},
+  :code         "IPL"}
+ {:long_name    "Providence",
+  :country-code "US",
+  :city-code    "PVD",
+  :location     {:lng -71.42611111, :lat 41.72833333},
+  :code         "PVD"}
+ {:long_name    "Noto Airport",
+  :country-code "JP",
+  :city-code    "NTQ",
+  :location     {:lng 136.9652778, :lat 37.29027778},
+  :code         "NTQ"}
+ {:long_name    "Punta Cana",
+  :country-code "DO",
+  :city-code    "PUJ",
+  :location     {:lng -68.36333333, :lat 18.5675},
+  :code         "PUJ"}
+ {:long_name    "Comodoro Rivadavia",
+  :country-code "AR",
+  :city-code    "CRD",
+  :location     {:lng -67.46277778, :lat -45.78722222},
+  :code         "CRD"}
+ {:long_name    "Nantong",
+  :country-code "CN",
+  :city-code    "NTG",
+  :location     {:lng 120.9666667, :lat 32.06666667},
+  :code         "NTG"}
+ {:long_name    "Val D'Or",
+  :country-code "CA",
+  :city-code    "YVO",
+  :location     {:lng -77.78277778, :lat 48.05333333},
+  :code         "YVO"}
+ {:long_name    "Gulfport",
+  :country-code "US",
+  :city-code    "GPT",
+  :location     {:lng -89.07027778, :lat 30.40611111},
+  :code         "GPT"}
+ {:long_name    "Vancouver - International",
+  :country-code "CA",
+  :city-code    "YVR",
+  :location     {:lng -123.1852778, :lat 49.18722222},
+  :code         "YVR"}
+ {:long_name    "Punta Arenas",
+  :country-code "CL",
+  :city-code    "PUQ",
+  :location     {:lng -70.8775, :lat -53.12638889},
+  :code         "PUQ"}
+ {:long_name    "Busan Gimhae Int' l Airport",
+  :country-code "KR",
+  :city-code    "PUS",
+  :location     {:lng 129.1305556, :lat 35.17083333},
+  :code         "PUS"}
+ {:long_name "Orly Airport",
+  :code      "ORY",
+  :place_id  "ChIJHTtq-rF15kcRIoTbQ9feeJ0",
+  :location  {:lng 2.3652472, :lat 48.7262433}}
+ {:long_name    "Ajaccio",
+  :country-code "FRA",
+  :city-code    "AJA",
+  :location     {:lng 8.79401, :lat 41.91987},
+  :code         "AJA"}
+ {:long_name    "Alicante",
+  :country-code "ES",
+  :city-code    "ALC",
+  :location     {:lng -0.56006, :lat 38.28548},
+  :code         "ALC"}
+ {:long_name    "Avignon - Caumont airport",
+  :country-code "FRA",
+  :city-code    "AVN",
+  :location     {:lng 4.90194, :lat 43.90667},
+  :code         "AVN"}
+ {:long_name    "Aeroport Brest Bretagne",
+  :country-code "FRA",
+  :city-code    "BES",
+  :location     {:lng -4.42015, :lat 48.4435},
+  :code         "BES"}
+ {:long_name    "Chambéry Airport",
+  :country-code "FRA",
+  :city-code    "CMF",
+  :location     {:lng 5.88378, :lat 45.63793},
+  :code         "CMF"}
+ {:long_name    "Grenoble",
+  :country-code "FRA",
+  :city-code    "GNB",
+  :location     {:lng 5.33202, :lat 45.3601},
+  :code         "GNB"}
+ {:long_name    "Girona",
+  :country-code "ES",
+  :city-code    "GRO",
+  :location     {:lng 2.76335, :lat 41.90573},
+  :code         "GRO"}
+ {:long_name    "Cork",
+  :country-code "IRL",
+  :city-code    "ORK",
+  :location     {:lng -8.49279, :lat 51.84493},
+  :code         "ORK"}
+ {:long_name    "Perpignan",
+  :country-code "FRA",
+  :city-code    "PGF",
+  :location     {:lng 2.86865, :lat 42.74079},
+  :code         "PGF"}
+ {:long_name    "Aeropuerto Sevilla",
+  :country-code "ES",
+  :city-code    "SVQ",
+  :location     {:lng -5.89305, :lat 37.42017},
+  :code         "SVQ"}
+ {:long_name    "Sint Maarten",
+  :country-code "NL",
+  :city-code    "SXM",
+  :location     {:lng -63.11319, :lat 18.04199},
+  :code         "SXM"}
+ {:long_name    "Kaunas",
+  :country-code "LIT",
+  :city-code    "KUN",
+  :location     {:lng 24.07493, :lat 54.96459},
+  :code         "KUN"}
+ {:long_name    "Bergerac Dordogne Périgord Airport",
+  :country-code "FRA",
+  :city-code    "BRG",
+  :location     {:lng 0.5206, :lat 44.8244},
+  :code         "EGC"}
+ {:long_name    "Groningen",
+  :country-code "NL",
+  :city-code    "GRQ",
+  :location     {:lng 6.5833, :lat 53.1250},
+  :code         "GRQ"}
+ {:long_name    "Eindhoven",
+  :country-code "NL",
+  :city-code    "EIN",
+  :location     {:lng 5.3744, :lat 51.4500},
+  :code         "EIN"}
+ {:long_name    "Bonaire",
+  :country-code "NL",
+  :city-code    "BON",
+  :location     {:lng -68.2686, :lat 12.1311},
+  :code         "BON"}
+ {:long_name    "Da Nang",
+  :country-code "VN",
+  :city-code    "DAD",
+  :location     {:lng 108.1994, :lat 16.0439},
+  :code         "DAD"}
+ ]

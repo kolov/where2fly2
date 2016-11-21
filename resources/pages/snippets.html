@@ -1,0 +1,59 @@
+<html xmlns="http://www.w3.org/1999/html">
+<body>
+
+
+<div id="reload-script">
+    <script language="JavaScript">
+        socket = new WebSocket('ws://localhost:3000/watch-reload');
+        socket.onopen = function () {
+            socket.send('watch');
+        };
+        socket.onmessage = function (s) {
+            if (s.data == 'started') {
+                console.log("Watching started");
+            } else if (s.data == 'reload') {
+                console.log("reloading");
+                window.location.reload();
+            } else {
+                alert('Don\'t know what to do with [' + s.data + ']');
+            }
+        };
+    </script>
+
+</div>
+<div id="ga-script">
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-64485849-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+</div>
+<div id="adsense-script">
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- where2fly2-1 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:200px;height:200px"
+         data-ad-client="ca-pub-1847267811722440"
+         data-ad-slot="5090796436"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+
+</div>
+</body>
+</html>

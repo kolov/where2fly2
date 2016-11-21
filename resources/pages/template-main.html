@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- TradeDoubler site verification 2551026 -->
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+
+    <meta name="tradetracker-site-verification" content="6a22c9310c6c7a2fdeb660aca267173c24b9b00d"/>
+
+    <title>Where To Fly To</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <script type="text/javascript"
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD7VWTcRw8bCmY6CV21CId5t3_9P1m3MDY">
+    </script>
+    <script src="/bower/moment/min/moment-with-locales.min.js"></script>
+    <script src="/bower/jquery/dist/jquery.min.js"></script>
+    <script src="/bower/jquery-ui/ui/minified/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="bower/jquery-ui/themes/smoothness/jquery-ui.css">
+    <script src="/bower/angular/angular.min.js"></script>
+    <script src="/bower/angular-route/angular-route.min.js"></script>
+    <script src="/bower/angular-load/angular-load.min.js"></script>
+    <script src="/bower/angular-resource/angular-resource.min.js"></script>
+    <script src="/bower/angular-sanitize/angular-sanitize.min.js"></script>
+    <script type="text/javascript" src="/bower/angular-click-outside/clickoutside.directive.js"></script>
+
+    <script src="/static/js/slider.js"></script>
+    <script src="/static/js/spin.min.js"></script>
+    <link rel="stylesheet" href="/static/css/slider.css">
+
+    <script src="/bower/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+    <script src="/bower/angular-smart-table/dist/smart-table.min.js"></script>
+
+    <link rel="stylesheet" href="/bower/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/bower/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="/bower/bootstrap-social/bootstrap-social.css">
+
+    <script language="javascript" src="/bower/underscore/underscore-min.js"></script>
+
+    <script src='/bower/lodash/lodash.min.js'></script>
+    <script src='/bower/ngmap/build/scripts/ng-map.min.js'></script>
+    <script src='/static/js/gmap-label.js'></script>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/main.css">
+
+
+    <!-- Directives -->
+
+    <!-- Controllers -->
+    <script language="javascript" src="/static/js/wcig-app.js"></script>
+    <script language="javascript" src="/static/js/stats-app.js"></script>
+    <script language="javascript" src="/static/js/wcig-resources.js"></script>
+    <script language="javascript" src="/static/js/stats-resources.js"></script>
+    <script language="javascript" src="/static/js/wcig-helpers.js"></script>
+    <script language="javascript" src="/static/js/wcig-controllers.js"></script>
+    <script language="javascript" src="/static/js/stats-controllers.js"></script>
+
+
+</head>
+<body ng-app="wcig" ng-controller="AppController">
+
+
+<div class="navbar-xs">
+    <div class="navbar-primary">
+        <nav class="navbar navbar-default">
+            <div class="navbar-header">
+                <span>
+                    <a class="navbar-brand" href="/"/>
+                </span>
+
+               <span class="navbar-brand" style="color: black">
+                   <form>
+                       <div ng-repeat="a in configuration.applications">
+                           <input name="selectedSite" type="radio" ng-model="selectedSite"
+                                  ng-value="a" ng-change="appChanged(a.href)">
+                           {{a.headline}}
+                       </div>
+                   </form>
+
+                </span>
+
+
+            </div>
+
+
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+
+
+                    <li class="active"><a href="/disclaimer">Disclaimer</a></li>
+                    <li class="active"><a href="/about">About</a></li>
+                    <li></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </nav>
+    </div>
+</div>
+
+<div id="main-content">
+    Page content goes here
+</div>
+
+<div id="ga-script">
+    script
+</div>
+
+<div id="reload-script">
+    reload
+</div>
+
+
+</body>
+</html>
+  

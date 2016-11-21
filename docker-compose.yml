@@ -1,0 +1,21 @@
+mongo:
+  image: mongo
+#  environment:
+#    - POSTGRESQL_USER=sonar
+#    - POSTGRESQL_PASS=xaexohquaetiesoo
+#    - POSTGRESQL_DB=sonar
+  volumes:
+    - /data/db
+  ports:
+    - "27017:27017"
+sherpa:
+  image: kolov/sherpa
+  ports:
+    - "9000:9000"
+wcig:
+  image: kolov/wcig
+  links:
+    - mongo:mongo
+    - sherpa:sherpa
+  ports:
+    - "3001:3000"
