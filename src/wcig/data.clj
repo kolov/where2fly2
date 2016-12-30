@@ -144,29 +144,18 @@
 (def holidays [
 
                {
-                :id         "SOM1" :name "Zomervakantie 1"
-                :start-date "2016-07-09" :end-date "2016-07-23"
+                :id         "KER1" :name "Kerstvakantie 2"
+                :start-date "2017-1-2" :end-date "2017-1-8"
                 :groups     #{"transavia" "holiday"}
                 }
                {
-                :id         "SOM2" :name "Zomervakantie 2"
-                :start-date "2016-07-16" :end-date "2016-07-30"
+                :id         "WIN1" :name "Wintervakantie"
+                :start-date "2017-2-18" :end-date "2017-2-26"
                 :groups     #{"transavia" "holiday"}
                 }
-               {
-                :id         "SOM3" :name "Zomervakantie 3"
-                :start-date "2016-07-23" :end-date "2016-09-06"
-                :groups     #{"transavia" "holiday"}
-                }
-
-               {
-                :id         "AUT1" :name "Herfstvakantie 1"
-                :start-date "2016-10-15" :end-date "2016-10-22"
-                :groups     #{"transavia" "holiday"}
-                }
-       {
-                :id         "AUT2" :name "Herfstvakantie 2"
-                :start-date "2016-10-22" :end-date "2016-10-29"
+              {
+                :id         "WIN1" :name "Meivakantie"
+                :start-date "2017-4-22" :end-date "2017-5-6"
                 :groups     #{"transavia" "holiday"}
                 }
 
