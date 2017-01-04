@@ -161,7 +161,7 @@
                 :groups     #{"transavia" "holiday"}
                 },
                { :id "PIN" :name "Pinksteren"
-                :start-date "2017-06-03" end-date "2017-06-05"
+                :start-date "2017-06-03" :end-date "2017-06-05"
                 :groups     #{"transavia" "holiday"}
                 },
                { :id "ZOM1" :name "Zomervakantiei 1"
@@ -184,3 +184,4 @@
 
 
 
+ 
