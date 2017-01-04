@@ -143,21 +143,40 @@
 
 (def holidays [
 
-               {
-                :id         "KER1" :name "Kerstvakantie 2"
-                :start-date "2017-1-2" :end-date "2017-1-8"
-                :groups     #{"transavia" "holiday"}
-                }
-               {
-                :id         "WIN1" :name "Wintervakantie"
-                :start-date "2017-2-18" :end-date "2017-2-26"
-                :groups     #{"transavia" "holiday"}
-                }
               {
-                :id         "WIN1" :name "Meivakantie"
-                :start-date "2017-4-22" :end-date "2017-5-6"
+                :id         "WIN1" :name "Wintervakantie"
+                :start-date "2017-2-18" :end-date "2017-2-25"
                 :groups     #{"transavia" "holiday"}
-                }
+                },
+{
+:id "PAA1" :name "Pasen"
+ :start-date "2017-04-14" :end-date "2017-04-17"
+:groups     #{"transavia" "holiday"}
+}
+
+
+              {
+                :id         "MEI" :name "Meivakantie"
+                :start-date "2017-4-22" :end-date "2017-04-30"
+                :groups     #{"transavia" "holiday"}
+                },
+{ :id "PIN" :name "Pinksteren"
+:start-date "2017-06-03" end-date "2017-06-05"
+ :groups     #{"transavia" "holiday"}
+                },
+{ :id "ZOM1" :name "Zomervakantiei 1"
+:start-date "2017-07-22" :end-date "2017-08-05"
+                :groups     #{"transavia" "holiday"}
+                },
+{ :id "ZOM2" :name "Zomervakantie 2"
+:start-date "2017-08-05" :end-date "2017-08-19"
+                :groups     #{"transavia" "holiday"}
+                },
+
+{ :id "ZO32" :name "Zomervakantie 3"
+:start-date "2017-08-19" :end-date "2017-09-02"
+                :groups     #{"transavia" "holiday"}
+                },
 
                ])
 
