@@ -1,4 +1,4 @@
-FROM java:8
+FROM kolov/java8
 
 WORKDIR /app
 COPY target/*-standalone.jar app.jar

@@ -1,0 +1,16 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: where2fly2
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: where2fly2
+    spec:
+      containers:
+      - name: where2fly2
+        image: eu.gcr.io/iconic-setup-91510/where2fly2
+        ports:
+        - containerPort: 3000
