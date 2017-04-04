@@ -4,6 +4,7 @@ machine:
 
 dependencies:
   override:
+    - lein bower install
     - lein uberjar
     - docker info
     - docker login -e 1234@5678.com -u oauth2accesstoken -p $GCLOUD_ACCESS_TOKEN https://eu.gcr.io

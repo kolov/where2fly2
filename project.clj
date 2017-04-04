@@ -83,7 +83,7 @@
                     :plugins        [
                                      [lein-environ "1.0.0"]
                                      [lein-midje "3.0.0"]
-                                     [lein-bower "0.5.1"]
+                                     [lein-bower "0.5.2"]
                                      ]
                     :resource-paths ["config/dev"]
                     :env
