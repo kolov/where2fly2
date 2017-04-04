@@ -4,7 +4,7 @@ metadata:
   name: mongo-w2f2
 spec:
   ports:
-    - name: mongo
+    - name: mongo-w2f2
       port: 27017
       targetPort: 27017
   selector:
