@@ -9,9 +9,10 @@
                  [org.clojure/data.json "0.2.6"]
                  [com.novemberain/monger "2.0.0"]
                  [clj-http "2.2.0"]
-                 [com.akolov/mirador "0.2.2-SNAPSHOT"]
+                 ;[com.akolov/mirador "0.2.1"]
                  [compojure "1.3.3"]
-                 [jota "0.7.7-SNAPSHOT"]
+                 [com.taoensso/timbre "4.8.0"]
+                 [log4j/log4j "1.2.17"]
                  [slingshot "0.12.2"]
                  [clj-time "0.9.0"]
                  [ring.middleware.logger "0.5.0" :exclusions [log4j]]
@@ -28,13 +29,13 @@
   :main wcig.run
   :resource-paths ["resources" "bower" "target/stencild"]
   :prep-tasks ["javac" "compile" "resource"]
-  :repositories
-  ^:replace
-  [["mirror-akolov" "http://nexus.akolov.com/content/repositories/central/"]
-   ["snapshots" "http://nexus.akolov.com/content/repositories/snapshots/"]
-   ["clojar-mirror" "https://clojars.org/repo"]             ;://nexus.akolov.com/content/repositories/clojars-mirror/"]
-   ["releases" "http://nexus.akolov.com/content/repositories/releases/"]]
-  :plugin-repositories ^:replace [["clojar-mirror" "https://clojars.org/repo"]] ;://nexus.akolov.com/content/repositories/clojars-mirror/"]]
+  ;:repositories
+  ;^:replace
+  ;[["mirror-akolov" "http://nexus.akolov.com/content/repositories/central/"]
+  ; ["snapshots" "http://nexus.akolov.com/content/repositories/snapshots/"]
+  ; ["clojar-mirror" "https://clojars.org/repo"]             ;://nexus.akolov.com/content/repositories/clojars-mirror/"]
+  ; ["releases" "http://nexus.akolov.com/content/repositories/releases/"]]
+  ;:plugin-repositories ^:replace [["clojar-mirror" "https://clojars.org/repo"]] ;://nexus.akolov.com/content/repositories/clojars-mirror/"]]
 
   :bower-dependencies [
                        [bootstrap "3.0.0"]

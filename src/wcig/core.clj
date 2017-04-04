@@ -2,7 +2,7 @@
   (:require
     [wcig.db :as db]
 
-    [jota.core :as log]
+    [taoensso.timbre :as log]
     [slingshot.slingshot :refer [throw+]]
     [wcig.util :refer :all]
     [wcig.connectors.google :as google]

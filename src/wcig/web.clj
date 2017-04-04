@@ -1,8 +1,8 @@
 (ns wcig.web
   (:require [compojure.route :as r]
-            [compojure.core :refer (GET POST ANY PUT DELETE OPTIONS defroutes)]
+            [compojure.core :refer (GET POST defroutes)]
             [compojure.handler :as handler]
-            [com.akolov.mirador.core :refer :all]
+            ;[com.akolov.mirador.core :refer :all]
 
 
             [cornet.core :as cc]
@@ -18,7 +18,7 @@
             [ring.middleware.json :refer [wrap-json-body]]
 
             [confiture.core :refer [value]]
-            [jota.core :as log]
+            [taoensso.timbre :as log]
 
             [org.httpkit.server :refer [run-server]]
 
@@ -126,9 +126,7 @@
                      (ring.middleware.params/wrap-params)
                      (wrap-json-body)
                      (ring.middleware.not-modified/wrap-not-modified)
-                     (watch-reload
-                       {:watcher (watcher-folder "resources")
-                        :uri     "/watch-reload"})
+                     ;(watch-reload {:watcher (watcher-folder "resources") :uri "/watch-reload"})
                      handler/site))
 
 (def app-prod (-> routes

@@ -6,7 +6,7 @@
     [wcig.dbbase :refer :all]
     [wcig.db :as db]
     [wcig.core :as core]
-    [jota.core :as log]))
+    [taoensso.timbre :as log]))
 
 (defn flight-duration [origin departureDateTime destination arrivalDateTime]
   (flight-duration-with-tz departureDateTime arrivalDateTime (db/airports-time-dif origin destination)))

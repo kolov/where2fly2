@@ -9,7 +9,7 @@
     [wcig.search :as search]
     [wcig.connectors.sherpa :as sherpa]
     [wcig.ref.init :as refinit]
-    [jota.core :as log]
+    [taoensso.timbre :as log]
     [clojure.edn :as edn])
   (:import (org.joda.time LocalDate DateTime)
            (java.util Date)
