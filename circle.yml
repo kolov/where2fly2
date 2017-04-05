@@ -4,7 +4,7 @@ machine:
   environment:
     PROJECT_NAME: iconic-setup-91510
     CLUSTER_NAME: cluster-1
-    CLOUDSDK_COMPUTE_ZONE: eu-west1-b
+    CLOUDSDK_COMPUTE_ZONE: europe-west1-b
 
 dependencies:
   pre:
@@ -22,5 +22,4 @@ dependencies:
     - lein uberjar
     - docker info
     - docker build --rm=false -t eu.gcr.io/iconic-setup-91510/where2fly2 .
-    - docker login -e 1234@5678.com -u oauth2accesstoken -p $GCLOUD_ACCESS_TOKEN https://eu.gcr.io
-    - docker push eu.gcr.io/iconic-setup-91510/where2fly2
+    - gcloud docker -- push eu.gcr.io/iconic-setup-91510/where2fly2
