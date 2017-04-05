@@ -2,6 +2,7 @@ FROM kolov/java8
 
 WORKDIR /app
 COPY target/*-standalone.jar app.jar
+COPY config/prod/wcig.edn .
 
 EXPOSE 3000
 
