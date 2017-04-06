@@ -22,4 +22,4 @@ dependencies:
     - lein uberjar
     - docker info
     - docker build --rm=false -t eu.gcr.io/iconic-setup-91510/where2fly2 .
-    - gcloud docker -- push eu.gcr.io/iconic-setup-91510/where2fly2
+    - sudo /opt/google-cloud-sdk/bin/gcloud docker -- push eu.gcr.io/iconic-setup-91510/where2fly2
