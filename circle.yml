@@ -27,6 +27,6 @@ dependencies:
 
 deployment:
   prod:
-    branch: master
+    branch: develop
     commands:
-      - ./deploy.sh
+      - ./deploy-dev.sh
