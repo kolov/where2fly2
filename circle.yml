@@ -23,8 +23,10 @@ dependencies:
     - docker info
     - docker build -t eu.gcr.io/${PROJECT_NAME}/where2fly2:$CIRCLE_SHA1  .
     - docker tag eu.gcr.io/${PROJECT_NAME}/where2fly2:$CIRCLE_SHA1 eu.gcr.io/${PROJECT_NAME}/where2fly2:latest
-    - sudo /opt/google-cloud-sdk/bin/gcloud --verbosity=debug docker -- push eu.gcr.io/${PROJECT_NAME}/where2fly2
-#   - sudo /opt/google-cloud-sdk/bin/gcloud docker -- push eu.gcr.io/${PROJECT_NAME}/where2fly2
+    - sudo /opt/google-cloud-sdk/bin/gcloud auth print-access-token > ${HOME}/gcloud-auth-token
+    - docker login -e 1234@5678.com -u oauth2accesstoken -p ${HOME}/gcloud-auth-token https://eu.gcr.io
+#    - sudo /opt/google-cloud-sdk/bin/gcloud --verbosity=debug docker -- push eu.gcr.io/${PROJECT_NAME}/where2fly2
+    - docker push eu.gcr.io/${PROJECT_NAME}/where2fly2
 
 deployment:
   prod:
