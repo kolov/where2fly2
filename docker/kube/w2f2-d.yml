@@ -10,8 +10,8 @@ spec:
         app: w2f2
     spec:
       containers:
-      - name: where2fly2
-        image: eu.gcr.io/iconic-setup-91510/where2fly2
+      - name: w2f2
+        image: eu.gcr.io/iconic-setup-91510/w2f2
         ports:
         - containerPort: 3000
         env:
