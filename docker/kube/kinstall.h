@@ -19,4 +19,3 @@ kubectl delete -f $PROJECT_ROOT/docker/kube/w2f2-d.yml
 kubectl apply -f $PROJECT_ROOT/docker/kube/w2f2-d.yml
 
 
-kubectl expose deployment where2fly2 --port=81 --target-port=3000 --name=where2fly2-lb --type=LoadBalancer
