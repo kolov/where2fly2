@@ -30,11 +30,11 @@ deployment:
   prod:
     branch: develop
     commands:
-#      - sudo /opt/google-cloud-sdk/bin/gcloud auth application-default login
-      - sudo chown -R ubuntu:ubuntu /home/ubuntu/.kube
-      - kubectl config set-cluster cluster-staging --embed-certs=true  --server=https://35.187.80.182 --certificate-authority=${HOME}/ca.crt
-      - kubectl config set-credentials circle-staging --token=$K8S_USER_TOKEN
-      - kubectl config set-context circle-staging --cluster=cluster-staging --user=circle-staging --namespace=circle
-      - kubectl config use-context circle-staging
+#      - sudo chown -R ubuntu:ubuntu /home/ubuntu/.kube
+#      - kubectl config set-cluster cluster-staging --embed-certs=true  --server=https://35.187.80.182 --certificate-authority=${HOME}/ca.crt
+#      - kubectl config set-credentials circle-staging --token=$K8S_USER_TOKEN
+#      - kubectl config set-context circle-staging --cluster=cluster-staging --user=circle-staging --namespace=default
+#      - kubectl config use-context circle-staging
+      - gcloud container clusters get-credentials cluster-1 --zone europe-west1-b --project iconic-setup-91510
       - kubectl delete deployment w2f2
       - kubectl apply -f docker/kube/w2f2-d.yml
