@@ -33,6 +33,7 @@ deployment:
     commands:
       - echo WHOAMI
       - whoami
+      - sudo cat ${HOME}/.kube/config
       - sudo chown -R ubuntu:ubuntu /home/ubuntu/.kube
       - kubectl delete deployment w2f2
       - kubectl apply -f docker/kube/w2f2-d.yml
