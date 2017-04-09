@@ -7,7 +7,7 @@ sudo chown -R ubuntu:ubuntu /home/ubuntu/.kube
 set GOOGLE_APPLICATION_CREDENTIALS=$HOME/gcloud-service-key.json
 echo $GOOGLE_APPLICATION_CREDENTIALS
 cat $GOOGLE_APPLICATION_CREDENTIALS
-sudo /opt/google-cloud-sdk/bin/gcloud auth activate-service-account --key-file ${HOME}/gcloud-service-key.json
+sudo /opt/google-cloud-sdk/bin/gcloud auth activate-service-account --client-id-file=${HOME}/gcloud-service-key.json --no-launch-browser
 echo Activated 1
 sudo /opt/google-cloud-sdk/bin/gcloud auth application-default login
 echo Activated 2
