@@ -3,7 +3,7 @@
 # Exit on any error
 set -e
 echo Starting deployment
-sudo chown -R ubuntu:ubuntu /home/ubuntu/.kube
+# sudo chown -R ubuntu:ubuntu /home/ubuntu/.kube
 set GOOGLE_APPLICATION_CREDENTIALS=$HOME/gcloud-service-key.json
 echo $GOOGLE_APPLICATION_CREDENTIALS
 cat $GOOGLE_APPLICATION_CREDENTIALS
