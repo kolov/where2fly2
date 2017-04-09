@@ -29,4 +29,7 @@ deployment:
   prod:
     branch: develop
     commands:
-      - ./deploy-dev.sh
+      - sudo /opt/google-cloud-sdk/bin/gcloud auth application-default login
+      - echo Activated
+      - kubectl delete deployment w2f2
+      - kubectl apply -f docker/kube/w2f2-d.yml
