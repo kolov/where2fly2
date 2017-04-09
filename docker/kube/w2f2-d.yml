@@ -30,3 +30,8 @@ spec:
             configMapKeyRef:
               name: w2f2-config
               key: google.client.secret
+        - name: GOOGLE_GEOCODING_KEY
+          valueFrom:
+            configMapKeyRef:
+              name: w2f2-config
+              key: google.geocoding.key
