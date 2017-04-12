@@ -34,4 +34,4 @@ deployment:
       - sudo /opt/google-cloud-sdk/bin/gcloud --verbosity=debug docker -- push eu.gcr.io/${PROJECT_NAME}/w2f2
       - sudo chown -R ubuntu:ubuntu /home/ubuntu/.kube
       - sudo chown -R $USER /home/ubuntu/.config
-      - kubectl patch deployment $APP_NAME -p '{"spec":{"template":{"spec":{"containers":[{"name":"$APP_NAME", "image":"eu.gcr.io/'"$PROJECT_NAME/$APP_NAME:$CIRCLE_SHA1"'"}]}}}}'
+      - kubectl patch deployment ${APP_NAME} -p '{"spec":{"template":{"spec":{"containers":[{"name":"'"${APP_NAME}"', "image":"eu.gcr.io/'"${PROJECT_NAME}/${APP_NAME}:${CIRCLE_SHA1}"'"}]}}}}'
