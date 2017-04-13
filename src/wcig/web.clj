@@ -2,7 +2,7 @@
   (:require [compojure.route :as r]
             [compojure.core :refer (GET POST defroutes)]
             [compojure.handler :as handler]
-            ;[com.akolov.mirador.core :refer :all]
+    ;[com.akolov.mirador.core :refer :all]
 
 
             [cornet.core :as cc]
@@ -34,7 +34,7 @@
             [wcig.dbbase :as dbbase]
             [wcig.core :as core]
             [wcig.jobs :refer [start-jobs]]
-            )
+            [wcig.fetchers :as fetchers])
   )
 
 
@@ -64,6 +64,8 @@
                                      response-ok)
                                  )
            (GET "/v1/update/transavia" _ (do (core/update-transavia-flightsinfo) response-ok))
+           (GET "/v1/update/qpx" _ (do (fetchers/fetch-holiday-itineraries "AMS" {:max-age 470 :limit 50 :groups "holiday"})
+                                       response-ok))
            (GET "/v1/inspiration" [code minDate maxDate] (svc/inspiration code minDate maxDate))
            (GET "/v1/destinations" [groups origins]
              (svc/respond-as-json (svc/destinations groups (parse-cs-strings origins))))
