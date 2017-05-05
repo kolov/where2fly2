@@ -1,8 +1,8 @@
 (ns wcig.data
   (:require
-    [clj-time.core :as t]
-    [wcig.util :refer :all]
-    )
+   [clj-time.core :as t]
+   [wcig.util :refer :all]
+   )
   (:import (org.joda.time DateTimeZone)))
 
 (def europe-airports [
@@ -16,94 +16,94 @@
                       "ATH"                                 ; stockholm
                       "AVN"                                 ; athens
                       "BCN"                                 ; avignon
-                      ; "AYT"                                 ;antalya
-                      ; "BJL"  ; banjul
-                      ;  "BOJ"                               ; burgas
+                                        ; "AYT"                                 ;antalya
+                                        ; "BJL"  ; banjul
+                                        ;  "BOJ"                               ; burgas
                       "BES"                                 ; barcelona
                       "BIO"                                 ; brest
                       "BLQ"                                 ; bilbao
                       "BSL"                                 ; boogna
-                      ; "BLL"                               ; billund
-                      ;"BRI" ; Bari
+                                        ; "BLL"                               ; billund
+                                        ;"BRI" ; Bari
                       "BUD"                                 ; Basel
                       "CMF"                                 ; budapest
-                      ; "CIA"
-                      ;  "CDG"
-                      ; "CEQ"                                 ; cannes
-                      ;   "CFU"                               ; Kerkyra
+                                        ; "CIA"
+                                        ;  "CDG"
+                                        ; "CEQ"                                 ; cannes
+                                        ;   "CFU"                               ; Kerkyra
                       "CTA"                                 ; chambery
                       "DBV"                                 ; Catania
-                      ; "EGC"
+                                        ; "EGC"
                       "DXB"                                 ; dubrovnik
                       "DUB"                                 ; dubai
-                      ;  "DIJ"                                 ; dijon
+                                        ;  "DIJ"                                 ; dijon
                       "DXB"                                 ; dublin
                       "EDI"                                 ; edinbourg
-                      ;"ESU"
+                                        ;"ESU"
                       "FAO"                                 ;faro
                       "FCO"                                 ;fiumicino
-                      ; "FDH"                    ; friedrichshaven
+                                        ; "FDH"                    ; friedrichshaven
                       "FNC"                                 ; funchal
                       "FUE"                                 ; fuerteventura
                       "GNB"                                 ; grenoble
                       "GOA"                                 ; genova
                       "GRO"                                 ;girona
                       "GVA"                                 ; geneve
-                      ; "HEL"                               ; helsinki
-                      ; "HER" ' heraklion
+                                        ; "HEL"                               ; helsinki
+                                        ; "HER" ' heraklion
                       "IBZ"
                       "INN"
-                      ; "JMK" mykonos
-                      ; "JTR" thira
-                      ; "KGS"                                 ; kos
+                                        ; "JMK" mykonos
+                                        ; "JTR" thira
+                                        ; "KGS"                                 ; kos
                       "KUN"                                 ; Krakow
                       "KRK"                                 ; Krakow
-                      ; "LCA"                                 ; Larnaca
+                                        ; "LCA"                                 ; Larnaca
                       "LCY"                                 ;London City
                       "LIN"                                 ; milano linate
                       "LIS"
                       "LHR"
-                      ; "LPA"                                 ; las palmas
-                      ;"LWG"
-                      ;"LTN"
+                                        ; "LPA"                                 ; las palmas
+                                        ;"LWG"
+                                        ;"LTN"
                       "MAD"                                 ; madrid
-                      ; "MLA"                               ; malta
+                                        ; "MLA"                               ; malta
                       "MPL"                                 ; montpellier
                       "MUC"
                       "MRS"                                 ; marseille
                       "MXP"                                 ; milano
                       "NAP"
-                      ; "NBE" enfidha
+                                        ; "NBE" enfidha
                       "NCE"
                       "NTE"                                 ; nantes
                       "ORK"                                 ;cork
                       "OSL"
                       "OPO"                                 ; Porto
                       "ORY"
-                      ;"PMI"                                 ; palma de mallorca
+                                        ;"PMI"                                 ; palma de mallorca
                       "PGF"                                 ; perpignan
                       "PRG"
                       "PSA"                                 ;pisa
-                      ; "PXO"
-                      ;  "RHE"                                 ; reims
+                                        ; "PXO"
+                                        ;  "RHE"                                 ; reims
                       "SOF"
                       "SPU"                                 ; split
                       "SVQ"                                 ; sevilla
                       "SZG"                                 ; salzburg
-                      ;"SOU"
-                      ;"STN"
+                                        ;"SOU"
+                                        ;"STN"
 
-                      ; "TFS"                                 ;tenerife
+                                        ; "TFS"                                 ;tenerife
                       "TLL"                                 ;talinn
                       "TXL"                                 ; tegel
-                      ; "TLV"
+                                        ; "TLV"
                       "TRN"
-                      ;"TUN"
+                                        ;"TUN"
                       "VCE"                                 ; venice
                       "VIE"                                 ; vienna
                       "VLC"                                 ; valencia
-                      ; "VRN"                               ; varna
-                      ;         "VXE"
+                                        ; "VRN"                               ; varna
+                                        ;         "VXE"
                       "WAW"                                 ; warsaw
                       "ZRH"])
 
@@ -111,30 +111,30 @@
 
 (def holiday-airports [
                        "AUA"                                ; aruba
-                       ;   "BON"                                ; bonaire
+                                        ;   "BON"                                ; bonaire
                        "BKK"                                ; bangkok
                        "CUR"                                ; curacao
                        "DAD"                                ; Denpasar
                        "HAN"                                ; hanoi
                        "DPS"                                ; bali
                        "HKG"                                ; hong kong
-                       ;    "NYC"
-                       ;        "MIA"                                ; miami
+                                        ;    "NYC"
+                                        ;        "MIA"                                ; miami
                        "MLE"                                ; Male
                        "MRU"                                ; mauritsius
                        "PEK"                                ; beijing
                        "PUJ"                                ; punta cana
                        "PVG"                                ; shanghai
                        "SGN"                                ; ho chi min
-                       ; madeira
+                                        ; madeira
                        "RIO"                                ; rio
-                       ; kho thau
-                       ; ko samui
+                                        ; kho thau
+                                        ; ko samui
                        "SEZ"                                ; seychelles
-                       ;  "SXM"                                ; st maarten
-                       ;        "TAB"                                ; tobago
+                                        ;  "SXM"                                ; st maarten
+                                        ;        "TAB"                                ; tobago
                        "TFS"                                ; tenerife
-                       ; "USM"                                ; kho samui
+                                        ; "USM"                                ; kho samui
                        ])
 
 (def all-airports (concat europe-airports holiday-airports))
@@ -144,20 +144,39 @@
 (def holidays [
 
                {
-                :id         "KER1" :name "Kerstvakantie 2"
-                :start-date "2017-1-2" :end-date "2017-1-8"
-                :groups     #{"transavia" "holiday"}
-                }
-               {
                 :id         "WIN1" :name "Wintervakantie"
-                :start-date "2017-2-18" :end-date "2017-2-26"
+                :start-date "2017-2-18" :end-date "2017-2-25"
+                :groups     #{"transavia" "holiday"}
+                },
+               {
+                :id "PAA1" :name "Pasen"
+                :start-date "2017-04-14" :end-date "2017-04-17"
                 :groups     #{"transavia" "holiday"}
                 }
-              {
-                :id         "WIN1" :name "Meivakantie"
-                :start-date "2017-4-22" :end-date "2017-5-6"
+
+
+               {
+                :id         "MEI" :name "Meivakantie"
+                :start-date "2017-4-22" :end-date "2017-04-30"
                 :groups     #{"transavia" "holiday"}
-                }
+                },
+               { :id "PIN" :name "Pinksteren"
+                :start-date "2017-06-03" :end-date "2017-06-05"
+                :groups     #{"transavia" "holiday"}
+                },
+               { :id "ZOM1" :name "Zomervakantiei 1"
+                :start-date "2017-07-22" :end-date "2017-08-05"
+                :groups     #{"transavia" "holiday"}
+                },
+               { :id "ZOM2" :name "Zomervakantie 2"
+                :start-date "2017-08-05" :end-date "2017-08-19"
+                :groups     #{"transavia" "holiday"}
+                },
+
+               { :id "ZO32" :name "Zomervakantie 3"
+                :start-date "2017-08-19" :end-date "2017-09-02"
+                :groups     #{"transavia" "holiday"}
+                },
 
                ])
 
@@ -165,3 +184,4 @@
 
 
 
+ 

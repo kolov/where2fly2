@@ -4,7 +4,7 @@
     [monger.core :as mg]
     [monger.operators :refer :all]
     [monger.joda-time]
-    [jota.core :as log]
+    [taoensso.timbre :as log]
     [wcig.util :refer :all])
   (:import (org.joda.time DateTimeZone)
            ))

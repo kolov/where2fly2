@@ -5,7 +5,7 @@
     [monger.query :as q]
     [monger.operators :refer :all]
     [monger.joda-time]
-    [jota.core :as log]
+    [taoensso.timbre :as log]
     [wcig.dbbase :refer :all]
     [wcig.util :refer :all]
     [wcig.data :as data])

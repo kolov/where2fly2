@@ -1,12 +1,11 @@
 apiVersion: v1
 kind: Service
 metadata:
-  labels:
-    name: mongo
-  name: mongo
+  name: mongo-w2f2
 spec:
   ports:
-    - port: 27017
+    - name: mongo-w2f2
+      port: 27017
       targetPort: 27017
   selector:
-    name: mongo
+    app: mongo-w2f2

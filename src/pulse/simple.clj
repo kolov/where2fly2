@@ -8,7 +8,7 @@
             [monger.joda-time]
             [monger.query :as q]
             [pulse.util :refer :all]
-            [jota.core :as log]
+            [taoensso.timbre :as log]
             )
   (:import (org.bson.types ObjectId)))
 

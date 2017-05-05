@@ -6,7 +6,7 @@
     [wcig.util :refer :all]
     [wcig.data :as data]
     [slingshot.slingshot :refer [throw+]]
-    [jota.core :as log]
+    [taoensso.timbre :as log]
     [wcig.search :as search])
   (:import (org.joda.time LocalDate DateTime Days Period)
            )
