@@ -46,9 +46,6 @@
 
 (defroutes routes
 
-           (GET "/loaderio-e7f18d2d79fb6a6157e537f35b07bec8/" req {:body "loaderio-e7f18d2d79fb6a6157e537f35b07bec8"
-                                                                   :status 200})
-
            (GET "/" req (if (svc/is-mobile-browser? req)
                           (tmpl/mobile-template)
                           (tmpl/main req @appmode)))
@@ -58,14 +55,16 @@
            (GET "/about" req (tmpl/about req @appmode))
            (GET "/stats" req (tmpl/stats req @appmode))
 
-           (GET "/v1/init/db" [] (do (init/update-airports-missing-tz)
-                                     (core/update-transavia-routes)
-                                     (core/update-transavia-flightsinfo)
-                                     response-ok)
-                                 )
-           (GET "/v1/update/transavia" _ (do (core/update-transavia-flightsinfo) response-ok))
-           (GET "/v1/update/qpx" _ (do (fetchers/fetch-holiday-itineraries "AMS" {:max-age 470 :limit 50 :groups "holiday"})
-                                       response-ok))
+           (GET (str "/" (value :cmd.secret) "/init/db") [] (do (init/update-airports-missing-tz)
+                                                                (core/update-transavia-routes)
+                                                                (core/update-transavia-flightsinfo)
+                                                                response-ok)
+                                                            )
+           (GET (str "/" (value :cmd.secret) "/update/transavia") _ (do (core/update-transavia-flightsinfo) response-ok))
+           (GET (str "/" (value :cmd.secret) "/update/qpx") _ (do (fetchers/fetch-holiday-itineraries "AMS"
+                                                                                                      {:max-age 470 :limit 50 :groups "holiday"})
+                                                                  response-ok))
+
            (GET "/v1/inspiration" [code minDate maxDate] (svc/inspiration code minDate maxDate))
            (GET "/v1/destinations" [groups origins]
              (svc/respond-as-json (svc/destinations groups (parse-cs-strings origins))))
