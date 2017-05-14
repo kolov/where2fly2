@@ -143,27 +143,6 @@
 
 (def holidays [
 
-               {
-                :id         "WIN1" :name "Wintervakantie"
-                :start-date "2017-2-18" :end-date "2017-2-25"
-                :groups     #{"transavia" "holiday"}
-                },
-               {
-                :id "PAA1" :name "Pasen"
-                :start-date "2017-04-14" :end-date "2017-04-17"
-                :groups     #{"transavia" "holiday"}
-                }
-
-
-               {
-                :id         "MEI" :name "Meivakantie"
-                :start-date "2017-4-22" :end-date "2017-04-30"
-                :groups     #{"transavia" "holiday"}
-                },
-               { :id "PIN" :name "Pinksteren"
-                :start-date "2017-06-03" :end-date "2017-06-05"
-                :groups     #{"transavia" "holiday"}
-                },
                { :id "ZOM1" :name "Zomervakantiei 1"
                 :start-date "2017-07-22" :end-date "2017-08-05"
                 :groups     #{"transavia" "holiday"}
