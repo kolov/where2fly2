@@ -33,7 +33,7 @@
             [pulse.core :as p]
             [wcig.dbbase :as dbbase]
             [wcig.core :as core]
-            [wcig.jobs :refer [start-jobs]]
+            [wcig.jobs :refer [schedule-jobs]]
             [wcig.fetchers :as fetchers])
   )
 
@@ -155,7 +155,7 @@
    (log/debug "db initialized: " @dbbase/db)
    (p/set-pulse! (simple/create-pulse-simple host port))
    (lr/register-listeners)
-   (start-jobs)
+   (schedule-jobs)
    (update-airports-missing-tz))
   ([] (init-app "localhost" 27017))
   )
