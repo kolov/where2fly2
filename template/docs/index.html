@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>where2fly2</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="where2fly2">
+  <meta name="author" content="Jan Enning">
+  <link href="css/main.css" rel="stylesheet">
+  <script src="js/main.js"></script>
+</head>
+
+<body>
+
+  <div class="flex-3">
+  <div class="panel panel-default panel--dropshadow">
+    <div class="panel-body">
+
+      <!-- Nav tabs -->
+      <ul class="nav nav-tabs" role="tablist" id="myTabs">
+        <li role="presentation" class="active"><a href="#transavia" aria-controls="transavia" role="tab" data-toggle="tab">Transavia</a></li>
+        <li role="presentation"><a href="#world" aria-controls="world" role="tab" data-toggle="tab">World wide</a></li>
+      </ul>
+
+      <!-- Tab panes -->
+      <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="transavia">
+
+          <form>
+
+            <div class="form-group">
+              <legend>Fly from</legend>
+              <div class="checkbox checkbox-slider--b">
+                <label>
+                  <input type="checkbox"><span>Rotterdam</span>
+                </label>
+              </div>
+              <div class="checkbox checkbox-slider--b">
+                <label>
+                  <input type="checkbox"><span>Amsterdam</span>
+                </label>
+              </div>
+              <div class="checkbox checkbox-slider--b">
+                <label>
+                  <input type="checkbox"><span>Winssen</span>
+                </label>
+              </div>
+              <div class="checkbox checkbox-slider--b">
+                <label>
+                  <input type="checkbox"><span>Dronten</span>
+                </label>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <legend>Flight dates (Fri - Sun)</legend>
+              <div class="checkbox checkbox-slider--b">
+                <label>
+                  <input type="checkbox"><span>19-May - 21-May</span>
+                </label>
+              </div>
+              <div class="checkbox checkbox-slider--b">
+                <label>
+                  <input type="checkbox"><span>19-May - 21-May</span>
+                </label>
+              </div>
+              <div class="checkbox checkbox-slider--b">
+                <label>
+                  <input type="checkbox"><span>19-May - 21-May</span>
+                </label>
+              </div>
+              <div class="checkbox checkbox-slider--b">
+                <label>
+                  <input type="checkbox"><span>19-May - 21-May</span>
+                </label>
+              </div>
+            </div>
+          </form>
+
+        </div>
+        <div role="tabpanel" class="tab-pane" id="world">...</div>
+      </div>
+
+
+    </div>
+
+
+  </div>
+</div>
+
+
+
+
+<div id="map"></div>
+
+<script>
+  function initMap() {
+    var uluru = {lat: -25.363, lng: 131.044};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 4,
+      center: uluru
+    });
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+  }
+</script>
+
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB8Dfxeu4g4YZSoNZLSmc8AcAwmrCKJmZQ&callback=initMap" type="text/javascript"></script>
+</body>
+</html>
+

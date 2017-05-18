@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>where2fly2</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="where2fly2">
+  <meta name="author" content="Jan Enning">
+  <link href="css/main.css" rel="stylesheet">
+  <script src="js/main.js"></script>
+</head>
+
+<body>
+
+  @@include('_includes/panel.html')
+
+
+<div id="map"></div>
+
+<script>
+  function initMap() {
+    var uluru = {lat: -25.363, lng: 131.044};
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 4,
+      center: uluru
+    });
+    var marker = new google.maps.Marker({
+      position: uluru,
+      map: map
+    });
+  }
+</script>
+
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB8Dfxeu4g4YZSoNZLSmc8AcAwmrCKJmZQ&callback=initMap" type="text/javascript"></script>
+</body>
+</html>
+
