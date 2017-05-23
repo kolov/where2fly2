@@ -9,7 +9,6 @@
                  [org.clojure/data.json "0.2.6"]
                  [com.novemberain/monger "2.0.0"]
                  [clj-http "2.2.0"]
-                 [com.akolov/mirador "0.2.1"]
                  [jarohen/chime "0.2.1"]
                  [compojure "1.3.3"]
                  [com.taoensso/timbre "4.8.0"]
@@ -31,7 +30,6 @@
   :prep-tasks ["javac" "compile" "resource"]
   :bower-dependencies [
                        [bootstrap "3.0.0"]
-                       [angular-ui-codemirror "0.1.7"]
                        [bootstrap-social "latest"]
                        [angular "1.2.19"]
                        [angular-route "1.2.19"]
@@ -57,7 +55,6 @@
              :resource-paths ["src/to_stencil"]             ;; required or does nothing
              :target-path    "target/stencild"              ;; optional default to the global one
              :update         false                          ;; if true only process files with src newer than dest
-
              }
   :cljsbuild {
               :builds [{

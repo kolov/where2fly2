@@ -70,6 +70,8 @@
              (svc/respond-as-json (svc/destinations groups (parse-cs-strings origins))))
            (GET "/v1/config" [cfg :as req]
              (svc/respond-as-json (svc/get-configuration cfg (:server-name req))))
+           (GET "/v1/configs" _
+             (svc/respond-as-json svc/configurations))
            (GET "/v1/airport/:code" [code] (svc/origin code))
            (GET "/v1/itineraries/origin/:origin/group/:group/out/:out-date/in/:in-date"
                 [origin out-date in-date around group]
@@ -90,8 +92,8 @@
            ; dates
            (GET "/v1/weekends" [origins groups] (svc/available-weekends-from origins groups))
            (GET "/v1/holidays" [origins groups] (svc/available-holidays-from origins groups))
-           (GET "/v1/invalidate-all" req (do (dbmemo/invalidate-all-calls) response-ok))
-           (GET "/v1/invalidate/:name" req (do (dbmemo/invalidate-call name) response-ok))
+           (GET "/v1/invalidate-all" _ (do (dbmemo/invalidate-all-calls) response-ok))
+           (GET "/v1/invalidate/:name" _ (do (dbmemo/invalidate-call name) response-ok))
            (POST "/v1/evt" req (do (svc/log-user-event req) response-ok))
            (GET "/v1/events" req (svc/get-user-events))
 
@@ -123,11 +125,11 @@
 
 (def app-develop (-> #'routes
                      (ring.middleware.reload/wrap-reload)
-                     (com.akolov.enlive-reload/wrap-enlive-reload)
+                     (com.akolov.enlive-reload/wrap-enlive-reload )
                      (ring.middleware.params/wrap-params)
                      (wrap-json-body)
                      (ring.middleware.not-modified/wrap-not-modified)
-                     ;(watch-reload {:watcher (watcher-folder "resources") :uri "/watch-reload"})
+                    ; (watch-reload {:watcher (watcher-folder "resources") :uri "/watch-reload"})
                      handler/site))
 
 (def app-prod (-> routes

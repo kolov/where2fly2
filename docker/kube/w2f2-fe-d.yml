@@ -1,0 +1,17 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: w2f2-fe
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: w2f2-fe
+    spec:
+      containers:
+      - name: w2f2-fe
+        image: eu.gcr.io/iconic-setup-91510/w2f2-fe:latest
+        ports:
+        - containerPort: 80
+
