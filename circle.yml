@@ -9,10 +9,7 @@ machine:
 
 dependencies:
 #  pre:
-
-
   override:
-    - lein bower install
     - lein uberjar
 
 deployment:

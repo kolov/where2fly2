@@ -2,9 +2,6 @@
   (:require [compojure.route :as r]
             [compojure.core :refer (GET POST defroutes)]
             [compojure.handler :as handler]
-    ;[com.akolov.mirador.core :refer :all]
-
-
             [cornet.core :as cc]
             [cornet.route :as cr]
 
@@ -12,7 +9,6 @@
             [ring.middleware.session]
             [ring.middleware.cookies]
             [ring.middleware.reload]
-            [com.akolov.enlive-reload]
             [ring.middleware.not-modified]
             [ring.middleware.params :refer [wrap-params]]
             [ring.middleware.json :refer [wrap-json-body]]
@@ -28,7 +24,6 @@
             [wcig.util :refer :all]
             [wcig.ref.init :refer :all]
             [wcig.listeners.register :as lr]
-            [wcig.templates :as tmpl]
             [pulse.simple :as simple]
             [pulse.core :as p]
             [wcig.dbbase :as dbbase]
@@ -46,14 +41,7 @@
 
 (defroutes routes
 
-           (GET "/" req (if (svc/is-mobile-browser? req)
-                          (tmpl/mobile-template)
-                          (tmpl/main req @appmode)))
-           (GET "/m" req (tmpl/main req @appmode))
            (GET "/v" req (slurp (clojure.java.io/resource "buildtime")))
-           (GET "/disclaimer" req (tmpl/disclaimer req @appmode))
-           (GET "/about" req (tmpl/about req @appmode))
-           (GET "/stats" req (tmpl/stats req @appmode))
 
            (GET (str "/" (value :cmd.secret) "/init/db") [] (do (init/update-airports-missing-tz)
                                                                 (core/update-transavia-routes)
@@ -104,8 +92,6 @@
                                           )})
 
            (cr/wrap-url-response (cc/static-assets-loader "/s" :mode :prod))
-           (r/resources "/static" {:root "public"})
-           (r/resources "/bower" {:root "components"})
            (r/not-found (resp/file-response "not-found.html" {:root "resources/private"}))
 
            )
@@ -125,11 +111,9 @@
 
 (def app-develop (-> #'routes
                      (ring.middleware.reload/wrap-reload)
-                     (com.akolov.enlive-reload/wrap-enlive-reload )
                      (ring.middleware.params/wrap-params)
                      (wrap-json-body)
                      (ring.middleware.not-modified/wrap-not-modified)
-                    ; (watch-reload {:watcher (watcher-folder "resources") :uri "/watch-reload"})
                      handler/site))
 
 (def app-prod (-> routes
