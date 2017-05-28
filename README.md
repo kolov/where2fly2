@@ -10,9 +10,13 @@ Unfortunaltely, this date is not enough for a good search.
 
 ## Build and run
 
-    lein bower install
+    lein uberjar
     
-From REPL, start `wcig.web.start-dev`.
+From REPL, start `wcig.web.start-server`:
+
+    wcig.run=> (use 'wcig.web)
+    wcig.run=> (start-server :dev 3002 "localhost" 27017)
+    
 Or, after build:
 
    -java -cp [uberjar, config files...] wcig.run :prod 3030 localhost 27017

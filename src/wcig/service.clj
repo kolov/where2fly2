@@ -157,8 +157,8 @@
    :holiday-price-min         200
    :holiday-price-max         3000
    :holiday-price             2500
-   :holiday-out-range         [0, 24]
-   :holiday-in-range          [0, 24]
+   :holiday-out-range         [-6, 36]
+   :holiday-in-range          [8, 36]
    :holiday-price-color-low   250
    :holiday-price-color-high  550
    :holiday-out-departure-min -48
@@ -176,8 +176,8 @@
    :weekend-price-min         60
    :weekend-price-max         1200
    :weekend-price             400
-   :weekend-out-range         [0, 24]
-   :weekend-in-range          [0, 24]
+   :weekend-out-range         [18,36]
+   :weekend-in-range          [9, 23]
    :weekend-price-color-low   80
    :weekend-price-color-high  450
    :weekend-out-departure-min -48
@@ -201,8 +201,8 @@
    :holiday-price-min         200
    :holiday-price-max         3000
    :holiday-price             2500
-   :holiday-out-range         [0, 24]
-   :holiday-in-range          [-24, 24]
+   :holiday-out-range         [-6, 47]
+   :holiday-in-range          [-14, 36]
    :holiday-price-color-low   450
    :holiday-price-color-high  1250
    :holiday-out-departure-min -24
