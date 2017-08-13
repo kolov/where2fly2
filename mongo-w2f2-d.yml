@@ -1,0 +1,24 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: mongo-w2f2
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: mongo-w2f2
+    spec:
+      volumes:
+        - name: mongo-w2f2
+          persistentVolumeClaim:
+            claimName: mongo-w2f2
+      containers:
+      - name: mongo-w2f2
+        image: mongo:3.0
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 27017
+        volumeMounts:
+          - name: mongo-w2f2
+            mountPath: /data/db
