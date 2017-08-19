@@ -1,0 +1,39 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: %APP_NAME%
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: %APP_NAME%
+    spec:
+      containers:
+      - name: %APP_NAME%
+        image:  %REGISTRY%/%APP_NAME%:%VERSION%
+        ports:
+        - containerPort: 3000
+        env:
+        - name: TRANSAVIA_SECRET
+          valueFrom:
+            configMapKeyRef:
+              name: curri
+              key: transavia.secret
+        - name: TRANSAVIA_KEY
+          valueFrom:
+            configMapKeyRef:
+              name: curri
+              key: transavia.key
+        - name: GOOGLE_CLIENT_SECRET
+          valueFrom:
+            configMapKeyRef:
+              name: curri
+              key: google.client.secret
+        - name: GOOGLE_GEOCODING_KEY
+          valueFrom:
+            configMapKeyRef:
+              name: curri
+              key: google.geocoding.key
+        - name: TIMBRE_LEVEL
+          value: ":debug"
