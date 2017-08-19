@@ -43,13 +43,13 @@
 
            (GET "/v" req (slurp (clojure.java.io/resource "buildtime")))
 
-           (GET (str "/" (value :cmd.secret) "/init/db") [] (do (init/update-airports-missing-tz)
+           (GET (str "/" (value :cmd-secret) "/init/db") [] (do (init/update-airports-missing-tz)
                                                                 (core/update-transavia-routes)
                                                                 (core/update-transavia-flightsinfo)
                                                                 response-ok)
                                                             )
-           (GET (str "/" (value :cmd.secret) "/update/transavia") _ (do (core/update-transavia-flightsinfo) response-ok))
-           (GET (str "/" (value :cmd.secret) "/update/qpx") _ (do (fetchers/fetch-holiday-itineraries "AMS"
+           (GET (str "/" (value :cmd-secret) "/update/transavia") _ (do (core/update-transavia-flightsinfo) response-ok) )
+           (GET (str "/" (value :cmd-secret) "/update/qpx") _ (do (fetchers/fetch-holiday-itineraries "AMS"
                                                                                                       {:max-age 470 :limit 50 :groups "holiday"})
                                                                   response-ok))
 
