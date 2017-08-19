@@ -3,7 +3,7 @@ machine:
     - docker
   environment:
     APP_NAME: w2f2
-    BUILT_TARGET_DIR: .
+    BUILD_TARGET_DIR: .
 
 dependencies:
 #  pre:
