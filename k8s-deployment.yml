@@ -18,22 +18,22 @@ spec:
         - name: TRANSAVIA_SECRET
           valueFrom:
             configMapKeyRef:
-              name: curri
+              name: w2f2-config
               key: transavia.secret
         - name: TRANSAVIA_KEY
           valueFrom:
             configMapKeyRef:
-              name: curri
+              name: w2f2-config
               key: transavia.key
         - name: GOOGLE_CLIENT_SECRET
           valueFrom:
             configMapKeyRef:
-              name: curri
+              name: w2f2-config
               key: google.client.secret
         - name: GOOGLE_GEOCODING_KEY
           valueFrom:
             configMapKeyRef:
-              name: curri
+              name: w2f2-config
               key: google.geocoding.key
         - name: TIMBRE_LEVEL
           value: ":debug"
