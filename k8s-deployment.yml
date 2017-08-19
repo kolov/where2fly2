@@ -35,5 +35,10 @@ spec:
             configMapKeyRef:
               name: w2f2-config
               key: google.geocoding.key
+        - name: COMMAND_SECRET
+          valueFrom:
+            configMapKeyRef:
+              name: w2f2-config
+              key: command.secret
         - name: TIMBRE_LEVEL
           value: ":debug"
