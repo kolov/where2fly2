@@ -11,8 +11,9 @@ jobs:
       - checkout
       - run: lein uberjar
   deploy:
-    docker:
-      - image: buildpack-deps:trusty
+    machine:
+      services:
+        - docker
     steps:
       - checkout
       - run: wget https://raw.githubusercontent.com/kolov/k8s-stuff/master/circleci/deploy-aws.sh
@@ -27,4 +28,4 @@ workflows:
   build_and_test:
     jobs:
       - build
-      - test
+      - deploy
