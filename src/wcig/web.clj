@@ -164,6 +164,7 @@
 (defn start-server [mode port dbhost dbport]
   "Start the right configm depending on app-env"
   (println "Starting application in mode [" mode "]")
+  (println (str "Initialize DB with " (str "/" (value :cmd-secret) "/init/db")))
   (reset! appmode mode)
   (init-app (str dbhost) dbport)
   (let [

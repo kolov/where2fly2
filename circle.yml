@@ -5,6 +5,7 @@ machine:
     APP_NAME: w2f2
     BUILD_TARGET_DIR: .
     K8S_DEPLOYMENT: k8s/w2f2-d.yml
+    K8S_SERVICE: k8s/w2f2-s.yml
 dependencies:
 #  pre:
   override:
