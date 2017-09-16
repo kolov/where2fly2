@@ -1,31 +1,19 @@
-version: 2
+machine:
+  services:
+    - docker
+  environment:
+    APP_NAME: w2f2
+    BUILD_TARGET_DIR: .
+    K8S_DEPLOYMENT: k8s/w2f2-d.yml
+dependencies:
+#  pre:
+  override:
+    - lein uberjar
 
-jobs:
-  build:
-    docker:
-      - image: buildpack-deps:trusty
-     environment:
-        APP_NAME: w2f2
-        BUILD_TARGET_DIR: .
-    steps:
-      - checkout
-      - run: lein uberjar
-  deploy:
-    machine:
-      services:
-        - docker
-    steps:
-      - checkout
-      - run: wget https://raw.githubusercontent.com/kolov/k8s-stuff/master/circleci/deploy-aws.sh
-      - run: chmod +x deploy-aws.sh
-      - run: ./deploy-aws.sh
-    branches:
-      only:
-        - workflows
-
-workflows:
-  version: 2
-  build_and_test:
-    jobs:
-      - build
-      - deploy
+deployment:
+  prod:
+    branch: master
+    commands:
+      - wget https://raw.githubusercontent.com/kolov/k8s-stuff/master/circleci/deploy-aws.sh
+      - chmod +x deploy-aws.sh
+      - ./deploy-aws.sh
