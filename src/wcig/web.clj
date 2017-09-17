@@ -41,15 +41,15 @@
 
 (defroutes routes
 
-           (GET "/v" req (slurp (clojure.java.io/resource "buildtime")))
+           (GET "/v1/v" req (slurp (clojure.java.io/resource "buildtime")))
 
-           (GET (str "/" (value :cmd-secret) "/init/db") [] (do (init/update-airports-missing-tz)
+           (GET (str "/v1/" (value :cmd-secret) "/init/db") [] (do (init/update-airports-missing-tz)
                                                                 (core/update-transavia-routes)
                                                                 (core/update-transavia-flightsinfo)
                                                                 response-ok)
                                                             )
-           (GET (str "/" (value :cmd-secret) "/update/transavia") _ (do (core/update-transavia-flightsinfo) response-ok) )
-           (GET (str "/" (value :cmd-secret) "/update/qpx") _ (do (fetchers/fetch-holiday-itineraries "AMS"
+           (GET (str "/v1/" (value :cmd-secret) "/update/transavia") _ (do (core/update-transavia-flightsinfo) response-ok) )
+           (GET (str "/v1/" (value :cmd-secret) "/update/qpx") _ (do (fetchers/fetch-holiday-itineraries "AMS"
                                                                                                       {:max-age 470 :limit 50 :groups "holiday"})
                                                                   response-ok))
 
@@ -164,7 +164,7 @@
 (defn start-server [mode port dbhost dbport]
   "Start the right configm depending on app-env"
   (println "Starting application in mode [" mode "]")
-  (println (str "Initialize DB with " (str "/" (value :cmd-secret) "/init/db")))
+  (println (str "Initialize DB with " (str "/v1/" (value :cmd-secret) "/init/db")))
   (reset! appmode mode)
   (init-app (str dbhost) dbport)
   (let [
